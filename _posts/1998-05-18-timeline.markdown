@@ -1,0 +1,62 @@
+--- 
+wordpress_id: 246
+layout: post
+title: Timeline
+excerpt: |-
+  Timeline for the new site:
+  <pre>
+  19  May  Copyright page.
+  27  May  Frame popping.
+  31  May  Email/ICQ contact form
+   1 June  Site Map
+   2 June  Web stuff buttons/java things written
+   3 June  Create web stuff mainpage
+   4 June  Create web site gallery pages
+   6 June  Web design pages
+   8 June  How this site was made
+   9 June  Style guides
+  10 June  web usability
+  11 June  What's new.
+  12 June  Humor page
+  15 June  Rewrite RSG in PHP3 (with help from Nada)
+  16 June  RSG Information page
+  17 June  Links page and add-a-ma-tron.
+  18 June  Survey Script (with help from Jason Waye)
+  21 June  Education site....
+  22 June  Add people to friends page
+  23 June  Scan pictures
+  24 June  Window closing script (I need help on this).
+  26 June  Add more people to friends page
+  27 June  Beta testing of site begins
+   9 July  Site is copied to root directory and replaces ftmax.com/ and ftmax.com/x
+  </pre>
+  We'll see if I keep on track with this schedule... I'll update a lot.
+---
+Timeline for the new site:
+<pre>
+19  May  Copyright page.
+27  May  Frame popping.
+31  May  Email/ICQ contact form
+ 1 June  Site Map
+ 2 June  Web stuff buttons/java things written
+ 3 June  Create web stuff mainpage
+ 4 June  Create web site gallery pages
+ 6 June  Web design pages
+ 8 June  How this site was made
+ 9 June  Style guides
+10 June  web usability
+11 June  What's new.
+12 June  Humor page
+15 June  Rewrite RSG in PHP3 (with help from Nada)
+16 June  RSG Information page
+17 June  Links page and add-a-ma-tron.
+18 June  Survey Script (with help from Jason Waye)
+21 June  Education site....
+22 June  Add people to friends page
+23 June  Scan pictures
+24 June  Window closing script (I need help on this).
+26 June  Add more people to friends page
+27 June  Beta testing of site begins
+ 9 July  Site is copied to root directory and replaces ftmax.com/ and ftmax.com/x
+</pre>
+We'll see if I keep on track with this schedule... I'll update a lot.

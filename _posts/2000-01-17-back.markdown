@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 368
+layout: post
+title: Back
+excerpt: I'm back from Germany and my trip was just wonderful.  I'll type up a nice little documentation of my experiences and set up a little "travel guide" so people can get a glimpse of what fun Germany was.  My brother and sister-in-law will be back next week whence I will be mailed copies of the photographs taken.  Any recommendations for a good digital or advantix camera?
+---
+I'm back from Germany and my trip was just wonderful.  I'll type up a nice little documentation of my experiences and set up a little "travel guide" so people can get a glimpse of what fun Germany was.  My brother and sister-in-law will be back next week whence I will be mailed copies of the photographs taken.  Any recommendations for a good digital or advantix camera?

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 270
+layout: post
+title: Marc
+excerpt: Well apparently Adam liked his <a href="http://www.engelbot.com">gift</a>.  Perhaps one of the "geekiest" gifts you could recieve or give.<p>Marc Gutman is a cool person, just because he called me a few minutes ago and knew I needed a ride somewhere.  I never told him anything about needing a ride.  Unfortunately he called a few minutes too late, because Molly's going to pick me up, but she has to drive from "House."  The thing is, riding with Gutman to Shoreview seems so much more nostalgic.  That, and we can talk like guys and be rude.  We're just fuckers who fuck around.
+---
+Well apparently Adam liked his <a href="http://www.engelbot.com">gift</a>.  Perhaps one of the "geekiest" gifts you could recieve or give.<p>Marc Gutman is a cool person, just because he called me a few minutes ago and knew I needed a ride somewhere.  I never told him anything about needing a ride.  Unfortunately he called a few minutes too late, because Molly's going to pick me up, but she has to drive from "House."  The thing is, riding with Gutman to Shoreview seems so much more nostalgic.  That, and we can talk like guys and be rude.  We're just fuckers who fuck around.

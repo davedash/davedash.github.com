@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 170
+layout: post
+title: Diwali, Intel, Snow
+excerpt: "<table align=\"right\" width=214>\r\n\
+  <tr><td><img src=\"http://www.ftmax.com/pics/981108-israel.jpg\" height=\"168\" width=\"214\">\r\n\
+  </td></tr>\r\n\
+  <tr><td><font size=1 face=\"Arial, sans-serif\"><b>\"Rabbi, isn't that your car?\"</b></font></td></tr>\r\n\
+  </table>\r\n\
+  I'm very confused... Diwali was being celebrated at <a href=\"http://www.uiuc.edu/\">UI</a> Friday and will be today (Saturday).  It's being celebrated at <a href=\"http://www.stolaf.edu/\">St. Olaf</a> according to Katie.  It's also being celebrated at <a href=\"http://www.wisc.edu/\">UW</a> recently.  Diwali was a few weeks ago... very odd that it's being celebrated now.\r\n\
+  \r\n\
+  <p>Intel's <a href=\"http://www.news.com/News/Item/0,4,28330,00.html?st.ne.fd.gif.d\">new demand on the computer industry</a> is cool.  I'd say it's more comparable with the SGI O<sub>2</sub>s\r\n\
+  than the iMac (as far as looks).  I think there is a more important issue at hand though.  Getting rid of old ISA technology, getting rid of 1.44MB floppy drives and getting rid of stupid ports and replacing them with USB ports.\r\n\
+  \r\n\
+  <p>I think the media and as many non-Minnesotans as possible should make fun of Jesse Ventura (for their own reasons, not because I say so).  The reason is this.  If Jesse is ineffective, nobody's hopes will be down.  People will just expect that.  If Jesse does succeed then people can be surprised.  I was going to continue on this train of thought, then I thought, that it may end up filling the journal systems quota.  So I wrote a more organized 'entry' and will stick it in the words section eventually.  I am only half way done.\r\n\
+  <p>It snowed tonight.  I think we beat Minnesota.  "
+---
+<table align="right" width=214>
+<tr><td><img src="http://www.ftmax.com/pics/981108-israel.jpg" height="168" width="214">
+</td></tr>
+<tr><td><font size=1 face="Arial, sans-serif"><b>"Rabbi, isn't that your car?"</b></font></td></tr>
+</table>
+I'm very confused... Diwali was being celebrated at <a href="http://www.uiuc.edu/">UI</a> Friday and will be today (Saturday).  It's being celebrated at <a href="http://www.stolaf.edu/">St. Olaf</a> according to Katie.  It's also being celebrated at <a href="http://www.wisc.edu/">UW</a> recently.  Diwali was a few weeks ago... very odd that it's being celebrated now.
+
+<p>Intel's <a href="http://www.news.com/News/Item/0,4,28330,00.html?st.ne.fd.gif.d">new demand on the computer industry</a> is cool.  I'd say it's more comparable with the SGI O<sub>2</sub>s
+than the iMac (as far as looks).  I think there is a more important issue at hand though.  Getting rid of old ISA technology, getting rid of 1.44MB floppy drives and getting rid of stupid ports and replacing them with USB ports.
+
+<p>I think the media and as many non-Minnesotans as possible should make fun of Jesse Ventura (for their own reasons, not because I say so).  The reason is this.  If Jesse is ineffective, nobody's hopes will be down.  People will just expect that.  If Jesse does succeed then people can be surprised.  I was going to continue on this train of thought, then I thought, that it may end up filling the journal systems quota.  So I wrote a more organized 'entry' and will stick it in the words section eventually.  I am only half way done.
+<p>It snowed tonight.  I think we beat Minnesota.  

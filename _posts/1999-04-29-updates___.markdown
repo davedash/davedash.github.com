@@ -1,0 +1,42 @@
+--- 
+wordpress_id: 91
+layout: post
+title: updates...
+excerpt: |-
+  Matt's <a href="http://www.cgi-resources.com/">site</a> is really 
+  cool.  I had a behind the scenes look at it.  It looks very nice.  
+  So nice that it inspired me to work on my web site.
+  <p>Thanks to my university and their development of
+  <a href="http://www.ncsa.uiuc.edu/">NCSA</a> Mosaic, web design is a 
+  lot of graphic design.  So, I'm going to be spending several hours 
+  working on various graphics that I'll need for my web site.  
+  Unfortunately, I must acquaint myself with GIMP, an image editing 
+  program that seems to have more power than photoshop, but none the 
+  less will take time to get used to.  I'll recreated
+  the dd logo I did in Photoshop.  
+  <table align="right" border="0"><tr><td>
+  <img src=http://ftmax.com/pics/dd.logo.gif border=0></td></tr><tr><td>
+  <font size=-2>dd logo rendered in Photoshop</font></td></tr></table>
+  <p>
+  I have a few more URLs and bits of information to give, but I'm too tired.
+  <br>
+  Goodnight.
+---
+Matt's <a href="http://www.cgi-resources.com/">site</a> is really 
+cool.  I had a behind the scenes look at it.  It looks very nice.  
+So nice that it inspired me to work on my web site.
+<p>Thanks to my university and their development of
+<a href="http://www.ncsa.uiuc.edu/">NCSA</a> Mosaic, web design is a 
+lot of graphic design.  So, I'm going to be spending several hours 
+working on various graphics that I'll need for my web site.  
+Unfortunately, I must acquaint myself with GIMP, an image editing 
+program that seems to have more power than photoshop, but none the 
+less will take time to get used to.  I'll recreated
+the dd logo I did in Photoshop.  
+<table align="right" border="0"><tr><td>
+<img src=http://ftmax.com/pics/dd.logo.gif border=0></td></tr><tr><td>
+<font size=-2>dd logo rendered in Photoshop</font></td></tr></table>
+<p>
+I have a few more URLs and bits of information to give, but I'm too tired.
+<br>
+Goodnight.

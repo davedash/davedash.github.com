@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 339
+layout: post
+title: Spyborgs
+excerpt: |-
+  Let's hear it for spyborgs.  I combined two of my favorite topics, spying and cyborgs, into one.  I'm going to create a small army of people who have all sorts of bionic instrumentation and they can perform reconnaissance missions.  Like one spyborg would be this person with video transmission built into her/his head so s/he could transmit data.
+  <P>Living at the DCL for a time.
+---
+Let's hear it for spyborgs.  I combined two of my favorite topics, spying and cyborgs, into one.  I'm going to create a small army of people who have all sorts of bionic instrumentation and they can perform reconnaissance missions.  Like one spyborg would be this person with video transmission built into her/his head so s/he could transmit data.
+<P>Living at the DCL for a time.

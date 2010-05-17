@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 302
+layout: post
+title: Nokia
+excerpt: |-
+  So, life has been good so far I guess.  Monday through Wednesday I went to the job expo at the <A HREF='http://www.union.uiuc.edu/'>Illini Union</A>.  I met a few companies that seemed interesting, including <A HREF='http://www.compaq.com/'>Compaq</A>.  I did manage to interview with Compaq, yesterday, and told them what I was interested in.
+  <P>Yesterday Nokia also had the Nokia Carnival of Fun at our Engineering Quad.  That was really fun.  I won a Nokia hat.  There was also free food.  The display was amazing.  It's really cool that Nokia was willing to do this for corporate presence on our campus.  I guess sales in cell phones must have gone up a lot.
+  <P>I was listening to loveline today and someone said, "No... I've never dated a rapist."  Brendon in his usual half-awake mode said, "You've never dated a rapist?  Good job!  You get a cookie."  I thought that quote was funny and should be shared.
+---
+So, life has been good so far I guess.  Monday through Wednesday I went to the job expo at the <A HREF='http://www.union.uiuc.edu/'>Illini Union</A>.  I met a few companies that seemed interesting, including <A HREF='http://www.compaq.com/'>Compaq</A>.  I did manage to interview with Compaq, yesterday, and told them what I was interested in.
+<P>Yesterday Nokia also had the Nokia Carnival of Fun at our Engineering Quad.  That was really fun.  I won a Nokia hat.  There was also free food.  The display was amazing.  It's really cool that Nokia was willing to do this for corporate presence on our campus.  I guess sales in cell phones must have gone up a lot.
+<P>I was listening to loveline today and someone said, "No... I've never dated a rapist."  Brendon in his usual half-awake mode said, "You've never dated a rapist?  Good job!  You get a cookie."  I thought that quote was funny and should be shared.

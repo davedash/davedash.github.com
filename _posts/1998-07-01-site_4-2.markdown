@@ -1,0 +1,46 @@
+--- 
+wordpress_id: 284
+layout: post
+title: Site 4
+excerpt: |-
+  Here is more information on Site 4.  I'm just posting a nice little update, if you look back, you'll see I'm behind schedule.  So here's what I "plan" to do after I come back from sunny California and UIUC:<pre>
+  10 June    Web design pages
+  11 June    How this site was made
+  12 June    Style guides
+  13 June    web usability
+  14 June    What's new.
+  15 July    Humor page
+  16 July    Rewrite RSG in PHP3 (with help from Nada)
+  17 July    RSG Information page
+  18 July    Links page and add-a-ma-tron.
+  19 July    Survey Script (with help from Jason Waye)
+  20 July    Education site....
+  21 July    Add people to friends page
+  22 July    Scan pictures
+  23 July    Window closing script (I need help on this).
+  24 July    Add more people to friends page
+  26 July    Beta testing of site begins
+   1 August  Site is copied to root directory and replaces
+             ftmax.com/ and ftmax.com/x
+  </pre>
+---
+Here is more information on Site 4.  I'm just posting a nice little update, if you look back, you'll see I'm behind schedule.  So here's what I "plan" to do after I come back from sunny California and UIUC:<pre>
+10 June    Web design pages
+11 June    How this site was made
+12 June    Style guides
+13 June    web usability
+14 June    What's new.
+15 July    Humor page
+16 July    Rewrite RSG in PHP3 (with help from Nada)
+17 July    RSG Information page
+18 July    Links page and add-a-ma-tron.
+19 July    Survey Script (with help from Jason Waye)
+20 July    Education site....
+21 July    Add people to friends page
+22 July    Scan pictures
+23 July    Window closing script (I need help on this).
+24 July    Add more people to friends page
+26 July    Beta testing of site begins
+ 1 August  Site is copied to root directory and replaces
+           ftmax.com/ and ftmax.com/x
+</pre>

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 68
+layout: post
+title: Mail
+excerpt: I'm running a new mail forwarding software.  It's awesome.  It is a lot easier to make mail forwards now.  Additionally it produces a log that lists whether mail gets delivered or not.  That is very handy.  With the other software only Jesus could assure proper delivery.
+---
+I'm running a new mail forwarding software.  It's awesome.  It is a lot easier to make mail forwards now.  Additionally it produces a log that lists whether mail gets delivered or not.  That is very handy.  With the other software only Jesus could assure proper delivery.

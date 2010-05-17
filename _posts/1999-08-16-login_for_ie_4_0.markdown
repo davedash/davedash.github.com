@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 37
+layout: post
+title: Login for IE 4.0
+excerpt: "The login for this doesn't work too hot with IE 4.0.  I only notice this, since I use the login interface, and my brother's computer has IE 4.0.  I'll try to fix it, but there isn't much on that web site that requires logging in... so don't worry. (:"
+---
+The login for this doesn't work too hot with IE 4.0.  I only notice this, since I use the login interface, and my brother's computer has IE 4.0.  I'll try to fix it, but there isn't much on that web site that requires logging in... so don't worry. (:

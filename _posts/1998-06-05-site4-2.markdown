@@ -1,0 +1,54 @@
+--- 
+wordpress_id: 267
+layout: post
+title: Site4
+excerpt: |-
+  Updated schedule for Site4:
+  <pre>
+   9 June  Email/ICQ contact form
+  10 June  Site Map
+  12 June  Web stuff buttons/java things written
+  15 June  Create web stuff mainpage
+  16 June  Create web site gallery pages
+  18 June  Web design pages
+  23 June  How this site was made
+  24 June  Style guides
+  26 June  web usability
+  27 June  What's new.
+   2 July  Humor page
+   9 July  Rewrite RSG in PHP3 (with help from Nada)
+  10 July  RSG Information page
+  11 July  Links page and add-a-ma-tron.
+  12 July  Survey Script (with help from Jason Waye)
+  13 July  Education site....
+  14 July  Add people to friends page
+  15 July  Scan pictures
+  16 July  Window closing script (I need help on this).
+  17 July  Add more people to friends page
+  18 July  Beta testing of site begins
+  25 July  Site is copied to root directory and replaces ftmax.com/ and ftmax.com/x</pre>
+---
+Updated schedule for Site4:
+<pre>
+ 9 June  Email/ICQ contact form
+10 June  Site Map
+12 June  Web stuff buttons/java things written
+15 June  Create web stuff mainpage
+16 June  Create web site gallery pages
+18 June  Web design pages
+23 June  How this site was made
+24 June  Style guides
+26 June  web usability
+27 June  What's new.
+ 2 July  Humor page
+ 9 July  Rewrite RSG in PHP3 (with help from Nada)
+10 July  RSG Information page
+11 July  Links page and add-a-ma-tron.
+12 July  Survey Script (with help from Jason Waye)
+13 July  Education site....
+14 July  Add people to friends page
+15 July  Scan pictures
+16 July  Window closing script (I need help on this).
+17 July  Add more people to friends page
+18 July  Beta testing of site begins
+25 July  Site is copied to root directory and replaces ftmax.com/ and ftmax.com/x</pre>

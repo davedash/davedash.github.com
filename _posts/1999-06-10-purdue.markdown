@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 78
+layout: post
+title: Purdue
+excerpt: |-
+  I just came back from the Inquiry meeting at Purdue University.  I 
+  must say I am jealous.  The campus is beautiful compared to the 
+  <a href="http://www.uiuc.edu/">U of I</a>.  The buildings were closer to each other
+  and where there were open spaces there were water fountains and circular
+  paths rather than quadrangles and diagonal paths every which where.
+  Also, the Education School gets real money, unklike ours.  I got to see 
+  the Liberal Arts and Education Building which was newly built in '94.
+  Very nice.  It had several computer labs that were phenomenal top of the 
+  line computer labs that were all run by the Education Technology group.
+  <p>The other members of the Inquiry group, including my professor, were 
+  great people to hang out with.  We rode in our professor's Volkswagen van
+  and had interesting conversations about computing, robots, 10-10-626 
+  among other things.  I wouldn't mind visiting again.
+---
+I just came back from the Inquiry meeting at Purdue University.  I 
+must say I am jealous.  The campus is beautiful compared to the 
+<a href="http://www.uiuc.edu/">U of I</a>.  The buildings were closer to each other
+and where there were open spaces there were water fountains and circular
+paths rather than quadrangles and diagonal paths every which where.
+Also, the Education School gets real money, unklike ours.  I got to see 
+the Liberal Arts and Education Building which was newly built in '94.
+Very nice.  It had several computer labs that were phenomenal top of the 
+line computer labs that were all run by the Education Technology group.
+<p>The other members of the Inquiry group, including my professor, were 
+great people to hang out with.  We rode in our professor's Volkswagen van
+and had interesting conversations about computing, robots, 10-10-626 
+among other things.  I wouldn't mind visiting again.

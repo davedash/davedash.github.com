@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 344
+layout: post
+title: A new toy...
+excerpt: |-
+  Well I'm back home, and I'm doing homework... It's slightly different than school.  For example.  Instead of friends like Erin, Adam, Scott, Julie and the RA (Angie) who live right by me, I've got parents... who live right by me.  I've also got friends who live far.  Which do me no good since I have no car.  I have a lot less distractions though.  I mean, there isn't much else I can do here besides watch movies, hang out with my friends and design robots, but do my homework.
+  <P>I do however have a new toy.  Today my first ebay toy came in the mail.  It's a walkie talkie (Motorola Talkabout... much fun, everyone go buy one).  It's useless until I go back to school where scott has two.  It might even work with Adam's gizmo... I see fun happening.
+  <P>I also got a new VCR today.  It goes upstairs and the older VCR (which is fairly new) goes to the basement.  No more watching movies through the Video Camera.  I'd have got a DVD player, but I'm waiting for the price to fall slightly on the multi-tray units.
+  <P>Buy stuff, people.  It'll make you happier.  Unless you are depressed - then there is no hope.
+---
+Well I'm back home, and I'm doing homework... It's slightly different than school.  For example.  Instead of friends like Erin, Adam, Scott, Julie and the RA (Angie) who live right by me, I've got parents... who live right by me.  I've also got friends who live far.  Which do me no good since I have no car.  I have a lot less distractions though.  I mean, there isn't much else I can do here besides watch movies, hang out with my friends and design robots, but do my homework.
+<P>I do however have a new toy.  Today my first ebay toy came in the mail.  It's a walkie talkie (Motorola Talkabout... much fun, everyone go buy one).  It's useless until I go back to school where scott has two.  It might even work with Adam's gizmo... I see fun happening.
+<P>I also got a new VCR today.  It goes upstairs and the older VCR (which is fairly new) goes to the basement.  No more watching movies through the Video Camera.  I'd have got a DVD player, but I'm waiting for the price to fall slightly on the multi-tray units.
+<P>Buy stuff, people.  It'll make you happier.  Unless you are depressed - then there is no hope.

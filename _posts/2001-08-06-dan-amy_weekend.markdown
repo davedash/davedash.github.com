@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 448
+layout: post
+title: Dan/Amy Weekend
+excerpt: Tanya said that I've been spoiled with Dan, Katie, Ryan and her visiting me a week ago, and now this past weekend, my visiting Minnesota.  My family was gone to California for another wedding, so I took over my brother's house for the weekend.  Stayed up late nights with old friends like Marc, Ryan, Tanya, SMatt, Ryan and Katie and new friends like Divya from school (who remarkably fits snuggly into the circle of friends in MN) and Marc's friend Erin who I went to school with from 5th-7th grade. 
+---
+Tanya said that I've been spoiled with Dan, Katie, Ryan and her visiting me a week ago, and now this past weekend, my visiting Minnesota.  My family was gone to California for another wedding, so I took over my brother's house for the weekend.  Stayed up late nights with old friends like Marc, Ryan, Tanya, SMatt, Ryan and Katie and new friends like Divya from school (who remarkably fits snuggly into the circle of friends in MN) and Marc's friend Erin who I went to school with from 5th-7th grade. <!--more-->The wedding of Dan and Amy was pleasant - although I think we were all so prepared for it that it was more of a fancy get together than a wedding.  Jesse's toast to them summed it up =)<p>My favorite weekend all summer, I think.  Well, it's back to the slave camps for me.    Less than 120 days until Freedom.</p>

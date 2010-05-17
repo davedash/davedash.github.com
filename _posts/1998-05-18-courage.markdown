@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 245
+layout: post
+title: courage
+excerpt: I finally worked up the courage to write a letter to one of my friends from Bloomington.  I thought it would be very sad to not attempt to make contact with at least one of them before I left for Champaign-Urbana.  Hopefully I'll get correspondence.
+---
+I finally worked up the courage to write a letter to one of my friends from Bloomington.  I thought it would be very sad to not attempt to make contact with at least one of them before I left for Champaign-Urbana.  Hopefully I'll get correspondence.

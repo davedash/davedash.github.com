@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 228
+layout: post
+title: Hmm...
+excerpt: |-
+  No humorous things to document today.  Jack was normal.  Studied.  Played a few games (not more than an hour while I was around).  You know... normal college stuff.  We got pizza... I am stuffed.<p>
+  People, this Thanksgiving, go see <a href="http://www.disney.com/DisneyPictures/bugslife/">Bugs</a> from <a href="http://www.pixar.com/">Pixar</a>.  It may look a lot like <a href="http://www.pepsi.com/antz/">Antz</a> from DreamWorks, but it should be a lot different.  Pixar has had this planned at least since Toy Story came out.  Peter Docter (story writer and supervising animator of Toy Story) wrote this when I asked about his involvement in the new movie, "I've done only bits of work on Bugs (about 4 mo.s worth) but rest assured it looks pretty awesome."  I just thought the 4 months being "only bits" as being very funny.  3D animation is just so cool.  That's why I like Molly Swanson, because one day she will make really cool 3D stuff.
+---
+No humorous things to document today.  Jack was normal.  Studied.  Played a few games (not more than an hour while I was around).  You know... normal college stuff.  We got pizza... I am stuffed.<p>
+People, this Thanksgiving, go see <a href="http://www.disney.com/DisneyPictures/bugslife/">Bugs</a> from <a href="http://www.pixar.com/">Pixar</a>.  It may look a lot like <a href="http://www.pepsi.com/antz/">Antz</a> from DreamWorks, but it should be a lot different.  Pixar has had this planned at least since Toy Story came out.  Peter Docter (story writer and supervising animator of Toy Story) wrote this when I asked about his involvement in the new movie, "I've done only bits of work on Bugs (about 4 mo.s worth) but rest assured it looks pretty awesome."  I just thought the 4 months being "only bits" as being very funny.  3D animation is just so cool.  That's why I like Molly Swanson, because one day she will make really cool 3D stuff.

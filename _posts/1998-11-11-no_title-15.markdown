@@ -1,0 +1,43 @@
+--- 
+wordpress_id: 172
+layout: post
+title: (no title)
+excerpt: |
+  <table align="right" width="214">
+  <tr><td><img border=1 src="http://www.ftmax.com/pics/981109-lindseyclinton.jpg" height="133" width="214">
+  </td></tr>
+  <tr><td><font size=1 face="Arial, sans-serif"><b>&quot;There are some things I wouldn't want to recieve as a gift.&quot;<br>"Like what?"<br>"Herpes."</b></font></td></tr>
+  </table>
+  <a href="http://www.cnn.com/TECH/computing/9811/09/macvp2.idg/">iMacs are inferior</a>... even to the magical Celeron's.
+  
+  <p>Thanks to Tuesday morning's wind dynamics that I don't quite understand in Allen Hall the doors here keep making noises, as if someone were pushing and pulling on them.  I think I fixed it in my room by applying poster tack.
+  
+  <p>For those of you who want ICQ 99a, you can get it <a href="http://hotfiles.zdnet.com/cgi-bin/texis/swlib/hotfiles/info.html?fcode=000DNE&b=">here</a> at least temporarily.
+  
+  <p>Umm... looks like I fixed the biggify button on the left.  There is now a "debiggify."  I finally found the phrase that I was missing from my Javascript at <a href="http://www.cnn.com/">cnn.com</a>.  Speaking of CNN.  CNN's custom news sucks, it gives you less information.  I found more things that interest me on the regular cnn page.
+  
+  <p>Download this <a href="http://www.startribune.com/stonline/html/metafiles/smokefree.ram">Ventura clip</a>.  A singing, rocking and rolling governor...
+  
+  <p>Not much is happening.  This week I am a good chemist and no the entire weeks worth of chemistry.  Unfortunately that doesn't help me with my pending assignments.  Damn!  I have math homework... and math class!
+  
+  <p>I started to work on this stupid, useless project of the Hindu Mandir registry/address book type thing (again).  I doubt anybody will make propper use of it, I'll see.  If I do anything tonight it will be a new project for <a href="http://www.medrx.com/">Med Rx</a> using <a href="http://130.126.72.54/medrx/new/">this</a>.
+
+---
+<table align="right" width="214">
+<tr><td><img border=1 src="http://www.ftmax.com/pics/981109-lindseyclinton.jpg" height="133" width="214">
+</td></tr>
+<tr><td><font size=1 face="Arial, sans-serif"><b>&quot;There are some things I wouldn't want to recieve as a gift.&quot;<br>"Like what?"<br>"Herpes."</b></font></td></tr>
+</table>
+<a href="http://www.cnn.com/TECH/computing/9811/09/macvp2.idg/">iMacs are inferior</a>... even to the magical Celeron's.
+
+<p>Thanks to Tuesday morning's wind dynamics that I don't quite understand in Allen Hall the doors here keep making noises, as if someone were pushing and pulling on them.  I think I fixed it in my room by applying poster tack.
+
+<p>For those of you who want ICQ 99a, you can get it <a href="http://hotfiles.zdnet.com/cgi-bin/texis/swlib/hotfiles/info.html?fcode=000DNE&b=">here</a> at least temporarily.
+
+<p>Umm... looks like I fixed the biggify button on the left.  There is now a "debiggify."  I finally found the phrase that I was missing from my Javascript at <a href="http://www.cnn.com/">cnn.com</a>.  Speaking of CNN.  CNN's custom news sucks, it gives you less information.  I found more things that interest me on the regular cnn page.
+
+<p>Download this <a href="http://www.startribune.com/stonline/html/metafiles/smokefree.ram">Ventura clip</a>.  A singing, rocking and rolling governor...
+
+<p>Not much is happening.  This week I am a good chemist and no the entire weeks worth of chemistry.  Unfortunately that doesn't help me with my pending assignments.  Damn!  I have math homework... and math class!
+
+<p>I started to work on this stupid, useless project of the Hindu Mandir registry/address book type thing (again).  I doubt anybody will make propper use of it, I'll see.  If I do anything tonight it will be a new project for <a href="http://www.medrx.com/">Med Rx</a> using <a href="http://130.126.72.54/medrx/new/">this</a>.

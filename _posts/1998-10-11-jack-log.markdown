@@ -1,0 +1,86 @@
+--- 
+wordpress_id: 226
+layout: post
+title: Jack-log
+excerpt: |-
+  I thought it'd be fun to document Jack's life.  Jack for those of you who don't know is my roommate.  Here is what he did last night:<pre>
+   8:44 PM: Jack has been playing a football video game
+            for at least a few hours.
+   9:51 PM: Jack finishes video game.  Jack is watching 
+            some sports show, probably on  ESPN.  Surfing 
+            channels occasionally.
+   9:54 PM: Jack's work out: He lifts the TV onto my bed 
+            so he can see it better.  (Will return it 
+            back in an hour, he says).
+   9:54 PM: Jack leaves the room.
+   9:55 PM: Jack returns.
+   9:56 PM: Flipping channels on his TV.  Watching some 
+            football thing.
+   9:59 PM: Also reading some ESPN book.  Watching 
+            SportsCenter on ESPN.
+  10:51 PM: Jack hears a noise and looks outside.  
+            Perhaps wanting to see what it is.  TV is 
+            left on, meaning he probably will re enter 
+            the room.
+  10:53 PM: Jack returns... leaves door open.  Inquires 
+            about my waveform generations (pink noise 
+            synchronized with alpha/theta waves 
+            synchronized with alpha waves).
+  10:59 PM: Minimize this window and keep it so when 
+            people are in the room.
+  11:01 PM: Jack leaves the room.  TV still on.
+  11:03 PM: Jack returns.  Closes door slightly.  I like 
+            that, because the outside noises add to my 
+            mental interference.
+  11:04 PM: Jack puts in a video game in his PlayStation 
+            and starts playing.  I think it's in the 
+            Street Fighter genre.
+  12:24 AM: Stops playing Street Fighter.  Completes 
+            workout by putting TV back in it's place.  
+            30 minutes behind schedule.
+  12:25 AM: Jack leaves the room.
+  12:27 AM: Returns puts on shoes.
+  12:29 AM: Leaves again, possibly for a smokey-smokey.
+  </pre>
+  Oh yeah, <a href="http://litestep.net/">Litestep</a> is cool.  Makes Windows NT look neat.  Only problem is in NT it disables my Windows Key shortcuts, however it doesn't in Windows 95/98.
+---
+I thought it'd be fun to document Jack's life.  Jack for those of you who don't know is my roommate.  Here is what he did last night:<pre>
+ 8:44 PM: Jack has been playing a football video game
+          for at least a few hours.
+ 9:51 PM: Jack finishes video game.  Jack is watching 
+          some sports show, probably on  ESPN.  Surfing 
+          channels occasionally.
+ 9:54 PM: Jack's work out: He lifts the TV onto my bed 
+          so he can see it better.  (Will return it 
+          back in an hour, he says).
+ 9:54 PM: Jack leaves the room.
+ 9:55 PM: Jack returns.
+ 9:56 PM: Flipping channels on his TV.  Watching some 
+          football thing.
+ 9:59 PM: Also reading some ESPN book.  Watching 
+          SportsCenter on ESPN.
+10:51 PM: Jack hears a noise and looks outside.  
+          Perhaps wanting to see what it is.  TV is 
+          left on, meaning he probably will re enter 
+          the room.
+10:53 PM: Jack returns... leaves door open.  Inquires 
+          about my waveform generations (pink noise 
+          synchronized with alpha/theta waves 
+          synchronized with alpha waves).
+10:59 PM: Minimize this window and keep it so when 
+          people are in the room.
+11:01 PM: Jack leaves the room.  TV still on.
+11:03 PM: Jack returns.  Closes door slightly.  I like 
+          that, because the outside noises add to my 
+          mental interference.
+11:04 PM: Jack puts in a video game in his PlayStation 
+          and starts playing.  I think it's in the 
+          Street Fighter genre.
+12:24 AM: Stops playing Street Fighter.  Completes 
+          workout by putting TV back in it's place.  
+          30 minutes behind schedule.
+12:25 AM: Jack leaves the room.
+12:27 AM: Returns puts on shoes.
+12:29 AM: Leaves again, possibly for a smokey-smokey.
+</pre>
+Oh yeah, <a href="http://litestep.net/">Litestep</a> is cool.  Makes Windows NT look neat.  Only problem is in NT it disables my Windows Key shortcuts, however it doesn't in Windows 95/98.

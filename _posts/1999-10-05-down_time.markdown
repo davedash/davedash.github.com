@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 313
+layout: post
+title: Down time
+excerpt: Sorry, davedash.com, ftmax.com and some of my other domains were moved to a new faster server that is less load intensive.  It was down since 9AM CST and just got back at 2PM CST.  I'm working on getting <A HREF='http://www.engelbot.com/'>engelbot.com</A> operational soon too.
+---
+Sorry, davedash.com, ftmax.com and some of my other domains were moved to a new faster server that is less load intensive.  It was down since 9AM CST and just got back at 2PM CST.  I'm working on getting <A HREF='http://www.engelbot.com/'>engelbot.com</A> operational soon too.

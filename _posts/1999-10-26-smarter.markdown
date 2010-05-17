@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 330
+layout: post
+title: Smarter
+excerpt: |-
+  Well crap-o... it turns out I didn't do so hot on my CS 273 exam.  Below average in fact.  I squeezed some points from a TA so that brought me to average which makes me feel better, but still... not great.  More points to come.  My problem was 1. I went through it without double checking.  2.  I wasn't as efficient as I could have been (always the case).
+  <P>Here's something cool <A HREF='http://www.theglobeandmail.com/offsite/Science/19991026/UMEMON.html'>about mashed potatoes</A>.  They help your memory.
+---
+Well crap-o... it turns out I didn't do so hot on my CS 273 exam.  Below average in fact.  I squeezed some points from a TA so that brought me to average which makes me feel better, but still... not great.  More points to come.  My problem was 1. I went through it without double checking.  2.  I wasn't as efficient as I could have been (always the case).
+<P>Here's something cool <A HREF='http://www.theglobeandmail.com/offsite/Science/19991026/UMEMON.html'>about mashed potatoes</A>.  They help your memory.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 71
+layout: post
+title: STAR WARS!!!
+excerpt: I was in <a href="http://www.slashdot.org/">/.</a>.  Thanks to J' in the Quad for pointing that out.
+---
+I was in <a href="http://www.slashdot.org/">/.</a>.  Thanks to J' in the Quad for pointing that out.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 383
+layout: post
+title: Motorola
+excerpt: It looks as if I'll be working at Motorola in Northbrook, IL doing systems administration for them.  It should be fun, hopefully I'll get to hang out with my friend, Julie, who lives nearby.  I'll probably get a lot of time to work on some papers and whatnot.
+---
+It looks as if I'll be working at Motorola in Northbrook, IL doing systems administration for them.  It should be fun, hopefully I'll get to hang out with my friend, Julie, who lives nearby.  I'll probably get a lot of time to work on some papers and whatnot.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 349
+layout: post
+title: Home
+excerpt: "So here's the update on the hunt for a home.  My robot (Adam Nagao) and I have expanded our search to include homes.  Homes are less easy to find, but we're finding things here and there.  We have recruited my friend Michelle Lohmann as Roommate #3.  We may end up stopping at that number (originally we were hunting for about 4).  I think Sunday may be the house hunting day."
+---
+So here's the update on the hunt for a home.  My robot (Adam Nagao) and I have expanded our search to include homes.  Homes are less easy to find, but we're finding things here and there.  We have recruited my friend Michelle Lohmann as Roommate #3.  We may end up stopping at that number (originally we were hunting for about 4).  I think Sunday may be the house hunting day.

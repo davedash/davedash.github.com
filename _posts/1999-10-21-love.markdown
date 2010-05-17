@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 329
+layout: post
+title: Love
+excerpt: |-
+  This quote comes from <A HREF='http://www.tvguide.com/newsgossip/dish/'>Jennifer Love Hewitt</A>, but it sounds like something that one of my friends would do or say:
+  <BLOCKQUOTE>
+  "I love to iron," she says. "I iron my jeans. I'm obsessed with it. Like, why would you iron your jeans? But I iron them just to like feel the wonderfulness of ironing." 
+  </BLOCKQUOTE>
+  It's got to be the phrase, "feel the wonderfulness of ironing".  Sounds like something my alter-ego might say.
+---
+This quote comes from <A HREF='http://www.tvguide.com/newsgossip/dish/'>Jennifer Love Hewitt</A>, but it sounds like something that one of my friends would do or say:
+<BLOCKQUOTE>
+"I love to iron," she says. "I iron my jeans. I'm obsessed with it. Like, why would you iron your jeans? But I iron them just to like feel the wonderfulness of ironing." 
+</BLOCKQUOTE>
+It's got to be the phrase, "feel the wonderfulness of ironing".  Sounds like something my alter-ego might say.

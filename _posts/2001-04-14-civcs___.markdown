@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 426
+layout: post
+title: Civcs...
+excerpt: |-
+  Yes, it's one of those, "I'm not quite dead, yet" posts.  Since the EPIC conference I posted, I have put my Student Organization which perhaps only a few of you know into full swing.  Over the semester Civics, citizenship, consumerism, rights and whatnot have been at my center of attention.  Arguably they should have always been at the forefront of my attention.  Arguably they should be the forefront of most peoples attention.
+  <p>
+  Sure, you might think.  "Dave, that's rediculous.  Leave us to our free-wheeling life style."  Or you might think, "You've been listening to too much Nader"  Well that's actually not so true.  Although I did listen to as much as Nader had to say this Thursday when he visited our campus, my views were reached by my own means.
+  </p><p>
+  So as a result of this new thought, I decided to form a student organization called Civic Action.  The people running it (besides me) are wonderful and very interested in civic-duties.  We plan to transform this campus to an active-campus (see <i>PCU</i>).
+  </p>
+---
+Yes, it's one of those, "I'm not quite dead, yet" posts.  Since the EPIC conference I posted, I have put my Student Organization which perhaps only a few of you know into full swing.  Over the semester Civics, citizenship, consumerism, rights and whatnot have been at my center of attention.  Arguably they should have always been at the forefront of my attention.  Arguably they should be the forefront of most peoples attention.
+<p>
+Sure, you might think.  "Dave, that's rediculous.  Leave us to our free-wheeling life style."  Or you might think, "You've been listening to too much Nader"  Well that's actually not so true.  Although I did listen to as much as Nader had to say this Thursday when he visited our campus, my views were reached by my own means.
+</p><p>
+So as a result of this new thought, I decided to form a student organization called Civic Action.  The people running it (besides me) are wonderful and very interested in civic-duties.  We plan to transform this campus to an active-campus (see <i>PCU</i>).
+</p>

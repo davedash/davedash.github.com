@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 317
+layout: post
+title: Ice Cream
+excerpt: |-
+  Last night we had an awesome Ice Cream social.  It was fun, despite my only eating a spoonful of melted ice cream.
+  <P>Looks like I need to pay $35 for ftmax.com.  I don't want to pay it.  I mean, I guess I will, but really... that domain is as useless as ... mightycow.com.  Anybody wanna buy ftmax.com? ;)
+---
+Last night we had an awesome Ice Cream social.  It was fun, despite my only eating a spoonful of melted ice cream.
+<P>Looks like I need to pay $35 for ftmax.com.  I don't want to pay it.  I mean, I guess I will, but really... that domain is as useless as ... mightycow.com.  Anybody wanna buy ftmax.com? ;)

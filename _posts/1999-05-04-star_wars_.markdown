@@ -1,0 +1,40 @@
+--- 
+wordpress_id: 70
+layout: post
+title: STAR WARS!!!
+excerpt: |-
+  I bought the CD today!  It rules (listening to it as I type)!  I bought three posters 
+  one is of the Queen, the other of Anakin in the sand, and the awesome Jedi 
+  Battle!<p>
+  I got these all at Meijer.  You can also find the Star Wars Episode 1 
+  Story Book.  Don't read it unless you want to know the entire plot.
+  <p>I'll also mention a few other things:
+  <ul>
+  <li> <a href="http://www.din.or.jp/~toy/tb/tb20e.html">This</a> was my 
+  desktop background, which has been replaced with a Star Wars background.
+  <li>Matt Juggles.  My friends in Trench Coats Juggle.  Matt's from Colarado.  
+  Hmmm.
+  <li>I have terrible allergies that are killing me.
+  <li><a href="http://www.worldwidemart.com/scripts/">Matt</a> is the reason why ftmax.com exists (I can explain further).
+  <li>Allergies still killing me... allegra helps.
+  <li>Emacs is good for editing web pages.
+  </ul>
+  Have fun... back to Star Wars.
+---
+I bought the CD today!  It rules (listening to it as I type)!  I bought three posters 
+one is of the Queen, the other of Anakin in the sand, and the awesome Jedi 
+Battle!<p>
+I got these all at Meijer.  You can also find the Star Wars Episode 1 
+Story Book.  Don't read it unless you want to know the entire plot.
+<p>I'll also mention a few other things:
+<ul>
+<li> <a href="http://www.din.or.jp/~toy/tb/tb20e.html">This</a> was my 
+desktop background, which has been replaced with a Star Wars background.
+<li>Matt Juggles.  My friends in Trench Coats Juggle.  Matt's from Colarado.  
+Hmmm.
+<li>I have terrible allergies that are killing me.
+<li><a href="http://www.worldwidemart.com/scripts/">Matt</a> is the reason why ftmax.com exists (I can explain further).
+<li>Allergies still killing me... allegra helps.
+<li>Emacs is good for editing web pages.
+</ul>
+Have fun... back to Star Wars.

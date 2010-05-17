@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 69
+layout: post
+title: php3
+excerpt: |
+  I have created a generic template of the new site.  I installed PHP3, 
+  which I use to do scripting, on my computer and am playing with 
+  things locally.  Basically I can re-organize my page any which way I 
+  want to with only modifying a line or two of code.  So I guess my next
+  step is working on the mySQL database.
+
+---
+I have created a generic template of the new site.  I installed PHP3, 
+which I use to do scripting, on my computer and am playing with 
+things locally.  Basically I can re-organize my page any which way I 
+want to with only modifying a line or two of code.  So I guess my next
+step is working on the mySQL database.

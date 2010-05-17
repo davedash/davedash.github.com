@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 56
+layout: post
+title: alive
+excerpt: |-
+  There's something about my staying in Champaign, IL that's made me 
+  appreciate the simple fact that I'm alive.  The ability to take a nice
+  stroll around the block.  To walk on a sunny day.  To go for a swim.  
+  To have a moment to think.  It's made me appreciate life.  I'm going 
+  to miss living at a place where I have a lot of friends around.  I
+  think I'll do fine anyway.
+  <P>I'm watching <I>the Saint</I>, again.  That's a movie worth watching.  
+  The second time around is very cool, since I recognize the music.  It
+  all sounds so wonderful.
+---
+There's something about my staying in Champaign, IL that's made me 
+appreciate the simple fact that I'm alive.  The ability to take a nice
+stroll around the block.  To walk on a sunny day.  To go for a swim.  
+To have a moment to think.  It's made me appreciate life.  I'm going 
+to miss living at a place where I have a lot of friends around.  I
+think I'll do fine anyway.
+<P>I'm watching <I>the Saint</I>, again.  That's a movie worth watching.  
+The second time around is very cool, since I recognize the music.  It
+all sounds so wonderful.

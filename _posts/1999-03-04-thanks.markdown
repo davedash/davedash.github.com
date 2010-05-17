@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 98
+layout: post
+title: Thanks
+excerpt: |-
+  I remember right before highschool started that I was like on a non-depression streak.  I did get depressed often in Junior year and then I became somewhat normal going off and on about being depressed.  Now I'm back to that, hey I'm never depressed stage again.
+  <p>I found this amusing post from my CS173 professor on our news group:<blockquote><tt>
+  Do NOT be late. THERE WILL BE NO CONFLICT-ON-CONFLICT-ON-CONFLICT 
+  MIDTERM 1 EXAM, even if World War III begins next Monday!!!
+  </tt></blockquote>
+  <p>I've noticed why I change my site around a lot.  The first site was all black with white text and was in haiku.  It was very amusing, but had some interesting personal web site content.  The next site was when I got better at design, but I never really liked it for too long.  I was just getting a better feel for Photoshop.  The third design was the Ultra site.  That was when I first did my journal.  Then there is this site.  I am most proud of this site as it demonstrates most of my skills.  The fact that I could spend the time getting the frames to work right and everything to flow propperly impressed me.  I still think, the coolest thing about it was the frame popping.  I mean, that was all me.  Most of the javascript I got from looking at other people's ideas and just looked at their code or just rewrote their code to fit my needs.  The frame popping was my attempt to figure out how to get every page return to the main frames.  I knew it could be done and that with all of JavaScripts silly references it could be easy.  So yeah, I like it a lot.
+  <p><table align="right" width=100>
+  <tr><td><img src="pics/dd.logo.gif" width=100 height=100>
+  </td></tr>
+  <tr><td><font face="Arial, Helvetica" size=1><b>&quot;coming soon...&quot;</b></font></td></tr></table>
+  I had been planning for a few months to do a new site this summer (released by August) that would pretty much eliminate the need for frames.  I've also started doing this on a prototype for Med-Rx, so I do have the knowhow on the frameless part.  I will include other things though.  Like the Random Sentence Generator will play a larger role.  I will write a small questionaire function for the first page.  I will also write a new calendar program for the first page.  The journal system will be more stable as well.  So that's what's to come.  According to Molly and CJ who looked at my rough sketch, they think it'll look cool.
+---
+I remember right before highschool started that I was like on a non-depression streak.  I did get depressed often in Junior year and then I became somewhat normal going off and on about being depressed.  Now I'm back to that, hey I'm never depressed stage again.
+<p>I found this amusing post from my CS173 professor on our news group:<blockquote><tt>
+Do NOT be late. THERE WILL BE NO CONFLICT-ON-CONFLICT-ON-CONFLICT 
+MIDTERM 1 EXAM, even if World War III begins next Monday!!!
+</tt></blockquote>
+<p>I've noticed why I change my site around a lot.  The first site was all black with white text and was in haiku.  It was very amusing, but had some interesting personal web site content.  The next site was when I got better at design, but I never really liked it for too long.  I was just getting a better feel for Photoshop.  The third design was the Ultra site.  That was when I first did my journal.  Then there is this site.  I am most proud of this site as it demonstrates most of my skills.  The fact that I could spend the time getting the frames to work right and everything to flow propperly impressed me.  I still think, the coolest thing about it was the frame popping.  I mean, that was all me.  Most of the javascript I got from looking at other people's ideas and just looked at their code or just rewrote their code to fit my needs.  The frame popping was my attempt to figure out how to get every page return to the main frames.  I knew it could be done and that with all of JavaScripts silly references it could be easy.  So yeah, I like it a lot.
+<p><table align="right" width=100>
+<tr><td><img src="pics/dd.logo.gif" width=100 height=100>
+</td></tr>
+<tr><td><font face="Arial, Helvetica" size=1><b>&quot;coming soon...&quot;</b></font></td></tr></table>
+I had been planning for a few months to do a new site this summer (released by August) that would pretty much eliminate the need for frames.  I've also started doing this on a prototype for Med-Rx, so I do have the knowhow on the frameless part.  I will include other things though.  Like the Random Sentence Generator will play a larger role.  I will write a small questionaire function for the first page.  I will also write a new calendar program for the first page.  The journal system will be more stable as well.  So that's what's to come.  According to Molly and CJ who looked at my rough sketch, they think it'll look cool.

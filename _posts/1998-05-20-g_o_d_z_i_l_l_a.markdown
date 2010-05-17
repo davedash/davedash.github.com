@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 248
+layout: post
+title: G O D Z I L L A
+excerpt: |-
+  I will be watching 
+  <a href="http://ae.zip2.com/twincities/scripts/staticpage.dll?only=y&spage=AE/theater/theater_details.htm&id=602&reviewid=22068&ck=13544907&userid=26386215&userpw=xtv0J_txAwt8tE_FD0C&version=542123&ccity=WORCESTER+COUNTY&cstate=MA&adrVer=895686502&mwhere=Twin+Cities&rwhere=Twin+Cities&pwhere=Twin+Cities&owher&ver=e2.0">Godzilla at Willow Creek</a> 
+  Friday at the 4PM showing.  Jason, Molly, Yishan, Adam, Mike Jorgenson and others should be there as should you.  So show up!
+  <p><a href="mailto:dave@ftmax.com">Email me</a> if you need more details.
+---
+I will be watching 
+<a href="http://ae.zip2.com/twincities/scripts/staticpage.dll?only=y&spage=AE/theater/theater_details.htm&id=602&reviewid=22068&ck=13544907&userid=26386215&userpw=xtv0J_txAwt8tE_FD0C&version=542123&ccity=WORCESTER+COUNTY&cstate=MA&adrVer=895686502&mwhere=Twin+Cities&rwhere=Twin+Cities&pwhere=Twin+Cities&owher&ver=e2.0">Godzilla at Willow Creek</a> 
+Friday at the 4PM showing.  Jason, Molly, Yishan, Adam, Mike Jorgenson and others should be there as should you.  So show up!
+<p>Email me if you need more details.

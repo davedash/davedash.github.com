@@ -1,0 +1,72 @@
+--- 
+wordpress_id: 167
+layout: post
+title: ICQ
+excerpt: |-
+  <table align="right" width=214>
+  <tr><td><img src="http://www.ftmax.com/pics/981104-diabeticladen.jpg" height="168" width="214">
+  </td></tr>
+  <tr><td><font size=1 face="Arial, sans-serif"><b>"I feel like a diabetic kid in the sugar free section of Mr. Bulky."</b></font></td></tr>
+  </table>
+  Dang, these journal entries are getting long... there's only room for three entries on this page.  I think I will double the limit size limit (the entries are limited based on how long the entries are, not the actual number of them).
+  <p>
+  <a href="http://www.icq.com/download/preview/icq99a/">ICQ 99a</a> is in limited beta (i.e. you cannot download it).  It's cooler than all hell.  I've had one major problem with ICQ. My list had too many people, and I wanted to organize them.  The other thing that was a wish was to get rid of those stupid headings that say "Online" and "Offline" these are now offable.  So here's a list of new things.
+  <ul>Features I like
+  <li>Groups - You can organize people on your contact list in groups (reshall, friends, family etc.)  The groups are collapsable for those of you who have a ton of contacts.
+  <li>Global Online Alert - When a user logs online there will be a knocking sound, an icon will flash in your system tray and the user's name will flash in on your list.  You can configure this.  I have it so it makes no sound, but the contact list (which I keep open at all times) will have the persons name flash a little.  It can also flash to notify you if someone's come out of away.
+  <li>
+  key shortcuts
+  <li>(just found this out) When you get a message and have no clue what it's about, you hit "History" and the message box gets bigger and you can read the history and reply at the same time all in one window.
+  </li>
+  Otherthings that are new.
+  <li>
+  Annoying typewriter sounds when you compose a message.  (Easily disabled).
+  <li>
+  Colored Messages - You can color your messages so the recipient will get a colorful notice from you. 
+  <li>
+  Reminders - Set ICQ to remind you of future events and activities.
+  open in new browser
+  </li></ul>
+  When I installed it, at the end it said, 'Remember "Time  not important only life important."'  I thought that was cool.  Hopefully the actual release will be a bit cleaner.  The instal was a bit too flowery for me.  Some of the simple things have been over cluttered.  Some things have been nicely refined.
+  <p>
+  There's a 52 pound package coming from a warehouse in NY.  It was last seen in Island City.  Hopefully here by Monday.
+  <p>The Chem test today was bad.  It's okay.  I understand the subject material.  They ask a lot on tests.  I think my problem is I learn certain things just to be familiar with them, not to answer all the questions on a test.  I should learn differently.
+  <p>Jack's posters fall.  Not the Taco Bell poster though.  I wish that would fall.  His other posters fall though.  I think it's annoying.  My posters don't fall.  I have six.  One is on the ceiling.  Heck, a CD I stuck on the ceiling hasn't fallen yet either.
+  <p>Jack's not used to my being used to coldness.  Like my room is cold now.  (Same temperature as my basement normally is.)  I like it that way.  It's like free airconditioning.  Actually now that I think about it, it is cold.  But I just hate climbing the stairs where it's burning hot and then getting into a burning hot room with Glade Plugins which are being used to mask dorm room smells.  I need constant cold fresh air to flush my room out.  Maybe I'll shut the window tonight.
+  <p>HDTV is now available at an alarming price.  Most people don't need it.  In fact most people are better off throwing their damn TVs out the window, but that's another story.  You see, people could care less if their TV looks sharper or not.  For the most part, it's not that big of a deal.  It's nice when watching a full screen movie, but that's about it.  <a href="http://www.media.mit.edu/~nicholas/">Nicholas Negroponte</a> wrote an article (which you can find on his page) about why HDTV is a waste.  He basically says TV is crap with euphemisms.
+  <p>My eye is severely red.  I think I need a new one.
+  <p>I went to a loveline-type thing at Allen Hall.  It was very amusing and interesting.  Much better than the real "loveline" on MTV and Westwood 1 Radio Network (or whoever puts out Loveline).
+---
+<table align="right" width=214>
+<tr><td><img src="http://www.ftmax.com/pics/981104-diabeticladen.jpg" height="168" width="214">
+</td></tr>
+<tr><td><font size=1 face="Arial, sans-serif"><b>"I feel like a diabetic kid in the sugar free section of Mr. Bulky."</b></font></td></tr>
+</table>
+Dang, these journal entries are getting long... there's only room for three entries on this page.  I think I will double the limit size limit (the entries are limited based on how long the entries are, not the actual number of them).
+<p>
+<a href="http://www.icq.com/download/preview/icq99a/">ICQ 99a</a> is in limited beta (i.e. you cannot download it).  It's cooler than all hell.  I've had one major problem with ICQ. My list had too many people, and I wanted to organize them.  The other thing that was a wish was to get rid of those stupid headings that say "Online" and "Offline" these are now offable.  So here's a list of new things.
+<ul>Features I like
+<li>Groups - You can organize people on your contact list in groups (reshall, friends, family etc.)  The groups are collapsable for those of you who have a ton of contacts.
+<li>Global Online Alert - When a user logs online there will be a knocking sound, an icon will flash in your system tray and the user's name will flash in on your list.  You can configure this.  I have it so it makes no sound, but the contact list (which I keep open at all times) will have the persons name flash a little.  It can also flash to notify you if someone's come out of away.
+<li>
+key shortcuts
+<li>(just found this out) When you get a message and have no clue what it's about, you hit "History" and the message box gets bigger and you can read the history and reply at the same time all in one window.
+</li>
+Otherthings that are new.
+<li>
+Annoying typewriter sounds when you compose a message.  (Easily disabled).
+<li>
+Colored Messages - You can color your messages so the recipient will get a colorful notice from you. 
+<li>
+Reminders - Set ICQ to remind you of future events and activities.
+open in new browser
+</li></ul>
+When I installed it, at the end it said, 'Remember "Time  not important only life important."'  I thought that was cool.  Hopefully the actual release will be a bit cleaner.  The instal was a bit too flowery for me.  Some of the simple things have been over cluttered.  Some things have been nicely refined.
+<p>
+There's a 52 pound package coming from a warehouse in NY.  It was last seen in Island City.  Hopefully here by Monday.
+<p>The Chem test today was bad.  It's okay.  I understand the subject material.  They ask a lot on tests.  I think my problem is I learn certain things just to be familiar with them, not to answer all the questions on a test.  I should learn differently.
+<p>Jack's posters fall.  Not the Taco Bell poster though.  I wish that would fall.  His other posters fall though.  I think it's annoying.  My posters don't fall.  I have six.  One is on the ceiling.  Heck, a CD I stuck on the ceiling hasn't fallen yet either.
+<p>Jack's not used to my being used to coldness.  Like my room is cold now.  (Same temperature as my basement normally is.)  I like it that way.  It's like free airconditioning.  Actually now that I think about it, it is cold.  But I just hate climbing the stairs where it's burning hot and then getting into a burning hot room with Glade Plugins which are being used to mask dorm room smells.  I need constant cold fresh air to flush my room out.  Maybe I'll shut the window tonight.
+<p>HDTV is now available at an alarming price.  Most people don't need it.  In fact most people are better off throwing their damn TVs out the window, but that's another story.  You see, people could care less if their TV looks sharper or not.  For the most part, it's not that big of a deal.  It's nice when watching a full screen movie, but that's about it.  <a href="http://www.media.mit.edu/~nicholas/">Nicholas Negroponte</a> wrote an article (which you can find on his page) about why HDTV is a waste.  He basically says TV is crap with euphemisms.
+<p>My eye is severely red.  I think I need a new one.
+<p>I went to a loveline-type thing at Allen Hall.  It was very amusing and interesting.  Much better than the real "loveline" on MTV and Westwood 1 Radio Network (or whoever puts out Loveline).

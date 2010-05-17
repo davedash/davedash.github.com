@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 96
+layout: post
+title: "From: 12 February 1999"
+excerpt: |
+  Im expressing my dominance in Math 247 since Im the only one who talks.
+  <p>
+  I lost my Parker pen.  (Parker, like Peter Parker!)  Have you seen it?  Its green.
+  <p>Ive started to be more aware of making fun of people.  I mean, my brother said it best, if he makes fun of you, he likes you.  If he didnt like you, hed just remain quiet.  Which is more or less the case now.  I do that a lot.  Its only when I think Im at a comfort level with someone where Ill joke around with them.  As of late most people take things too seriously.
+  <p>Maybe its the Y2k thing.  The Y2k is coming and that means Armageddon.  That also means use your last year wisely and say what you mean.  Take things seriously.  Of course, I also run into the problem where people dont take me seriously when I am being serious.  There are also the few that know exactly when Im being serious with them.  Im fairly consistent with them and they can pick up the few times I am not serious.
+  <p>
+  I have this wild idea that population growth will lead to creating a Galactic Empire.  Countries with large populations are unstable.  So, rather than let the growth lead to internal strife, people will support colonizing the moon and Mars and whatever else on which we can create an artificial environment.
+  <p>
+  There are so many people who hate life.  I think Stinky is one of them (he said so or something once).  Hating life is dumb.  Well it seems dumb.  Im a mathemagician so Ill think about in terms of mathematics.  Life may suck at a given moment (bad day, depression or whatever), but you can always make a change to make your quality of life get better.  Eventually as long as your life is getting better it will all end up being good eventually.  So as long as life is getting better for you or you have the potential to make it as such, you should like life in general.  Chances are though, that you do like life at least just enough to keep yourself committing suicide. Skys life wouldnt be so bad if he wasnt such a freak who played video games all day.
+  
+  
+
+---
+Im expressing my dominance in Math 247 since Im the only one who talks.
+<p>
+I lost my Parker pen.  (Parker, like Peter Parker!)  Have you seen it?  Its green.
+<p>Ive started to be more aware of making fun of people.  I mean, my brother said it best, if he makes fun of you, he likes you.  If he didnt like you, hed just remain quiet.  Which is more or less the case now.  I do that a lot.  Its only when I think Im at a comfort level with someone where Ill joke around with them.  As of late most people take things too seriously.
+<p>Maybe its the Y2k thing.  The Y2k is coming and that means Armageddon.  That also means use your last year wisely and say what you mean.  Take things seriously.  Of course, I also run into the problem where people dont take me seriously when I am being serious.  There are also the few that know exactly when Im being serious with them.  Im fairly consistent with them and they can pick up the few times I am not serious.
+<p>
+I have this wild idea that population growth will lead to creating a Galactic Empire.  Countries with large populations are unstable.  So, rather than let the growth lead to internal strife, people will support colonizing the moon and Mars and whatever else on which we can create an artificial environment.
+<p>
+There are so many people who hate life.  I think Stinky is one of them (he said so or something once).  Hating life is dumb.  Well it seems dumb.  Im a mathemagician so Ill think about in terms of mathematics.  Life may suck at a given moment (bad day, depression or whatever), but you can always make a change to make your quality of life get better.  Eventually as long as your life is getting better it will all end up being good eventually.  So as long as life is getting better for you or you have the potential to make it as such, you should like life in general.  Chances are though, that you do like life at least just enough to keep yourself committing suicide. Skys life wouldnt be so bad if he wasnt such a freak who played video games all day.
+
+

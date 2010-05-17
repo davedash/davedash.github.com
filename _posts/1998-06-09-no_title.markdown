@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 271
+layout: post
+title: (no title)
+excerpt: Someone was "lost" today.  People were worried.  People do dumb things.  Getting "lost" is one of them.
+---
+Someone was "lost" today.  People were worried.  People do dumb things.  Getting "lost" is one of them.

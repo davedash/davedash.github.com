@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 18
+layout: post
+title: Dan
+excerpt: |
+  Dan Lavenda visited me yesterday.  I think more people should do as such.  Just stop by for a half hour or so and enjoy yourselves.
+
+---
+Dan Lavenda visited me yesterday.  I think more people should do as such.  Just stop by for a half hour or so and enjoy yourselves.

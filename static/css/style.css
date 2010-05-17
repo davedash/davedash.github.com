@@ -1,0 +1,14 @@
+@font-face {
+        font-family: 'Surface';
+        src: url('/static/fonts/Surface-Medium.otf');
+        font-weight: normal;
+        font-style: normal;
+}
+
+body {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Surface;
+}

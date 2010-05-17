@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 268
+layout: post
+title: (no title)
+excerpt: You know what's annoying?  Domain names.  Like things like <a href="http://www.serge.com/">this</a> and <a href="http://www.engelbot.com/">this</a> are being used for bad purposes.  Read the second one, there isn't anything too offensive on the opening page, it's really funny though.
+---
+You know what's annoying?  Domain names.  Like things like <a href="http://www.serge.com/">this</a> and <a href="http://www.engelbot.com/">this</a> are being used for bad purposes.  Read the second one, there isn't anything too offensive on the opening page, it's really funny though.

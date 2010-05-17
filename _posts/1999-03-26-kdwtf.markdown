@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 80
+layout: post
+title: KDWTF
+excerpt: |-
+  Hi.<br>
+  I run Linux now.<br>
+  I have no customized kernel.<br>
+  Which means no sound.<br>
+  I am sad.<br>
+  If I get the sound working...<br>
+  And the kernel configured propperly...<br>
+  My status will change.<br>
+  My network connection has been messy for the last week as well.  At UI, CS Majors have problems when the network becomes the notwork.<p>
+  <p>This is also the first update since being back.  It's nice here in Urbana.  Very springy weather.  I wish that girl were here.
+---
+Hi.<br>
+I run Linux now.<br>
+I have no customized kernel.<br>
+Which means no sound.<br>
+I am sad.<br>
+If I get the sound working...<br>
+And the kernel configured propperly...<br>
+My status will change.<br>
+My network connection has been messy for the last week as well.  At UI, CS Majors have problems when the network becomes the notwork.<p>
+<p>This is also the first update since being back.  It's nice here in Urbana.  Very springy weather.  I wish that girl were here.

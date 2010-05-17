@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 407
+layout: post
+title: EMP
+excerpt: |-
+  I encourage everybody who likes Rock and Roll (to whatever extent) to visit the <a href="http://www.emplive.com/">Experience Music Project</a>.  I was there this weekend in Seattle and it was really amazing.  I spent five hours looking at stuff and didn't even get to see all I wanted.
+  <p>Seattle in general is beautiful... I hope I get a chance to go there again.</p>
+---
+I encourage everybody who likes Rock and Roll (to whatever extent) to visit the <a href="http://www.emplive.com/">Experience Music Project</a>.  I was there this weekend in Seattle and it was really amazing.  I spent five hours looking at stuff and didn't even get to see all I wanted.
+<p>Seattle in general is beautiful... I hope I get a chance to go there again.</p>

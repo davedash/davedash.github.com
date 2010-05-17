@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 89
+layout: post
+title: Dirt
+excerpt: |-
+  Laura Borchert wrote to the Star Tribune.  Look at <a href=
+  "http://www.startribune.com/stOnLine/cgi-bin/article?thisSlug=friLET23">this</a>.
+  Here is the <a href=http://mightycow.com/yearbook/1997/>site</a> to which she refers.
+---
+Laura Borchert wrote to the Star Tribune.  Look at <a href=
+"http://www.startribune.com/stOnLine/cgi-bin/article?thisSlug=friLET23">this</a>.
+Here is the <a href=http://mightycow.com/yearbook/1997/>site</a> to which she refers.

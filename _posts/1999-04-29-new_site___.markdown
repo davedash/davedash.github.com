@@ -1,0 +1,76 @@
+--- 
+wordpress_id: 93
+layout: post
+title: New site...
+excerpt: |-
+  <a href="http://www.mattwright.com/">MattWright</a> has this to say 
+  about iMacs, "iMac is the whore of computers.  It 'wears' all this 
+  cheap 'clothing.'"
+  <p>I have finished the HTML mockup of my new web site.  It looks 
+  okay under Netscape for Linux, I think it will look better under 
+  systems that have TrueType Fonts.  It took me a while since I had an 
+  HTML tutorial opened while I was typing out the HTML, because I wanted 
+  everything to be syntactically correct.  It also uses a ton of style 
+  sheets (whereever it seemed right).  This makes it easier to make my entire site all look the same.
+  This mockup is my goal to shoot 
+  for.  Basically it looks just like my site will, except everything is
+  static, rather than dynamic.  Here's what is left:
+  <ul><li>Write a PHP script that generates 'generic' excerpts of HTML 
+  on demand.  Basically this would be like a function that would display 
+  a menu, the journal entries, the page title, etc.
+  <li>Write a new journal interface that uses mySQL (rather than mSQL 
+  which is far inferior and what I am using now).
+  <li>Write a calendar interface (far simpler than the current 
+  <a target=_self href="calendar.php3">calendar</a>).
+  <li>Write a 'siteWatch' interface (you'll see).
+  <li>etc..
+  </ul>
+  Of course, some steps will take longer than the others.  The journal 
+  will take a while to get used to, just because there is so much 
+  involved with writing it.
+  <P>Also, I plan to add a message board where you can reply to all of 
+  my posts and write whatever.  This is similar to slashdot's way of 
+  doing stuff except that I will have a very throroughly coded message 
+  board.  (I'll probably just write something that looks exactly like 
+  Matt's unreleased <a href="http://www.wwwboard.com/">WWWBoard</a>).
+  I think this part will take a while and may be something I work on 
+  after the new site is up.  Of course, in theory, this shouldn't take 
+  too long for me.
+  <p>I'll also add a small survey system in time... you know... I'm pretty 
+  much ganking stuff from slashdot, left and right.
+---
+<a href="http://www.mattwright.com/">MattWright</a> has this to say 
+about iMacs, "iMac is the whore of computers.  It 'wears' all this 
+cheap 'clothing.'"
+<p>I have finished the HTML mockup of my new web site.  It looks 
+okay under Netscape for Linux, I think it will look better under 
+systems that have TrueType Fonts.  It took me a while since I had an 
+HTML tutorial opened while I was typing out the HTML, because I wanted 
+everything to be syntactically correct.  It also uses a ton of style 
+sheets (whereever it seemed right).  This makes it easier to make my entire site all look the same.
+This mockup is my goal to shoot 
+for.  Basically it looks just like my site will, except everything is
+static, rather than dynamic.  Here's what is left:
+<ul><li>Write a PHP script that generates 'generic' excerpts of HTML 
+on demand.  Basically this would be like a function that would display 
+a menu, the journal entries, the page title, etc.
+<li>Write a new journal interface that uses mySQL (rather than mSQL 
+which is far inferior and what I am using now).
+<li>Write a calendar interface (far simpler than the current 
+<a target=_self href="calendar.php3">calendar</a>).
+<li>Write a 'siteWatch' interface (you'll see).
+<li>etc..
+</ul>
+Of course, some steps will take longer than the others.  The journal 
+will take a while to get used to, just because there is so much 
+involved with writing it.
+<P>Also, I plan to add a message board where you can reply to all of 
+my posts and write whatever.  This is similar to slashdot's way of 
+doing stuff except that I will have a very throroughly coded message 
+board.  (I'll probably just write something that looks exactly like 
+Matt's unreleased <a href="http://www.wwwboard.com/">WWWBoard</a>).
+I think this part will take a while and may be something I work on 
+after the new site is up.  Of course, in theory, this shouldn't take 
+too long for me.
+<p>I'll also add a small survey system in time... you know... I'm pretty 
+much ganking stuff from slashdot, left and right.

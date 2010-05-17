@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 489
+layout: post
+title: Milky Way
+excerpt: Milky Way (1997) is an Arabic/Hebrew movie involving the struggles in a small occupied Arab Village under military controljust outside Galilie in 1964.  Part of an endeavor for some Israeli arts program.
+---
+Milky Way (1997) is an Arabic/Hebrew movie involving the struggles in a small occupied Arab Village under military controljust outside Galilie in 1964.  Part of an endeavor for some Israeli arts program.

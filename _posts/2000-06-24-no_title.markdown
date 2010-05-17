@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 396
+layout: post
+title: (no title)
+excerpt: Last week went back home (despite travel troubles).  I love hanging out with my friends in MN.  Just a great group of people.  Now with my new telephone which conveniently is in the 612 area code (local to Minneapolis) I can talk to them.  Or just wait a week until they road trip down to Chicagoland for the taste.
+---
+Last week went back home (despite travel troubles).  I love hanging out with my friends in MN.  Just a great group of people.  Now with my new telephone which conveniently is in the 612 area code (local to Minneapolis) I can talk to them.  Or just wait a week until they road trip down to Chicagoland for the taste.

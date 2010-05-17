@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 38
+layout: post
+title: Allen Hall 99
+excerpt: I moved into Allen Hall a few hours ago.  I love it alraedy.  It'll take a few days to straighten things around here, but it will be fun once things get rolling.  I begin work tomorrow and school in a week.
+---
+I moved into Allen Hall a few hours ago.  I love it alraedy.  It'll take a few days to straighten things around here, but it will be fun once things get rolling.  I begin work tomorrow and school in a week.

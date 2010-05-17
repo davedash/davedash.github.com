@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 485
+layout: post
+title: Ideas
+excerpt: I'm going to be entering a programming contest for handheld devices.  The task is to design a cool application that one would use on a handheld.  I'd like to know what people would like to use on their handhelds.  So let me know, by posting here or emailing.
+---
+I'm going to be entering a programming contest for handheld devices.  The task is to design a cool application that one would use on a handheld.  I'd like to know what people would like to use on their handhelds.  So let me know, by posting here or emailing.

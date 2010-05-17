@@ -1,0 +1,55 @@
+--- 
+wordpress_id: 160
+layout: post
+title: (optional)
+excerpt: |
+  This may be a bit boring, so it's marked optional.  I've decided to put all my one-liner things at the bottom all in one paragraph.  Otherwise I have three or four paragraphs of little tidbits and that gets annoying.<p>
+  Tuesday night, Jack ordered a pizza from Dining Services.  Jack doesn't understand that chewing with your mouth open is rude.  
+  "Jack," I say, "chew with your mouth closed."  Jack wonders with a confused half grin, "Why?"  Oh, ignorant ignorant Jack, do you not know?  "I don't like to hear you chew."  Jack still confused, thinking it's some quirk with me.  I help him out and explain, "It's impolite."  Jack struggles to chew with his mouth closed, but at least he tries and at leasts I don't hear a bunch of chewing noises.  Silly China-man, will you ever learn our ways?  I suppose college is the only time he'd ever learn things like manners, etc.
+  <p>
+  This may or may not be out of context.  From <a href="http://www.users.uswest.net/~hegoin/home2.htm">Kay's page</a>: "<a href="mailto:adamandiwenttobed@engelbot.com">Robocop</a> and I went to bed."  Oh boy, another soap-opera that I can twist.
+  <p>
+  Okay, for anybody who was wondering what Aural Stimulation was, <a href="http://www.dmusic.com/">Dimension Music</a> cites somebody (probably from <a href="http://www.winamp.com/">Winamp</a>), "aural stimulation adds some high frequencies to the output, so that the ear hears high frequencies with the music. This tricks the ear into thinking that the recording is crisper, because mp3 tends to filter out most high frequency stuff, so the presence of incorrect (but unobtrusive) high frequencies makes it sound better."  So it is not what I expected it to be, which would explain the unfamiliar name.
+  <p>
+  Looks like I save $299 by not buying a <a href="http://www.matrox.com/">Matrox</a> Marvel.  No drivers for Windows NT.  I'll just wait till Windows 2000 comes out.  I wish Adobe would create Photoshop for Linux.
+  <p>
+  And now for the tidbits of information:
+  <ul>
+  
+  <li>
+  I woke Jack yesterday with <i>Logon Rock Witch</i>... oops, oh well... that's what happens when you have stupid sleeping habbits.  Mr. I have one class on Wednesdays.
+  <li>
+  I've decided that I should use the computer lab in our basement more often.  It's quieter at many times and there is no Jack and no PlayStation.
+  <li>
+  Woo-hoo!  I passed my fire safety inspection test... hopefully it's not the only test I pass.
+  <li>
+  Ever wonder who hacks the <a href="http://www.rootshell.com/">hackers</a>?
+  <li>
+  Download <a target=_self href="ftp://130.126.72.54/audio/davelaugh.wav">this</a>.  If I choose to use this as my default laugh and laugh at more things, I think Jack will be scared of me:)
+  </ul>
+
+---
+This may be a bit boring, so it's marked optional.  I've decided to put all my one-liner things at the bottom all in one paragraph.  Otherwise I have three or four paragraphs of little tidbits and that gets annoying.<p>
+Tuesday night, Jack ordered a pizza from Dining Services.  Jack doesn't understand that chewing with your mouth open is rude.  
+"Jack," I say, "chew with your mouth closed."  Jack wonders with a confused half grin, "Why?"  Oh, ignorant ignorant Jack, do you not know?  "I don't like to hear you chew."  Jack still confused, thinking it's some quirk with me.  I help him out and explain, "It's impolite."  Jack struggles to chew with his mouth closed, but at least he tries and at leasts I don't hear a bunch of chewing noises.  Silly China-man, will you ever learn our ways?  I suppose college is the only time he'd ever learn things like manners, etc.
+
+This may or may not be out of context.  From <a href="http://www.users.uswest.net/~hegoin/home2.htm">Kay's page</a>: "<a href="mailto:adamandiwenttobed(at)engelbot.com">Robocop</a> and I went to bed."  Oh boy, another soap-opera that I can twist.
+
+Okay, for anybody who was wondering what Aural Stimulation was, <a href="http://www.dmusic.com/">Dimension Music</a> cites somebody (probably from <a href="http://www.winamp.com/">Winamp</a>), "aural stimulation adds some high frequencies to the output, so that the ear hears high frequencies with the music. This tricks the ear into thinking that the recording is crisper, because mp3 tends to filter out most high frequency stuff, so the presence of incorrect (but unobtrusive) high frequencies makes it sound better."  So it is not what I expected it to be, which would explain the unfamiliar name.
+
+Looks like I save $299 by not buying a <a href="http://www.matrox.com/">Matrox</a> Marvel.  No drivers for Windows NT.  I'll just wait till Windows 2000 comes out.  I wish Adobe would create Photoshop for Linux.
+
+And now for the tidbits of information:
+<ul>
+
+<li>
+I woke Jack yesterday with <i>Logon Rock Witch</i>... oops, oh well... that's what happens when you have stupid sleeping habbits.  Mr. "I have one class on Wednesdays."
+<li>
+I've decided that I should use the computer lab in our basement more often.  It's quieter at many times and there is no Jack and no PlayStation.
+<li>
+Woo-hoo!  I passed my fire safety inspection test... hopefully it's not the only test I pass.
+<li>
+Ever wonder who hacks the <a href="http://www.rootshell.com/">hackers</a>?
+<li>
+Download <a  href="ftp://130.126.72.54/audio/davelaugh.wav">this</a>.  If I choose to use this as my default laugh and laugh at more things, I think Jack will be scared of me:)
+</ul>

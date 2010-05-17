@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 464
+layout: post
+title: Mumford
+excerpt: Here's a fun movie to watch.  Its a comedy about this new therapist in a town called Mumford.  He uncovers peoples secrets and his get uncovered as well.
+---
+Here's a fun movie to watch.  Its a comedy about this new therapist in a town called Mumford.  He uncovers peoples secrets and his get uncovered as well.<!--more-->It features Jason Lee (from Kevin Smith movies, e.g Mallrats, Dogma, etc).  I'm not good at movie reviews, so I won't even try.  I say go see it today, though.

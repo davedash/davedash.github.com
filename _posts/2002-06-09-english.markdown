@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 510
+layout: post
+title: English
+excerpt: |
+  I was reading this document, and at the bottom it read: 
+  Please excuse my English, but I am not a native speaker. If someone wants to translate this documentation into real but less funny English, please contact me.
+  
+  I just found that amusing.  Also amusing enough to share with everyone.
+  
+
+---
+I was reading this document, and at the bottom it read: 
+Please excuse my English, but I am not a native speaker. If someone wants to translate this documentation into real but less funny English, please contact me.
+
+I just found that amusing.  Also amusing enough to share with everyone.
+

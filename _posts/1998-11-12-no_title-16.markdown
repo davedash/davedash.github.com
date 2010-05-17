@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 173
+layout: post
+title: (no title)
+excerpt: |-
+  <table align="left" width="214">
+  <tr><td><img border=1 src="http://www.ftmax.com/pics/981112-ventura.jpg" height="153" width="214">
+  </td></tr>
+  <tr><td><font size=1 face="Arial, sans-serif"><b>"Kiss me, for I am a magical creature."</b></font></td></tr>
+  </table>
+  
+  I have a problem with <a href="http://cnn.com/US/9811/11/jacksonville.murder.ap/">this article</a>.  Read through it.  Look at the last two paragraphs.  The problem I have is that those last two paragraphs don't flow at all with the article.  I think the press should stick to more fact-based information rather than this human side stuff.  My sympathy for the victim and the victim's family has been lowered because of the weak conclusion to the article.
+  <p>I finished my <a href="http://www.ftmax.com/981112-ventura.html">Ventura article</a>.  It's not as organized and documented as I would have liked, but under my current time constraints, it is the best I could do.  I've got two nice and long research papers to write by the end of the quarter (which is coming very fast).
+  <p>Check out this week's poll at <a href="http://www.popsci.com/">PopSci.com</a>.  I like what the results show.
+  <p>Wow... I'm full and it's after midnight.  I went to eat at <a href="http://www.urh/dining/srs/Dons.html">Fat Don's</a>.  That's the first time I've eaten so much.  Depending on what they serve, I'll go there as a weekly thing.
+  <p>My friends are missing tonight... hmm where could they be?
+---
+<table align="left" width="214">
+<tr><td><img border=1 src="http://www.ftmax.com/pics/981112-ventura.jpg" height="153" width="214">
+</td></tr>
+<tr><td><font size=1 face="Arial, sans-serif"><b>"Kiss me, for I am a magical creature."</b></font></td></tr>
+</table>
+
+I have a problem with <a href="http://cnn.com/US/9811/11/jacksonville.murder.ap/">this article</a>.  Read through it.  Look at the last two paragraphs.  The problem I have is that those last two paragraphs don't flow at all with the article.  I think the press should stick to more fact-based information rather than this human side stuff.  My sympathy for the victim and the victim's family has been lowered because of the weak conclusion to the article.
+<p>I finished my <a href="http://www.ftmax.com/981112-ventura.html">Ventura article</a>.  It's not as organized and documented as I would have liked, but under my current time constraints, it is the best I could do.  I've got two nice and long research papers to write by the end of the quarter (which is coming very fast).
+<p>Check out this week's poll at <a href="http://www.popsci.com/">PopSci.com</a>.  I like what the results show.
+<p>Wow... I'm full and it's after midnight.  I went to eat at <a href="http://www.urh/dining/srs/Dons.html">Fat Don's</a>.  That's the first time I've eaten so much.  Depending on what they serve, I'll go there as a weekly thing.
+<p>My friends are missing tonight... hmm where could they be?

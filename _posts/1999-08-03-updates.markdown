@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 29
+layout: post
+title: Updates
+excerpt: |-
+  I keep forgetting to post stuff, despite my gobs of free time.  Yesterday we had a canoe expedition around the northern half of the Chain of Lakes.  It was quite fun.  Afterwards we had a picnic and then Adam, Julie, Molly and I saw <I>Drop Dead Gorgeous</i> an amusing film set in Minnesota.
+  <P>Surgery tomorrow.  People who are relatively nearby can visit me in the afternoon or night.
+---
+I keep forgetting to post stuff, despite my gobs of free time.  Yesterday we had a canoe expedition around the northern half of the Chain of Lakes.  It was quite fun.  Afterwards we had a picnic and then Adam, Julie, Molly and I saw <I>Drop Dead Gorgeous</i> an amusing film set in Minnesota.
+<P>Surgery tomorrow.  People who are relatively nearby can visit me in the afternoon or night.

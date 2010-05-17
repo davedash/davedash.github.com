@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 443
+layout: post
+title: Job
+excerpt: I've decided to be very picky.  I want a job where vacations are not an escape from the monotony of work, but as a seperate event.
+---
+I've decided to be very picky.  I want a job where vacations are not an escape from the monotony of work, but as a seperate event.
