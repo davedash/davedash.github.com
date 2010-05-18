@@ -3,7 +3,10 @@ wordpress_id: 569
 layout: post
 title: Bhutto
 wordpress_url: http://davedash.com/2007/12/27/bhutto/
+
+tags: [desi]
 ---
+
 Just an ordinary day... and then all of a sudden you read the news and realize that [Benazair Bhutto was assassinated](http://www.cnn.com/2007/WORLD/asiapcf/12/27/bhutto.reaction/index.html?eref=rss_topstories).
 
 She had been in the news so much as of late... dodging death threats in fact... and then boom.  How strange.

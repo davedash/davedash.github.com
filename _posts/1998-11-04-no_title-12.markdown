@@ -36,7 +36,10 @@ excerpt: |-
   <p>HDTV is now available at an alarming price.  Most people don't need it.  In fact most people are better off throwing their damn TVs out the window, but that's another story.  You see, people could care less if their TV looks sharper or not.  For the most part, it's not that big of a deal.  It's nice when watching a full screen movie, but that's about it.  <a href="http://www.media.mit.edu/~nicholas/">Nicholas Negroponte</a> wrote an article (which you can find on his page) about why HDTV is a waste.  He basically says TV is crap with euphemisms.
   <p>My eye is severely red.  I think I need a new one.
   <p>I went to a loveline-type thing at Allen Hall.  It was very amusing and interesting.  Much better than the real "loveline" on MTV and Westwood 1 Radio Network (or whoever puts out Loveline).
+
+tags: [web development, allen hall, general, uiuc, learning]
 ---
+
 <table align="right" width=214>
 <tr><td><img src="http://www.ftmax.com/pics/981104-diabeticladen.jpg" height="168" width="214">
 </td></tr>

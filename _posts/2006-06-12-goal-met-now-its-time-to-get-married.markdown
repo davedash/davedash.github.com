@@ -3,7 +3,10 @@ wordpress_id: 550
 layout: post
 title: Goal met, now it's time to get married
 wordpress_url: http://davedash.com/2006/06/12/goal-met-now-its-time-to-get-married/
+
+tags: [religion, writing]
 ---
+
 160 pounds.
 
 That was my goal weight for [my wedding](http://ktdd.org/) date, and I made it.  There's been a lot of interested parties as to how I lost my weight, apparently it's visibly noticable.  My pants are much looser too.  And of course, I feel lighter.

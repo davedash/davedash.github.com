@@ -6,7 +6,10 @@ excerpt: "Yesterday I ate at an Indian restraunt.  It was okay.  I mean I don't 
   <p>I have sound working on my computer.  Linux is a good Operating System if it's preinstalled or you know Ryan Hayle.\r\n\
   <p>Today I got to go to the airport and pick up my brother and sister-in-law.  Now I'm bored again.  I think I'll find something interesting to do...\r\n\
   <p>I might try to get that Hindu Mandir Online thing working... that could be interesting.  "
+
+tags: [food, computers, web development, general, learning]
 ---
+
 Yesterday I ate at an Indian restraunt.  It was okay.  I mean I don't like Indian food usually.  This, however, was pretty good.
 <p>I have sound working on my computer.  Linux is a good Operating System if it's preinstalled or you know Ryan Hayle.
 <p>Today I got to go to the airport and pick up my brother and sister-in-law.  Now I'm bored again.  I think I'll find something interesting to do...

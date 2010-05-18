@@ -6,7 +6,10 @@ excerpt: |
   Prom... well despite it costing a couple hundred dollars, it was worth it.  It's just a nice occasion.  Here's how mine and Molly's went.
   <p>At around 8-8:30 I woke up and took a shower and everything and Jesse had arrived.  Jesse and I ate breakfast (Eggos) and then Katie arrived.  Jesse and I didn't feel like waiting for Molly so we went to Gingiss to pick up our hideously expensive Tuxedos (which I can hopefully return tomorrow...) then we went to Glenrose Floral in Hopkins to pick up our hideously expensive floral "accoutrements."
 
+
+tags: [highschool, food, friends]
 ---
+
 Prom... well despite it costing a couple hundred dollars, it was worth it.  It's just a nice occasion.  Here's how mine and Molly's went.
 <p>At around 8-8:30 I woke up and took a shower and everything and Jesse had arrived.  Jesse and I ate breakfast (Eggos) and then Katie arrived.  Jesse and I didn't feel like waiting for Molly so we went to Gingiss to pick up our hideously expensive Tuxedos (which I can hopefully return tomorrow...) then we went to Glenrose Floral in Hopkins to pick up our hideously expensive floral "accoutrements."
 <!--more--><p>We came back to my house and we started making Strawberry-Rhubarb Pie and <a href="http://food.epicurious.com/db/recipes/recipesH/4/354.html">Pesto Pasta</a> stuff.  Our word of the day became "scrod."  Hopefully I can get some pictures from Scrod-Prom 98.  My mom smelled something burning, opened the oven, and sure enough she had left some miscellaneus kitchen items inside one oven that Katie Pre-heated.  Katie was filled with a little too much guilt, even after Molly and I convinced her that it was alright.  My mom bought a lot of new kitchen toys that day though, it was very nice of her.

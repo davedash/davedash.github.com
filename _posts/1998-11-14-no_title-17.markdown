@@ -48,7 +48,10 @@ excerpt: |
   
   <p>I'm experiencing another joyous no-Stinky weekend.  With Stinky gone, I decided to fix the biggify thing so it prompts you and stores it as a cookie propperly.  Previously it was using someone elses code that I slightly modified.  Now a more modified code that makes more sense to me.  I love programming.
 
+
+tags: [friends, computers, web development, allen hall, politics, books]
 ---
+
 I'm reading some news off the AP wire.  Xis Vwj is pronounced "See Voo."  In one light, that's pretty cool.  On the otherhand, who the hell is responsible for translating Hmong (I think) to English?
 <p>This if from the AFP:
 <blockquote>

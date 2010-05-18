@@ -3,7 +3,10 @@ wordpress_id: 555
 layout: post
 title: The Eyes Have It!
 wordpress_url: http://davedash.com/2006/10/29/the-eyes-have-it/
+
+tags: [general, blogs, friend, learning]
 ---
+
 <div style="float:left;margin-right:1em;">
     <img src="http://static.flickr.com/36/94341010_eab81f986b_m.jpg" alt="Eye Chart" />
 </div>

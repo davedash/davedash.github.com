@@ -14,7 +14,10 @@ excerpt: |-
   <p>Check out this week's poll at <a href="http://www.popsci.com/">PopSci.com</a>.  I like what the results show.
   <p>Wow... I'm full and it's after midnight.  I went to eat at <a href="http://www.urh/dining/srs/Dons.html">Fat Don's</a>.  That's the first time I've eaten so much.  Depending on what they serve, I'll go there as a weekly thing.
   <p>My friends are missing tonight... hmm where could they be?
+
+tags: [friends, politics, uiuc]
 ---
+
 <table align="left" width="214">
 <tr><td><img border=1 src="http://www.ftmax.com/pics/981112-ventura.jpg" height="153" width="214">
 </td></tr>

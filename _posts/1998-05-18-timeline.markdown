@@ -31,7 +31,10 @@ excerpt: |-
    9 July  Site is copied to root directory and replaces ftmax.com/ and ftmax.com/x
   </pre>
   We'll see if I keep on track with this schedule... I'll update a lot.
+
+tags: [web development]
 ---
+
 Timeline for the new site:
 <pre>
 19  May  Copyright page.

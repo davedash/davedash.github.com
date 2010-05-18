@@ -50,7 +50,10 @@ excerpt: |-
   </ol>
   That's my Christmas want list.  It's unlikely that I'd ever get any of these (for Christmas this year) since most things are in the $1000+ range.  I will however go for the laptop this summer (with DVD support) if you people fail to appease me.  If you do get me an LCD toy, it better be pretty.  None of that stupid LCD stuff.
   <p>I ate at Burger King yesterday.  It was very good after a disconcerting school dinner.  I shall eat out more often.  I will try to avoid Burger King for a while.  Their sandwhiches are good, but they are the kind that make you not want to eat their for a few months.
+
+tags: [food, computers, web development, allen hall, uiuc, biking]
 ---
+
 <TABLE align=left width=214 border=0>
 <TR><TD><IMG border=1 src="http://www.ftmax.com/pics/19981207-tallest.jpg" width=214 height=182></TD></TR>
 <TR><TD><FONT face="Arial, sans-serif" size=1><B>Fort Max - poking into God's territory for over 100 years.</B></FONT></TD></TR></TABLE>

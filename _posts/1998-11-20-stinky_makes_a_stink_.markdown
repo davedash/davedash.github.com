@@ -23,7 +23,10 @@ excerpt: |
   </blockquote>
   If all goes well, this is a permanent thing.
 
+
+tags: [food, computers, allen hall, uiuc, family]
 ---
+
 <TABLE align=right width=214 border=0>
 <TR><TD><IMG border=1 src="http://www.ftmax.com/pics/981120-leonid.jpg" width=214 height=161></TD></TR>
 <TR><TD><FONT face="Arial, sans-serif" size=1><B>"Whee!"  Soaring through space, Stinky's PSX will never be seen in Urbana-Champaign for a very long time.</B></FONT></TD></TR></TABLE>

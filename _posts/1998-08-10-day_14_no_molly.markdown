@@ -3,5 +3,8 @@ wordpress_id: 188
 layout: post
 title: Day 14 No Molly
 excerpt: I saw <a href="http://www.pithemovie.com/">Pi</a>.  It was okay.  I liked the music for it a lot and may buy the 5 song soundtrack (I have one of the songs already).  I with the story.  Mainly because it was this guy who was insane who was trying to find some magic code with his magic computer.  The movie really felt amateur.  I mean not just an independant movie, but it didn't seem like a good one either.  It was interesting though.  That made up for the movie, I guess.
+
+tags: [movies, family]
 ---
+
 I saw <a href="http://www.pithemovie.com/">Pi</a>.  It was okay.  I liked the music for it a lot and may buy the 5 song soundtrack (I have one of the songs already).  I with the story.  Mainly because it was this guy who was insane who was trying to find some magic code with his magic computer.  The movie really felt amateur.  I mean not just an independant movie, but it didn't seem like a good one either.  It was interesting though.  That made up for the movie, I guess.

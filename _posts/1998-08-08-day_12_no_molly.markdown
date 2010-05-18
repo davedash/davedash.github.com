@@ -3,5 +3,8 @@ wordpress_id: 186
 layout: post
 title: Day 12 No Molly
 excerpt: "No Molly, but new site.<p>I'm going to what'll be the last Indian party I attend for a while.  Some kid's birthday party.  Yay?  Tomorrow will be fun though: Uptown Art Fair and Improv in the Park."
+
+tags: [friends, web development, desi, rollerblading]
 ---
+
 No Molly, but new site.<p>I'm going to what'll be the last Indian party I attend for a while.  Some kid's birthday party.  Yay?  Tomorrow will be fun though: Uptown Art Fair and Improv in the Park.

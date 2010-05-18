@@ -3,7 +3,10 @@ wordpress_id: 557
 layout: post
 title: The Namesake
 wordpress_url: http://davedash.com/2007/03/24/the-namesake/
+
+tags: [desi]
 ---
+
 Like a good second generation Desi I saw [The Namesake](http://www.foxsearchlight.com/thenamesake/) after recently completing the novel.  Both are very good and I recommend reading the book and watching the movie, although not necessarily in that order.
 
 The following should not spoil the movie much, but are some criticisms that Katie and I had.

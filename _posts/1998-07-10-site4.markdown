@@ -9,7 +9,10 @@ excerpt: |-
   26 Beta Testing begins
   </pre>
   The site will be impressive, but not content rich.  I will slowly add stuff to it though.  I'll ask people about volunteering to check out the new site (beta test) when I finish.
+
+tags: [web development]
 ---
+
 I've decided this new site will take forever so here's what I'm doing now:
 <pre>
 16 July Humor page

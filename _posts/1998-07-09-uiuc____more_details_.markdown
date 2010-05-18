@@ -13,7 +13,10 @@ excerpt: |-
   hopefully more...
   </pre>
   <p>Umm then I went home.<p>Oh yeah, I've e-dopted Sunita as my e-sister.  She's cool.
+
+tags: [highschool, friends, allen hall, uiuc]
 ---
+
 Whopping out my schedule...
 
 Day 1:

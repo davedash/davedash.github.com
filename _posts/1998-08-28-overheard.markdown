@@ -9,7 +9,10 @@ excerpt: |-
   Girl: "You'll lick my dirty cunt and you'll like it!  You'll love it!"
   </blockquote>
   I have a math assignment due next week.  Homework sucks when your sick.
+
+tags: [allen hall, uiuc]
 ---
+
 Well you know you're in college when you here things like this in the hall:
 <blockquote>
 Boy: "Can I lick your dirty cunt?"<br>

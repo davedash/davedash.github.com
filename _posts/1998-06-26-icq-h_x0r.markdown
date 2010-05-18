@@ -6,7 +6,10 @@ excerpt: |-
   Has anybody been getting a series of messages with the body, "Jam with me?" or something about hackerz haven?<p>
   
   I've gotten almost one hundred of ICQ messages like that already.  The UINs are large numbers not in the ICQ number range.  I assume someone got a crazy hack thing.  THe messages were sent at about 5:56-5:57PM today.
+
+tags: [computers]
 ---
+
 Has anybody been getting a series of messages with the body, "Jam with me?" or something about hackerz haven?<p>
 
 I've gotten almost one hundred of ICQ messages like that already.  The UINs are large numbers not in the ICQ number range.  I assume someone got a crazy hack thing.  THe messages were sent at about 5:56-5:57PM today.

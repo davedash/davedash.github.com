@@ -10,7 +10,10 @@ excerpt: |
   <p>Molly picked me up and I went over to her place for dinner at about 5:30 PM.  It was nice having another meal.  At about 8:30 we left for the airport and finally a bit before 10:00 I had to let go of her (physically) and she stepped on the plane to LAX.  I shall miss her.  I shall also miss Tom, who was on the same flight, but not nearly as much.
   <p>I feel like I should be going back to UI soon.  Not that I am prepared to go.  I've very little going on in my life until January 18th.  Also, there is a correction to make.  I was so pessimistic that I thought I'd see nobody especially not dear Molly over spring break, but alas a few days of overlap do exist.  My break is from March 13 through March 21.  More details will be spilled as I get them.
 
+
+tags: [friends, movies, uiuc, rollerblading]
 ---
+
 Sorry Su, I'm going to use that phrase always.
 <p>Well I've actually gone out and done stuff.  Let's talk about yesterday.  Yesterday was New Year's Eve.  As promised I was at the <a href="http://www.borchert.com/">Borchert's</a>.  It was nice to attend.  I saw a lot of people I hadn't seen for a while.  I even talked with my alter ego.  I even talked to Hayley.  So much was done in one night.  It was good to know that Mike Borchert and Tom Borchert among others are very into techno/electronic/wierd music like Daft Punk and Crystal Method. I loose uniqueness points, but oh well.  Molly and I attempted sleeping around three or four in the morning, unsuccessfully because of all the people.  At about 5:30 or 6:00 AM  we went to Perkins (which Tina may find amusing).  We had an amusing time.  Ryan Hayle with some help won a Budweiser racing shirt and an elf in the claw game that they have.  We had way too much fun because of the minimal sleep.  
 We left a short time after the police came.  That's right, the police came to Perkins to pick up some guy who passed out in a booth.  They had a stretcher and an ambulence and everything.  You've got to love the stupid things people do during New Years.

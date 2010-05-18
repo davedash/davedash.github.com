@@ -3,7 +3,10 @@ wordpress_id: 197
 layout: post
 title: Allen Hall Late Nighter
 excerpt: We had the Late Nighter today.  It was pretty fun.  We saw a <a href="http://www.spicyclamatto.org/">very good improv group</a> among other things.  I got tired so headed back before 2AM (and half the floor did the same so we walked back together).<p>I had a cold, and still do.  I helped Heather hook up a network card (3COM, like me) and then sat in her room which has 2 window fans.  Then I went into my room and then went downstairs.  The heat in my room was unbearable.  Several people downstairs were doing likewise.  I met an interesting group of people too.  They were like the discussionist arm of Walking Fish.  I walked outside with them too, they are all very interesting.  Once again, I love my hall.
+
+tags: [friends, computers, allen hall]
 ---
+
 (**ed:** Title changed from "Day 27-28 No Molly" to "Allen Hall Late Nighter")
 
 We had the Late Nighter today.  It was pretty fun.  We saw a <a href="http://www.spicyclamatto.org/">very good improv group</a> among other things.  I got tired so headed back before 2AM (and half the floor did the same so we walked back together).<p>I had a cold, and still do.  I helped Heather hook up a network card (3COM, like me) and then sat in her room which has 2 window fans.  Then I went into my room and then went downstairs.  The heat in my room was unbearable.  Several people downstairs were doing likewise.  I met an interesting group of people too.  They were like the discussionist arm of Walking Fish.  I walked outside with them too, they are all very interesting.  Once again, I love my hall.

@@ -3,5 +3,8 @@ wordpress_id: 291
 layout: post
 title: Video
 excerpt: From <a href="http://wwww.bootnet.com/">boot 23</a> (the last issue of "boot"):<blockquote>The primary use of video on the PC is--you guessed it--porn!<br>-Alex St. John</blockquote><p>The article is about justifying the use of powerful processors.  Basically there isn't any justification, for most people to have big machines.  He says video needs it slightly, but most video is sex and violence, like in video games.  Society is funny that way.
+
+tags: [computers]
 ---
+
 From <a href="http://www.bootnet.com/">boot 23</a> (the last issue of "boot"):<blockquote>The primary use of video on the PC is--you guessed it--porn!<br>-Alex St. John</blockquote><p>The article is about justifying the use of powerful processors.  Basically there isn't any justification, for most people to have big machines.  He says video needs it slightly, but most video is sex and violence, like in video games.  Society is funny that way.

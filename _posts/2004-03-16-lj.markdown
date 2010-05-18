@@ -3,5 +3,8 @@ wordpress_id: 523
 layout: post
 title: Lj
 excerpt: c.f. http://davedash.livejournal.com/I'll be importing between the sites soon.
+
+tags: [Uncategorized]
 ---
+
 c.f. http://davedash.livejournal.com/I'll be importing between the sites soon.

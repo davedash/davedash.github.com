@@ -3,5 +3,8 @@ wordpress_id: 560
 layout: post
 title: 35W Collapse
 wordpress_url: http://davedash.com/2007/08/02/35w-collapse/
+
+tags: [general, rollerblading, minnesota, 35w, bridge]
 ---
+
 I quickly through up a site for the [35W Bridge Collapse disaster](http://35wcollapse.info/) that happened in Minneapolis yesterday.  We live and work near here and are somewhat shaken by this incident.

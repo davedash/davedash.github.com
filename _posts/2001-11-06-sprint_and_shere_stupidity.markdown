@@ -3,7 +3,10 @@ wordpress_id: 468
 layout: post
 title: Sprint and shere stupidity
 excerpt: Once again, I'm glad I'm not a Sprint customer.  Sprint's service is absolutely horrible - or maybe it is just my phone.  Apparently, however, they'll try to justify any of their ills.
+
+tags: [general, learning]
 ---
+
 Once again, I'm glad I'm not a Sprint customer.  Sprint's service is absolutely horrible - or maybe it is just my phone.  Apparently, however, they'll try to justify any of their ills.<!--more-->By sheer luck I happened upon a give-a-way of Motorola desktop/cell phone sets.  Its some sort of evaluation of suitable desktop phone replacements.  I.e. I think we want to get out of being screwed by Ameritech/SBC.
 
 So the phone worked wonders until I started to notice that it lagged on network packets (via SMS, etc).  Still not enough to complain about for a free phone.
