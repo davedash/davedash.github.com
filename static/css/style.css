@@ -41,12 +41,12 @@ h2 {
     margin-top: 1em;
 }
 
-.date {
+.meta, .date {
     font-size: 80%;
     color: #666;
 }
 
-#post .date, p, ol, ul {
+.meta, p, ol, ul {
     margin-bottom: 1em;
 }
 

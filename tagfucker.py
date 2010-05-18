@@ -19,8 +19,14 @@ POST_HEADER_SEP_RE = re.compile(POST_HEADER_SEP_RE, re.M)
 files_done = 0
 for filename in files:
     f = file(os.path.join(POSTS, filename))
+    files_done += 1
+    if filename.endswith('.swp'):
+        continue
     data = f.read()
-    (meta, content,) = re.split(POST_HEADER_SEP_RE, data, 1)
+    try:
+        (meta, content,) = re.split(POST_HEADER_SEP_RE, data, 1)
+    except:
+        import pdb; pdb.set_trace()
     try:
         metadata = yaml.load(meta)
     except:
@@ -41,9 +47,8 @@ for filename in files:
     if not tags:
         continue
 
-    tags = "tags: " + " ".join([t[0] for t in tags])
+    tags = "tags: [" + ", ".join([t[0] for t in tags]) + "]"
     f = file(os.path.join(POSTS, filename), 'w')
     f.write("\n".join([meta, tags, '---', content]))
     f.close()
-    files_done += 1
     print "Done with %d: %d/%d" % (wpid, files_done, len(files))

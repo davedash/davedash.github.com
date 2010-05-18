@@ -12,17 +12,14 @@ Mozilla for the Firefox Add-ons site.
 ## Recent Blog Posts
 <ol>
 {% for post in site.posts limit:10 %}
-  <li>
-    <span class="date">{{ post.date | date: "%Y.%m.%d"}}</span> &raquo;
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+    {% include item.html %}
 {% endfor %}
 </ol>
 
 [Full Archive](archive)
 
-Site Tag:  {{ site.tags.keys }}
+## Tags
 
-{% for tag, post in site.tags %}
-a
-{% endfor %}
+<p class="tags">
+{% include tags.html %}
+</p>
