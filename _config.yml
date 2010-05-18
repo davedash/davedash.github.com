@@ -1,6 +1,5 @@
-auto: true
 pygments: true
 markdown: rdiscount
 permalink: pretty
 # lsi: true
-paginate: 10
+exclude: Rakefile
