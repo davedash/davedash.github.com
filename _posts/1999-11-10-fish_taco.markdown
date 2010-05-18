@@ -3,8 +3,5 @@ wordpress_id: 340
 layout: post
 title: Fish Taco
 excerpt: Today at dinner Cap'n Angie and I were serving up some Fish Tacos.  The people to whom we gave tacos didn't seem to enjoy this new creation.  Come on!  Fish taco!  FT!  It's gotta be good.  It's G-r-r-reat!
-
-tags: 
 ---
-
 Today at dinner Cap'n Angie and I were serving up some Fish Tacos.  The people to whom we gave tacos didn't seem to enjoy this new creation.  Come on!  Fish taco!  FT!  It's gotta be good.  It's G-r-r-reat!

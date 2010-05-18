@@ -15,10 +15,7 @@ excerpt: |
   
   <p>Ever been to <a href="http://www.worldwidemart.com/scripts/">Matt's Script Archive?</a>  I used to go there a few years ago to use scripts like the BBS we had on mightycow.com a long time ago.  I read the page about <a href="http://www.worldwidemart.com/mattw/">Matt Wright</a> a while back, maybe last year or the year before.  I thought nothing of it.  But if you read the page you'll realize he goes to the U of I.  I found this out when Anand told me, "Matt Wright is awesome at Perl."  "Who's that?  Wait, is that Matt's Script Archive Matt?"  "Yeah, also the Matt who lives on our floor."  So yeah, next time you go to Matt's Script Archive, remember, I know this guy.  He's also <a href="http://www.jawed.com/">Jawed</a>'s roommate.  Two computer geniuses in one room...
 
-
-tags: 
 ---
-
 
 
 Well the other day my roommate was talking in his sleep... in English.  He said "hey Josh" a couple times.  It was pretty funny.  Maybe he thought he could get in a game of <i>Tekken</i> or something.

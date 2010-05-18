@@ -5,8 +5,5 @@ title: Dan
 excerpt: |
   Dan Lavenda visited me yesterday.  I think more people should do as such.  Just stop by for a half hour or so and enjoy yourselves.
 
-
-tags: 
 ---
-
 Dan Lavenda visited me yesterday.  I think more people should do as such.  Just stop by for a half hour or so and enjoy yourselves.

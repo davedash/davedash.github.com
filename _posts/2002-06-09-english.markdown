@@ -9,10 +9,7 @@ excerpt: |
   I just found that amusing.  Also amusing enough to share with everyone.
   
 
-
-tags: 
 ---
-
 I was reading this document, and at the bottom it read: 
 Please excuse my English, but I am not a native speaker. If someone wants to translate this documentation into real but less funny English, please contact me.
 

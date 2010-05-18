@@ -3,8 +3,5 @@ wordpress_id: 316
 layout: post
 title: Ventura
 excerpt: Read this <a href='http://www.channel4000.com/news/ventura/news-ventura-990929-213428.html'>article on Governor Ventura</a>.  It's quite amusing.  The quote I like is, "Organized religion is a sham and a crutch for weak-minded people who need strength in numbers."  Funny leaders.
-
-tags: 
 ---
-
 Read this <a href='http://www.channel4000.com/news/ventura/news-ventura-990929-213428.html'>article on Governor Ventura</a>.  It's quite amusing.  The quote I like is, "Organized religion is a sham and a crutch for weak-minded people who need strength in numbers."  Funny leaders.

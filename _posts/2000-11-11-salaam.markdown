@@ -5,9 +5,6 @@ title: Salaam
 excerpt: |-
   I just had a great day.  I like to cook so I cooked today.  It was cold, so I went to only one of my four classes today.  I like people so I had people over for dinner.
   <p>Yeah, it's all good...</p>
-
-tags: 
 ---
-
 I just had a great day.  I like to cook so I cooked today.  It was cold, so I went to only one of my four classes today.  I like people so I had people over for dinner.
 <p>Yeah, it's all good...</p>

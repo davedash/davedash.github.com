@@ -28,10 +28,7 @@ excerpt: |-
   
   <p>I took my second math test.  It hurt.
   <p>I love <a href="http://www.lyrics.ch/query/get?s=66980">this</a> song.  "Give it to me, baby!"
-
-tags: highschool friends computers web development allen hall politics family
 ---
-
 <table align="left" width=179>
 <tr><td><img src="http://www.ftmax.com/pics/981103-soilsurvey.jpg" height="179" width="179">
 </td></tr>

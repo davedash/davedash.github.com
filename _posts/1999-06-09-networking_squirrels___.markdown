@@ -44,10 +44,7 @@ excerpt: |-
   ICQ (preferred) me.  I'll give you the details later.
   </UL>
   Thank you.
-
-tags: 
 ---
-
 Today was nice when I went outside... I was really laid back.  I dropped 
 some film at Walgreens.  While waiting for the film to develop I stopped 
 by a poster store and saw really cool Star Wars posters... including 

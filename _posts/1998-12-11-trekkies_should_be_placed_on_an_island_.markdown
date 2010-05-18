@@ -21,10 +21,7 @@ excerpt: |-
   <p>My speech went horribly.  I am done with classes.  Finals are next week.  You can look at the <a href="calendar.php3" target=_self>Calendar</a>.  I have two papers I need getting done by this weekend.
   
   <p>I saw <i>Star Trek: Insurrection</i> and got just what I expected.  A movie that had neat looking ships and fights.  It was campy too.  I think I enjoyed it because I made so much fun of Star Trek and the trekkies.  I really hate Star Trekkies.  I mean they think all these things in Star Trek are so cool, like Data and his neat little misunderstanding of being human.  There were points where people laughed at the dumbest things, I mean come on.  Riker was really trying to get it on with Troi.  It is a good laugh though, and a lot of stuff blows up.
-
-tags: computers politics desi
 ---
-
 <TABLE align=right width=214 border=0>
 <TR><TD><IMG border=1 src="http://www.ftmax.com/pics/19981211-protest.jpg" width=214 height=155></TD></TR>
 <TR><TD><FONT face="Arial, sans-serif" size=1><B>Christians in India protest religious persecution.  Hindus blame bad Christian karma.</B></FONT></TD></TR></TABLE>

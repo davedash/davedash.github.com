@@ -3,10 +3,7 @@ wordpress_id: 571
 layout: post
 title: Biking adventures
 wordpress_url: http://davedash.com/2008/02/21/biking-adventures/
-
-tags: general learning
 ---
-
 So I'm trying to do a bit more than the 2.5 miles to the station and back, so I biked to work today and decided to bike part of the way back like so:
 
 <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=15342382699686344581,37.407620,-122.010044%3B2546939828201452119,37.412002,-122.019126&amp;saddr=37.390942,-121.978626&amp;daddr=E+Java+Dr+%4037.407620,+-122.010044+to:W+Java+Dr+%4037.412002,+-122.019126&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=17&amp;via=1&amp;dirflg=h&amp;sll=37.389493,-121.97942&amp;sspn=0.007041,0.011823&amp;ie=UTF8&amp;s=AARTsJpBxdVnb_GkNQvcFQODFTdWgpi1EA&amp;ll=37.40146,-122.001457&amp;spn=0.032728,0.054932&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=15342382699686344581,37.407620,-122.010044%3B2546939828201452119,37.412002,-122.019126&amp;saddr=37.390942,-121.978626&amp;daddr=E+Java+Dr+%4037.407620,+-122.010044+to:W+Java+Dr+%4037.412002,+-122.019126&amp;mra=dme&amp;mrcr=0&amp;mrsp=0&amp;sz=17&amp;via=1&amp;dirflg=h&amp;sll=37.389493,-121.97942&amp;sspn=0.007041,0.011823&amp;ie=UTF8&amp;ll=37.40146,-122.001457&amp;spn=0.032728,0.054932&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>

@@ -26,10 +26,7 @@ excerpt: |
   all you do!</pre>
   Thank you Ryan...
 
-
-tags: friends computers
 ---
-
 Here is something that you may find humorous, it was in my Inbox:
 <pre>
 Hello denizens of the internet and friends of 

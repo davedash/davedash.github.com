@@ -5,9 +5,6 @@ title: Rock star!
 excerpt: |-
   Sometimes I think I want to be a rock star.  The really athletic types that just run and jump around on the stage all the time.   Then I realized I just want to be the guy who isn't a rock star and just listens to rock music and runs around and jumps to it.  I'm listening to some music from <I>the Crow</i> and well it does just that...
   <P>Hey geeks!  How's it going?
-
-tags: 
 ---
-
 Sometimes I think I want to be a rock star.  The really athletic types that just run and jump around on the stage all the time.   Then I realized I just want to be the guy who isn't a rock star and just listens to rock music and runs around and jumps to it.  I'm listening to some music from <I>the Crow</i> and well it does just that...
 <P>Hey geeks!  How's it going?

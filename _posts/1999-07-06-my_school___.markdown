@@ -5,9 +5,6 @@ title: My school...
 excerpt: |-
   My school produces such upstanding members of society.  Like <a href='http://cnn.com/US/9907/05/illinois.shootings.04/'>this</a>.
   <p>By the way, I'm aware that it's a bit difficult to log in, I'm going to work on that when I get back to school.
-
-tags: 
 ---
-
 My school produces such upstanding members of society.  Like <a href='http://cnn.com/US/9907/05/illinois.shootings.04/'>this</a>.
 <p>By the way, I'm aware that it's a bit difficult to log in, I'm going to work on that when I get back to school.

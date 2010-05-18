@@ -25,10 +25,7 @@ excerpt: |-
   The Saturday after I moved out, my ICQ list shrunk manifold.
   <P>The other day I came up with this cool idea.  Queen Amidala (or her handmaiden, Sabe) in the movie (and the book) had several different dresses.  I'm sure she has enough dresses to complete both sides of a chess board.  
   For the pawns they could use Padme.  Now when Padme reaches the end of the board, she can say "I am Queen Amidala."  This was just a random thought.
-
-tags: 
 ---
-
 My roommate mentioned that the Episode 1 book had a few things that 
 the movie left out.  I borrowed his book and read it within the span of 
 approximately 22 hours.  This is pretty good for me, seeing as usually it takes

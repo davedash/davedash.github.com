@@ -26,10 +26,7 @@ excerpt: |-
   I've known almost all my life.
   <p>Anyway... today Molly and I saw <i>Patch Adams</i>.  I am definitely looking forward to the real Hunter "Patch" Adams visiting Allen Hall in February.  My uncle and his family are coming over tonight.  My little cousin, Joshna is very adorable.  I saw her yesterday, although I never talk to my cousins.  I feel bad, because soon they will be Germans.  
   <p>I don't feel like writing much more tonight.  So bye-bye.
-
-tags: movies allen hall desi family
 ---
-
 So yesterday I went to my cousin's engagement party and hung out 
 with Egypt, Su', Tina, Leena, Aradhana, Shiela, and whomever else.  
 It was pretty fun, I guess.  Err.. maybe.  Tina, Leena, Su' 

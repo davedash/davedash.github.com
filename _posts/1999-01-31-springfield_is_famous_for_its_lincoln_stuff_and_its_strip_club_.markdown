@@ -40,10 +40,7 @@ excerpt: |-
   Molly.  I could so kick her ass at Dr. Mario.
   
   <p>I'm watching <i>Hackers</i>.  I love it.  They are playing Orbital's <i>Halcyon and on and on</i>.  That's such a beautiful song.  All the other music has me wishing it was on MP3 or CD... time to go search.  This is on the wishlist now.  Wait, wow... this movie sucks.
-
-tags: 
 ---
-
 
 I want to video myself sleeping.  If I get the camera working I will.  Because, I see jack 
 

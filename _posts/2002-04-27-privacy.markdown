@@ -3,8 +3,5 @@ wordpress_id: 506
 layout: post
 title: Privacy
 excerpt: Perhaps I'll burn the entire Dave Dash archives... before Ahmed exposes it publically again...
-
-tags: 
 ---
-
 Perhaps I'll burn the entire Dave Dash archives... before Ahmed exposes it publically again...

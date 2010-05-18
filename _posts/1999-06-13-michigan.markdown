@@ -56,10 +56,7 @@ excerpt: "I wrote the following in the plane and told most of it to Molly, \r\n\
   <P>Finally the plane takes off with a bit of speed.  <TT>Seats in the rear don't tilt back.  Hard to Sleep... tired... up late last night... please advise.</TT>\r\n\
   <P>The plane's descending to Bloomington... the clouds just got really dark and ominous.... \r\n\
   Champaign's only 10 minutes away [Note: 13 minutes actually].\r\n"
-
-tags: 
 ---
-
 I wrote the following in the plane and told most of it to Molly, 
 already so here's it's third incarnation.. the web-journal!
 <P>

@@ -10,10 +10,7 @@ excerpt: |-
   <P>This summer I've started to get annoyed with all computer-babble.  Really it's pointless.  It's one thing if somebody asks me what type of computer they should get.  It's another thing when somebody just goes on and on about something like... oh bandwidth I guess.  I mean it's one thing if it's in the right setting.  Like a meeting of people who deal with bandwidth or in ICQ where you can talk about anything.
   <P>I'm not telling people to adopt my views though.  This is just what I think.  I just don't feel like talking about computers.  I'm more interested in non-computer serious discussions.
   <P>So yeah... I'm just trying to be a guy who knows a bit about computers... that's it.  I'm still a geek in other respects though.  Ah... now I know I'm going to get a lot of crap for this.
-
-tags: 
 ---
-
 So I guess after coming back to Minnesota I've had an epiphany.  I think it started when I talked to my friend Hayley.  I'm transitioning from the typical 'computer geek' to 'just a guy' who has sufficient knowledge in computers.
 <p>I have this serious problem that there are people (myself included) that can go on for hours and hours about pidly details on computers.  For example.  Bandwidth transfer rates.  This may not make any sense to most people, but there are those computer geeks (again myself included) who could talk about this for hours.  "ADSL is faster than Cable modems because Cable modems are shared bandwidth among many residents and thus the bandwidth goes down."  Add in a few technical details like the Megabits per second transfer rate and you have a technobabble.
 <p>Well what first hit me is I noticed Hayley, without a computer or even an email account lives a perfectly normal enjoyable life.  A lot of computer geeks waste time in front of a computer.  I mean, I admit that when I have absolutely nothing to do (or want to do) going to <A href='http://www.pricewatch.com/'>pricewatch.com</a> and try to put together a pretty fly computer system.  But why?  It's not like I'm going to buy it.  That'd be a different story all together.

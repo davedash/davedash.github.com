@@ -12,10 +12,7 @@ excerpt: |-
   </ul>
   <p>I'm surprised the CSR didn't bother selling me Girl Scout cookies.  At least that I'd consider paying for.  I for one, love my cell phone.  $30 a month for 120 minutes, which is extortion on AT&Ts part, but it is a much better value than anything Ameritech could ever give me.</p><p>
   That is one thing to AT&Ts credit.  I hope I don't jinx them by saying this, but at least they don't try to push things on me that I do not want.  The CSRs they have have been much nicer to me, and occasionally 1-800-IMAGINE will have a few down to earth people.
-
-tags: 
 ---
-
 So I was calling Ameritech to disconnect one of our extraneous phone lines at DIG-INTO.  I came across the following annoyances:</p>
 <ul>
 <li>To verify that I could make changes on this account, they just asked "are you authorized to make changes on this account?"  No security whatsoever.  It's one thing if they recognized me (almost impossible, judging the size of Ameritech), but no they just simply asked me and I said yes.  It probably helped that I was calling from the main phone line.</li>

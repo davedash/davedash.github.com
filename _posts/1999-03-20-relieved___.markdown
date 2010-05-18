@@ -17,10 +17,7 @@ excerpt: |
   <p>I think today I am going to pack all my stuff.  I had some though provoking material to tell you, but I am too tired to do anything about it.
   <p>I'm thinking of Linuxing my computer at school and running Windows 98 on top of it via VMware.  Message me if you have any strong opinions for or against this.
 
-
-tags: 
 ---
-
 Well I have less homework tha I thought I had.
 <p>
 Turns out one of the papers I have is due in a week or so.  I will put

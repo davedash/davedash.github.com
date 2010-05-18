@@ -23,10 +23,7 @@ excerpt: |
   <p>Brian and I made an excursion to Walgreens and some other place to get some stuff we needed.  It was hot and annoying outside.
   <p>Not much else has happened today.  This weekend has been pretty good so far.  I like it.  I just need a new telephone and a large fan.  I should shave my head and put heatsinks on it.  It's neat being from anywhere other than Chicago, or for that matter any place not Illinois.
 
-
-tags: food friends computers movies allen hall uiuc
 ---
-
 (**ed:** Title changed from "Day 24-27 No Molly... for that matter nobody" to "First Day at UIUC -5/26/2006)
 
 Thursday I could really tell that I had friends.  Adam helped me the whole day with packing.  Mike Jorgenson and Marc helped me throughout the day by keeping me company and Katie joined us for dinner.  We marveled at how neat it was that we made a very good meal buy ourselves (well actually Marc and Katie made a good meal).

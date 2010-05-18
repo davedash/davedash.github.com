@@ -5,9 +5,6 @@ title: ADSL
 excerpt: |-
   It turns out that I cannot get ADSL service quite yet.  Which is good, it saves me $120 for this summer.<p>
   Although, I'm sure later this summer it will debut.  By next year I intend to get something similar in the summer (unless I'm working away from home, which I may).  By then, Sprints wonder-line should debut, and thus the prices for both ADSL and Sprint's line would be very affordable.
-
-tags: computers
 ---
-
 It turns out that I cannot get <acronym title="Asymmetric Digital Subscriber Line">ADSL</acronym> service quite yet.  Which is good, it saves me $120 for this summer.<p>
 Although, I'm sure later this summer it will debut.  By next year I intend to get something similar in the summer (unless I'm working away from home, which I may).  By then, Sprint's wonder-line should debut, and thus the prices for both <acronym title="Asymmetric Digital Subscriber Line">ADSL</acronym> and Sprint's line would be very affordable.

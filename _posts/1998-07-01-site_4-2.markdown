@@ -23,10 +23,7 @@ excerpt: |-
    1 August  Site is copied to root directory and replaces
              ftmax.com/ and ftmax.com/x
   </pre>
-
-tags: web development uiuc
 ---
-
 Here is more information on Site 4.  I'm just posting a nice little update, if you look back, you'll see I'm behind schedule.  So here's what I "plan" to do after I come back from sunny California and UIUC:<pre>
 10 June    Web design pages
 11 June    How this site was made

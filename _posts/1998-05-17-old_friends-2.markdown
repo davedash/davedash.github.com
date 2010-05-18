@@ -14,10 +14,7 @@ excerpt: |-
   </pre>
   But it's a pretty good chance that this is correct.<p>It makes you somewhat happy that everyone goes to the U of M, because you know how to find them.<p>
   Unfortunately they won't have activated email accounts, etc. until after they go to the U of M, which is this fall... oh well...
-
-tags: highschool friends
 ---
-
 X-files... neat<p>
 I ran the following commands and surprised myself:<pre>
 finger "jesse christensen"@umn.edu

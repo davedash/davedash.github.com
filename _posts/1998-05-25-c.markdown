@@ -3,8 +3,5 @@ wordpress_id: 255
 layout: post
 title: C++
 excerpt: Grr... my C++ assignment was looking almost manageable.  Except, I looked at the files that were included.  We have to write most of it.  I can do that, it just takes time and I don't know how to properly test what I have written.  Oh well.
-
-tags: computers
 ---
-
 Grr... my C++ assignment was looking almost manageable.  Except, I looked at the files that were included.  We have to write most of it.  I can do that, it just takes time and I don't know how to properly test what I have written.  Oh well.

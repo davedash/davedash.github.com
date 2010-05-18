@@ -14,10 +14,7 @@ excerpt: |-
   </td></tr>
   <tr><td><font face="Arial, Helvetica" size=1><b>&quot;coming soon...&quot;</b></font></td></tr></table>
   I had been planning for a few months to do a new site this summer (released by August) that would pretty much eliminate the need for frames.  I've also started doing this on a prototype for Med-Rx, so I do have the knowhow on the frameless part.  I will include other things though.  Like the Random Sentence Generator will play a larger role.  I will write a small questionaire function for the first page.  I will also write a new calendar program for the first page.  The journal system will be more stable as well.  So that's what's to come.  According to Molly and CJ who looked at my rough sketch, they think it'll look cool.
-
-tags: 
 ---
-
 I remember right before highschool started that I was like on a non-depression streak.  I did get depressed often in Junior year and then I became somewhat normal going off and on about being depressed.  Now I'm back to that, hey I'm never depressed stage again.
 <p>I found this amusing post from my CS173 professor on our news group:<blockquote><tt>
 Do NOT be late. THERE WILL BE NO CONFLICT-ON-CONFLICT-ON-CONFLICT 

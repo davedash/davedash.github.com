@@ -3,8 +3,5 @@ wordpress_id: 238
 layout: post
 title: RJ-11
 excerpt: Here's something I found about <a href="http://nicholas.www.media.mit.edu/people/nicholas/Wired/WIRED6-04.html">RJ-11</a> plugs.
-
-tags: computers
 ---
-
 Here's something I found about <a href="http://nicholas.www.media.mit.edu/people/nicholas/Wired/WIRED6-04.html">RJ-11</a> plugs.

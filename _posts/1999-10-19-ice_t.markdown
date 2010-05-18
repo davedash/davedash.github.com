@@ -3,8 +3,5 @@ wordpress_id: 328
 layout: post
 title: Ice T
 excerpt: I like this new single from <A HREF='http://www.atomicpop.com/atomicpopmusic/ICE-T.html'>Ice T</A> called <I>Always Want Ta Be a Ho</I>.  It's interesting because it goes into the past of people like this.  Ice T is cool enough to release his album on mp3 (this one is free).
-
-tags: 
 ---
-
 I like this new single from <A HREF='http://www.atomicpop.com/atomicpopmusic/ICE-T.html'>Ice T</A> called <I>Always Want Ta Be a Ho</I>.  It's interesting because it goes into the past of people like this.  Ice T is cool enough to release his album on mp3 (this one is free).

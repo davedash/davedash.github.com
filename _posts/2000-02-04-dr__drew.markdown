@@ -6,10 +6,7 @@ excerpt: |-
   One of my favorite shows is Loveline which is actually a radio show.  Dr. Drew from this show paid a visit to our campus today and just gave us a very interesting talk and q&a session.  Very amusing and a very interesting person.
   <P>
   A bit of good news... I now work for NCSA as a undergraduate web developer.  It's a bit of a pay raise from my current job.  I'll hold both for a while, I think.
-
-tags: 
 ---
-
 One of my favorite shows is Loveline which is actually a radio show.  Dr. Drew from this show paid a visit to our campus today and just gave us a very interesting talk and q&a session.  Very amusing and a very interesting person.
 <P>
 A bit of good news... I now work for NCSA as a undergraduate web developer.  It's a bit of a pay raise from my current job.  I'll hold both for a while, I think.

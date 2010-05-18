@@ -3,8 +3,5 @@ wordpress_id: 315
 layout: post
 title: lobsters
 excerpt: Lobsters have over-ridden Allen Hall this year.  The thing with the lobsters are this.  When you eat the green goo stuff in them that goo takes over your body and you become a slave to the lobster.  If you ate any of those lobsters, question your acts.  Did decide to do something?  Or did the lobster make you decide.
-
-tags: 
 ---
-
 Lobsters have over-ridden Allen Hall this year.  The thing with the lobsters are this.  When you eat the green goo stuff in them that goo takes over your body and you become a slave to the lobster.  If you ate any of those lobsters, question your acts.  Did decide to do something?  Or did the lobster make you decide.

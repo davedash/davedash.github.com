@@ -14,10 +14,7 @@ excerpt: "<table align=\"right\" width=214>\r\n\
   \r\n\
   <p>I think the media and as many non-Minnesotans as possible should make fun of Jesse Ventura (for their own reasons, not because I say so).  The reason is this.  If Jesse is ineffective, nobody's hopes will be down.  People will just expect that.  If Jesse does succeed then people can be surprised.  I was going to continue on this train of thought, then I thought, that it may end up filling the journal systems quota.  So I wrote a more organized 'entry' and will stick it in the words section eventually.  I am only half way done.\r\n\
   <p>It snowed tonight.  I think we beat Minnesota.  "
-
-tags: computers politics uiuc desi
 ---
-
 <table align="right" width=214>
 <tr><td><img src="http://www.ftmax.com/pics/981108-israel.jpg" height="168" width="214">
 </td></tr>

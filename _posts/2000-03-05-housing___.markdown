@@ -3,8 +3,5 @@ wordpress_id: 379
 layout: post
 title: Housing...
 excerpt: Cool, Michelle -or- Kate asked me to clarify some fiscal issues with rent for next year and we ended up calculating a $237 savings per month over getting a single room in the Residence Halls.  Of course the money will go towards excess in utilites, phone lines, cable, cable-internet and food as well as additional money that needs to be put into the house.  I'm excited.  By being able to work out details of rent and to muse upon what our house may be like next year with Michelle, I know I've made the right decision in choosing her as a housemate.
-
-tags: 
 ---
-
 Cool, Michelle -or- Kate asked me to clarify some fiscal issues with rent for next year and we ended up calculating a $237 savings per month over getting a single room in the Residence Halls.  Of course the money will go towards excess in utilites, phone lines, cable, cable-internet and food as well as additional money that needs to be put into the house.  I'm excited.  By being able to work out details of rent and to muse upon what our house may be like next year with Michelle, I know I've made the right decision in choosing her as a housemate.

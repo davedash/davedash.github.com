@@ -3,10 +3,7 @@ wordpress_id: 556
 layout: post
 title: The 30 day trial
 wordpress_url: http://davedash.com/2007/02/26/the-30-day-trial/
-
-tags: biking
 ---
-
 [sp]: http://www.stevepavlina.com/
 
 Occasionally I'll read [Steve Pavlina's blog][sp].  If you're looking to improve some aspect of your life, it will serve as a good resource.  

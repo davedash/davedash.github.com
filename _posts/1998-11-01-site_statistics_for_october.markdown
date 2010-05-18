@@ -22,10 +22,7 @@ excerpt: |-
   <li>The top referring sites are Tom's page, Adam's page, Ben Schack's page, and Yishan's news page.
   <li>Most people use Internet Explorer.
   <li>Most people use Windows 95, with a close following by "Others."
-
-tags: computers
 ---
-
 Overall in the last few weeks, I've been getting more hits.
 <ul><li>13190 hits for the site, 1363 user sessions for the site.
 <li>I had 45 user sessions per day (439 hits), this is probably artificially inflated since I and others probably check the page a couple times a day.

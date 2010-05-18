@@ -15,10 +15,7 @@ excerpt: |-
   <P>In essence what Adam and I had planned to take a few weeks was done in a matter of days very quickly and efficiently.  This is why we are classified as robots.<P>
   We plan to get another person to live with us to help lower our rent cost.  There are actually several more rooms available for occupancy, but due to the sheer volume of people we are opting against going over 9 people.
   <P>So to all my friends, including those from distant lands, you are all invited beginning next fall.
-
-tags: 
 ---
-
 I've been in Urbana since Monday in case people didn't gather.  It's great to be back at school except that the weather here is crap.  I've been adjusting to classes and doing a lot of cool organization stuff.  Let me explain in the next paragraphs, located directly below this sentences.
 <P>
 Earlier in the school year I was wondering what I'd do for living next Fall (and the rest of the year for that matter).  For a few months I was on an RA kick.  Long enough to actually go to one of the group RA candidate meetings and everything.  I needed a backup plan in case I couldn't be an RA.  Eventually I got talking to Mr. Roboto (a.k.a. Adam Nagao).  So we started looking for a place together.

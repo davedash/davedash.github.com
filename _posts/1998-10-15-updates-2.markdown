@@ -3,8 +3,5 @@ wordpress_id: 231
 layout: post
 title: Updates
 excerpt: I updated the rest of the web site.  I updated the friend's section and the humor links.  Enjoy it while it's still new.
-
-tags: web development
 ---
-
 I updated the rest of the web site.  I updated the friend's section and the humor links.  Enjoy it while it's still new.

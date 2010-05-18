@@ -11,10 +11,7 @@ excerpt: |-
   Also on the MP3 server is an mp3 of Jack, my roommate.  It's in Chinese.  It's his mom calling about the shooting that happened.  I have a translation available too.  It's under \D\Dave's Roommate, Jack Lin\.<p>
   I shaved yesterday.  I look a lot less credible, but I also look like I'm not fresh off the boat.  I also noticed that some of my hair has a copper color.  I think it would be cool to have more uniform copper hairs.<p>
   I've noticed that it only takes me a small amount of time to set up a web site.  Here is one for <a href="http://www.ftmax.com/y2k/">Millenium 3</a>.  It's our team that's competing in a robot design competition.  The sad thing is, if Peter were in the competition, he'd beat everyone's ass.
-
-tags: friends computers web development movies allen hall uiuc
 ---
-
 I found a link <a href="http://customnews.cnn.com/cnews/pna.show_story?p_art_id=2899293&p_section_name=On+Target&p_art_type=763693">here</a> and <a href="http://customnews.cnn.com/cnews/pna.show_story?p_art_id=3075610&p_section_name=On+Target&p_art_type=763693">here</a> referring to the shooting.  Apparently they had the wrong guy.<p>
 It's a bout time that somebody came out with <a href="http://www.microsoft.com/products/hardware/phone/phoneHI/default.htm">a phone that hooks up to your PC</a>.  Unfortunately you can't use this with talking over the Internet.  It wouldn't be that hard.  Just make it a USB device that doubles as a microphone/speaker and you could talk to people via netmeeting with a phone.<p>
 Friday Night I watched Omen IV with some friends.  It's actually the second time I saw the movie.  It's very funny.  Watch it with girls.  There was a seen where snakes bit people and Cheryl, a friend of mine, screamed a little too much.  I'm not implying that all girls will scream, there are probably quite a few exceptions.  One exception, I think, is Molly.  I can't picture her screaming out of fear of a movie.  Or having any fear of something in a movie.  That's why I love her.<p>

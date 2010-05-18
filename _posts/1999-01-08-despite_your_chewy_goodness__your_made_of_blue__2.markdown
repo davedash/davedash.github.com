@@ -14,10 +14,7 @@ excerpt: "Linux and all it's goodness couldn't save my damn journal entry that I
   <p>I finally finished the year end <i>Science</i> journal.  Once I got to the research paper section of the magazine, it went downhill.  I mean, even if I was interested... research papers are boring as all hell.\r\n\
   <p>You know Veruca Salt?  Yeah well she or it or whatever has this remake of Depeche Mode's song <i>Sombody</i>... but I mean... now it sounds all lesbian if you listen to <a href=\"http://search.lyrics.ch/query/get?s=27943\">the words</a>... it's kinda funny.  \"All lesbian.\"  That's funny.  \r\n\
   <p>Slashdot presented me with this <a href=\"http://news.bbc.co.uk/hi/english/sci/tech/newsid_250000/250343.stm\">link</a>.  For all you cat lovers out there, here's technology acting out blasphemey.  It's about this cat that learns based on its surroundings.  Supposedly the brain for this will have the largest neural network.  Now you know why Data from Star Trek always liked cats. "
-
-tags: 
 ---
-
 Linux and all it's goodness couldn't save my damn journal entry that I typed.  Good think I ICQed the bulk of it to my sidekick of love at Caltech.
 <p>
 Wednesday I went with <a href="http://www.engelbot.com/">Adam</a> to <a href="http://www.math.umn.edu/~shaw/">Dr. Shaw</a>'s math class featuring Aaron Engelhart and "Little" Dan Jay-Dixon.  Adam and I quickly learned Differential Equations again and became TAs.

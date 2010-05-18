@@ -21,10 +21,7 @@ excerpt: |-
   </p>
   <p>After a long fun-filled weekend we finally came back to Palatine and my friends went back to Minnesota.  Cellphones and <a href="http://motorola.com/talkabout/">Talkabout</a> two-way radios came in very handy at times and will be seen in greater quantities by me in the future I hope.  This was a great trip and I finally saw a lot of Chicago.  I recommend that people come by Chicago sometime (with or without me) and check it out.  The Taste itself, wasn't that great.  The food wasn't unique enough, like it is in Minnesota... too many "generic" types of food, I thought.
   </p>
-
-tags: 
 ---
-
 <table width="200" border="0" cellpadding="6" align="right"><tr><td>
 <image src="/data/journal/pics/20000702-food.com.jpeg" align="right" width="200" border="0" height="133" />
 </td></tr>

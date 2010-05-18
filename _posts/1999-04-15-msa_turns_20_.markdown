@@ -3,8 +3,5 @@ wordpress_id: 85
 layout: post
 title: MSA turns 20.
 excerpt: Happy Birthday Matt!
-
-tags: 
 ---
-
 Happy Birthday Matt!

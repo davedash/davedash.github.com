@@ -23,10 +23,7 @@ excerpt: |
   
   
 
-
-tags: web development uiuc
 ---
-
 <TABLE align=left width=200 border=0>
 <TR><TD><IMG border=1 src="http://www.ftmax.com/pics/19981215-hanukkah.jpg" width=200 height=170></TD></TR>
 <TR><TD><FONT face="Arial, sans-serif" size=1><B>World Wide Jewish Conspiracy trains even the youngest of conspirators in their rituals.</B></FONT></TD></TR></TABLE>

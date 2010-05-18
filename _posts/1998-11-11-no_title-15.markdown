@@ -22,10 +22,7 @@ excerpt: |
   
   <p>I started to work on this stupid, useless project of the Hindu Mandir registry/address book type thing (again).  I doubt anybody will make propper use of it, I'll see.  If I do anything tonight it will be a new project for <a href="http://www.medrx.com/">Med Rx</a> using <a href="http://130.126.72.54/medrx/new/">this</a>.
 
-
-tags: computers web development allen hall politics uiuc
 ---
-
 <table align="right" width="214">
 <tr><td><img border=1 src="http://www.ftmax.com/pics/981109-lindseyclinton.jpg" height="133" width="214">
 </td></tr>

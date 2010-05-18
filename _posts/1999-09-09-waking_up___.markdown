@@ -3,8 +3,5 @@ wordpress_id: 7
 layout: post
 title: Waking up...
 excerpt: "I like the idea of waking up to girls.  Like a few days ago I was taking a nap, and then when I was finished I saw Erin sitting in my chair reading me the <I>Chicago Tribune</I>.  Today Sophia came into my room when it was time for me to wake up.  "
-
-tags: surgery
 ---
-
 I like the idea of waking up to girls.  Like a few days ago I was taking a nap, and then when I was finished I saw Erin sitting in my chair reading me the <I>Chicago Tribune</I>.  Today Sophia came into my room when it was time for me to wake up.  

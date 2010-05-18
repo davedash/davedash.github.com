@@ -3,10 +3,7 @@ wordpress_id: 500
 layout: post
 title: Communalism, caste and class.
 excerpt: "This is an article I wrote for the Hindu Students Council at the UIUC.  [NOTE: There are alleged incidents that happened on the train that provoked the immolation.  This was not premeditated as previously though, and I had thought.  Regardless, the issue I address is communalism, and specifically the attack on Muslim minorities.]"
-
-tags: 
 ---
-
 This is an article I wrote for the Hindu Students Council at the UIUC.  [NOTE: There are alleged incidents that happened on the train that provoked the immolation.  This was not premeditated as previously though, and I had thought.  Regardless, the issue I address is communalism, and specifically the attack on Muslim minorities.]<!--more-->Agni discriminates not between innocent, guilty, Bramhin, Dalit, Hindu, Muslim, women, children, men.  27 February, a train of kar sevaks coming from the disputed Ayodhyah were burned alive by Muslims.  From afar it was a let down.  As one who is against the razing of holy places, like the babri masjid, I could understand where resentment towards the kar sevaks arises.  The barbarous inhumanity, however, remains inexcusable.
 
 As if to further torment my heart, instead of a 'civilized' round-up of those guilty there was a witch hunt for Muslims.  Again, agni discriminates not.  In only a few days, Gujrat was set aflame with a total of almost 600, mostly Muslim victims.  Many burnt alive.  A man trying to save his children was burnt to death.  His children were burnt out of existence.

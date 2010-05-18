@@ -19,10 +19,7 @@ excerpt: "I'll be honest with you\r\n\
   Because to do that is to be subservient... to devils\r\n\
   Subservient to evil and so that the only way to live on this planet with any human dignity at the moment is to struggle \r\n\
   Subservient to evil and so that the only way to live on this planet with any human dignity at the moment is to struggle "
-
-tags: 
 ---
-
 I'll be honest with you
 I hate war in all it's forms -
 Physical, psychological, spiritual.... emotional... environmental

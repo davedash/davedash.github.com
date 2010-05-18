@@ -24,10 +24,7 @@ excerpt: |
   <p>Well I've got to go pour some lambs blood on my door now, so goodnight.
   
 
-
-tags: 
 ---
-
 Caroline and I went to a terrific event put on by the Indian Students Association, India Night.  
 If any of you have been to any Indian events with me (Molly, Adam, KT, etc) 
 you probably can agree with me that the sound is terrible.  The sound 

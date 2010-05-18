@@ -38,10 +38,7 @@ excerpt: |-
   too long for me.
   <p>I'll also add a small survey system in time... you know... I'm pretty 
   much ganking stuff from slashdot, left and right.
-
-tags: 
 ---
-
 <a href="http://www.mattwright.com/">MattWright</a> has this to say 
 about iMacs, "iMac is the whore of computers.  It 'wears' all this 
 cheap 'clothing.'"

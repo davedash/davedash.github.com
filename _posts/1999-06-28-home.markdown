@@ -3,8 +3,5 @@ wordpress_id: 64
 layout: post
 title: home
 excerpt: I came home at 6am yesterday.  Thanks to my brother, Molly and my cousin, Julie who spent over 16 hours in a non-air conditioned vehicle in the span of 23 hours just to bring myself and my stuff home.
-
-tags: 
 ---
-
 I came home at 6am yesterday.  Thanks to my brother, Molly and my cousin, Julie who spent over 16 hours in a non-air conditioned vehicle in the span of 23 hours just to bring myself and my stuff home.

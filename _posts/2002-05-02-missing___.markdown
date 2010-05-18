@@ -3,8 +3,5 @@ wordpress_id: 507
 layout: post
 title: Missing...
 excerpt: So the underclasspersons of DSC/SFP (mostly Hawaa, Laruren, Shafaq and Rumana) made lunch and cakes and whatnot yesterday for us graduates.  A truly kind gesture... I'm going to miss being here in the heart of their battles.  I only hope that I can find cadre equally as cool in my future journeys.  Otherwise I'll have to kidnap quite a few people.
-
-tags: 
 ---
-
 So the underclasspersons of DSC/SFP (mostly Hawaa, Laruren, Shafaq and Rumana) made lunch and cakes and whatnot yesterday for us graduates.  A truly kind gesture... I'm going to miss being here in the heart of their battles.  I only hope that I can find cadre equally as cool in my future journeys.  Otherwise I'll have to kidnap quite a few people.

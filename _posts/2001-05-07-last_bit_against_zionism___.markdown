@@ -21,10 +21,7 @@ excerpt: |-
   where people get a say in how they are ruled.  (Please don't give me your useless comments that Democracies do not exist, I am using a broader definition.)
   Power to the people.  Down with imperialism!
   <p>So I wrote a <a href="http://www.dailyillini.com/may01/may07/opinions/stories/letter02.shtml">letter</a> to the DI, attacking <a href="http://dailyillini.com/may01/may03/opinions/stories/letter04.shtml">Michael Frazin's points</a> and defending <a href="http://dailyillini.com/may01/may02/opinions/stories/letter03.shtml">what</a> sister Mariam had to say (Frazin actually twisted her words).</p>
-
-tags: 
 ---
-
 I used to think that the view that not being extremely
 for Palestine meant that you were pro-Israel was a bit
 harsh.  Then I realized that the default sentiments in

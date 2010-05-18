@@ -18,10 +18,7 @@ excerpt: |-
   <p>
   Independence... from what?  Britain?  They let you have this land.  It was a freebee.  India and Pakistan had to fight for their independence from Britain.  America even had to fight for their independence.  Balfour's declaration and US pressure pretty much opened the doors to Palestine for the Jews.  The Palestinians weren't oppressing Jews, but that's pretty much who the Jews were fighting, along with Palestinian allies.  Israel independence.  Celebrate it, but recognize the cost for 5.8 million Jews today is 5 million Palestinians.  Insha'allah this land can be lived in by all of Abrahams descendents.  Each as equals.
   </p>
-
-tags: 
 ---
-
 Until I decided to educate myself, I had felt that Israel was a good thing.  A little research has led me to find some problems with Israel.  For example, there is the Israeli Day of Independence.  I have problems with this.  I also have problems with the promised land.  I also have problems with the Zionist movement as it has been practiced.
 <p>
 Let's look at the promised land.  Why is it called the promised land?  It was land promised to the descendants of Ibrahim (Abraham, Abe) the father of the Jews.  From Abraham's son Isaac came the Jewish people and from his other son, Ishmael, came the Arabs.  Therefore the promised land belongs (theologically) to Jews and Arabs (which are mostly Muslims and Christians).  This land is biblically just as much the Arabs as it is the Jews.

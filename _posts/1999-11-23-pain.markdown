@@ -3,8 +3,5 @@ wordpress_id: 346
 layout: post
 title: pain
 excerpt: So the silicon implant that was in my eye was fully removed today.  Let me tell you that with no sedatives that was one of the most painful experiences I've had recently.  They just cut me open until they found the damn thing.  My god did that hurt.  Hopefully I'll heal up all the way... I just need to schedule a round of doctor appointments in Urbana.
-
-tags: 
 ---
-
 So the silicon implant that was in my eye was fully removed today.  Let me tell you that with no sedatives that was one of the most painful experiences I've had recently.  They just cut me open until they found the damn thing.  My god did that hurt.  Hopefully I'll heal up all the way... I just need to schedule a round of doctor appointments in Urbana.

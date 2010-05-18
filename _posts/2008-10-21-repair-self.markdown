@@ -3,10 +3,7 @@ wordpress_id: 593
 layout: post
 title: repair self
 wordpress_url: http://davedash.com/?p=593
-
-tags: computers general writing blogs
 ---
-
 I haven't been completely happy with myself lately.  
 
 I am happy with my life in general, and external things.  In fact, let me preface this post by saying that I'm happy with my wife, my friends and my family.  Even my job is pretty good despite the oncoming layoffs which I hopefully won't be subjected to, but you never know.

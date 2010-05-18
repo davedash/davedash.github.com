@@ -3,8 +3,5 @@ wordpress_id: 356
 layout: post
 title: Finished...
 excerpt: I am relieved... sort of.  I finished the final this morning, doing fairly well, but not perfection.  It's okay.  It's all over now.  Happy.  I get to leave campus for a month.  I'm packing stuff right now.  Cleaning my room and whatnot.  Tonight I'm going up to Julie's home in Palpatine!  Nothing can be cooler than living in a town named Palpatine!  Then tomorrow early in the morning I'm off to MDW to catch my flight home.  I'll be back around midday.  Fun times ahead, I hope, and then off to Germany.
-
-tags: 
 ---
-
 I am relieved... sort of.  I finished the final this morning, doing fairly well, but not perfection.  It's okay.  It's all over now.  Happy.  I get to leave campus for a month.  I'm packing stuff right now.  Cleaning my room and whatnot.  Tonight I'm going up to Julie's home in Palpatine!  Nothing can be cooler than living in a town named Palpatine!  Then tomorrow early in the morning I'm off to MDW to catch my flight home.  I'll be back around midday.  Fun times ahead, I hope, and then off to Germany.

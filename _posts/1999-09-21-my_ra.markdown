@@ -3,8 +3,5 @@ wordpress_id: 301
 layout: post
 title: My RA
 excerpt: Angie is the coolest!
-
-tags: 
 ---
-
 Angie is the coolest!

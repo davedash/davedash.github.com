@@ -27,10 +27,7 @@ excerpt: |-
   </tt></blockquote>
   <p>Actually, speaking of publicizing... Matt and CJ found a journal of someone's in the basement... 
   I could transcribe it here.
-
-tags: 
 ---
-
 Here's your update <a href="http://cgi-resources.com/">Matt</a> and <a href="http://www.uiuc.edu/ph/www/grinham/">CJ</a>:
 <p>So Wednesday at 2AM or so the fire alarms went out after a power
 outage and then a return of power.  It was very annoying.  My sleeping 

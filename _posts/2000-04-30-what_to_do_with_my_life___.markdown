@@ -11,10 +11,7 @@ excerpt: |-
   <p>
   Take it easy everybody.
   </p>
-
-tags: 
 ---
-
 I'm starting to wonder what I want to do with my life as a whole.  I always try to think of end goals or purposes.  Not mine specifically, but for some greater entity.  Perhaps humanity as a whole.
 <p>
 I however question siding with humanity soley because it is a default.  I am a member of humanity, so I wish to advance humanity.  If I were a member of any other species, I'd side with it.  I suppose that could be okay.  Now, I think, perhaps my alignment should be for all ecology.  Why limit myself to humans?  I should also support the eco-system that supports the life.  This just gets into a too over-bearing task.  Eventually you start to wonder, "what is the point of it all?"  So perhaps there isn't.  Let's bank on the fact that there is, however. </p>

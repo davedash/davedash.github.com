@@ -20,10 +20,7 @@ excerpt: |-
   <p>Ugh, I can't stand my home anymore.  I mean there's nothing here that is pleasing.  I like the fact that I have some space and some privacy, but that doesn't do it really.  I mean my parents seem to treat me the same way as they have always treated me - like a little kid in a candy store that's closed and all the candy is locked.  What the hell is wrong with me... I've got like a barrel full of metaphores and similes.
   
   <p>Yes, by the way.  I am still home.
-
-tags: 
 ---
-
 I woke up early today... you know... like when I should wake up... before 6AM.  I love this.  Most of my friends are going to sleep right now... well except for those going to school.  I can listen to the good old KQ Morning show.
 
 <p>Odd, I was planning on seeing Mr. Janos get sworn in as governor of Minnesota, but that was yesterday.  So Minnesota... now for something completely different.

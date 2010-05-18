@@ -12,10 +12,7 @@ excerpt: |-
   
   Those are the main three ideas in my head right now, I'm open to doing any of those right now.  The journal isn't finished either so I may work on some of that.
   <P>I haven't gotten around to writing the emailer yet, but you can probably guess my email address or ICQ me.
-
-tags: 
 ---
-
 I'm taking requests.  What do people want to see next on this site?
 <UL>
 <LI>Calendar - to inform people of events

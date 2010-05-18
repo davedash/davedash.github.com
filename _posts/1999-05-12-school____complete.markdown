@@ -28,10 +28,7 @@ excerpt: |
   the list of "friends with domains."
   
 
-
-tags: 
 ---
-
 I'm finsihed with my first year at the University of Illinois.  My finals 
 seemed to go well.  The classes this semester seemed very nice as well.  
 Hopefully my transcript says the same thing:)  It's sad down here.  

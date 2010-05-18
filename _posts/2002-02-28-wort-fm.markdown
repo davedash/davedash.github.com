@@ -3,8 +3,5 @@ wordpress_id: 498
 layout: post
 title: WORT-FM
 excerpt: Late notice, but I will be on WORT-FM in Madison talking about the <a href="http://uofidivest.org/">Divestment Campaign at UIUC</a> that has been spearheaded by Urbana-Champaign Unity and Struggle.  The show starts at 6PM, I'll be on at 6:35PM.  I'll have mp3s available.
-
-tags: 
 ---
-
 Late notice, but I will be on WORT-FM in Madison talking about the <a href="http://uofidivest.org/">Divestment Campaign at UIUC</a> that has been spearheaded by Urbana-Champaign Unity and Struggle.  The show starts at 6PM, I'll be on at 6:35PM.  I'll have mp3s available.

@@ -48,10 +48,7 @@ excerpt: |
   very good at what they love, computing.
   <p>Enough ranting for one day.  Target would be sweet if you lived there.
 
-
-tags: 
 ---
-
 There were a few problems with <i>the Matrix</i>.  The first is if the agents knew that 
 Neo was the one, why didn't they kill him?  I mean, why didn't they disconnect him 
 from the Matrix and then kill his body?  There is also the 

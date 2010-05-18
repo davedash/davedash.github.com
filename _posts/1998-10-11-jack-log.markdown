@@ -43,10 +43,7 @@ excerpt: |-
   12:29 AM: Leaves again, possibly for a smokey-smokey.
   </pre>
   Oh yeah, <a href="http://litestep.net/">Litestep</a> is cool.  Makes Windows NT look neat.  Only problem is in NT it disables my Windows Key shortcuts, however it doesn't in Windows 95/98.
-
-tags: computers allen hall
 ---
-
 I thought it'd be fun to document Jack's life.  Jack for those of you who don't know is my roommate.  Here is what he did last night:<pre>
  8:44 PM: Jack has been playing a football video game
           for at least a few hours.

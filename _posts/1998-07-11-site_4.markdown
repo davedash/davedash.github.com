@@ -3,8 +3,5 @@ wordpress_id: 292
 layout: post
 title: SITE 4
 excerpt: Okay.  I need about 5 volunteers (I can only think of three or four people who visit my web site, but you never know) to go through the new web site I made.<p>The less people who use IE4, the better, but I'm not going to be picky.  (I use IE4 and think it looks fine.)  I need people who can just pick the site apart and give me constructive feedback.  I'd suggest everybody <a href="mailto:dave@ftmax.com">email me</a> and do this, but if you are extrememly busy then do not worry.<p>Thanks.  When you email me, I'll give you the URL.
-
-tags: web development
 ---
-
 Okay.  I need about 5 volunteers (I can only think of three or four people who visit my web site, but you never know) to go through the new web site I made.<p>The less people who use IE4, the better, but I'm not going to be picky.  (I use IE4 and think it looks fine.)  I need people who can just pick the site apart and give me constructive feedback.  I'd suggest everybody <a href="mailto:dave@ftmax.com">email me</a> and do this, but if you are extrememly busy then do not worry.<p>Thanks.  When you email me, I'll give you the URL.

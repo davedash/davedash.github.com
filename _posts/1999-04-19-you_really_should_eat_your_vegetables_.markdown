@@ -40,10 +40,7 @@ excerpt: |-
   Best Joke I heard in a long time.
   <p>Note: I plan on rewriting the journal interface once more.  It has a lot of 
   internal problems that I dislike.  That and pair Networks recommends it:)
-
-tags: 
 ---
-
 Frisbee is really cool when played in the hallways.  Well until 
 <a href="http://www.jawed.com/">Jawed</a> cuts your head off.  Or as 
 the case may be, until the frisbee shatters.

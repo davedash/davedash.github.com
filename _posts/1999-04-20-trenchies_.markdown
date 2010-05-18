@@ -10,10 +10,7 @@ excerpt: |-
   up beyond belief.
   <p>
   No more Dave for today.
-
-tags: 
 ---
-
 I find this disaster that has scattered the news so fast very disturbing.  
 These people sound like my friends from highschool, except my friends would 
 not kill and weren't neo-Nazi's.  Very, very sad.  Everytime a  shooting like this 
