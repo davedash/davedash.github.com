@@ -65,7 +65,10 @@ excerpt: |-
   AmerSo  N/A  43.9   N/A     N/A 20.7   N/A
   </FONT></PRE>
   Units are 1 birth per 1000 girls.
+
+tags: 
 ---
+
 I'm liking the results with this for the most part.
 <PRE><FONT FACE="Courier, Fixed">
 State   15-19 year olds    15-17 year olds

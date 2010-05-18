@@ -66,7 +66,10 @@ excerpt: |-
   
   <p>I don't know how often I'll be able to update this page over break.  My computer at home will be getting a new CD-ROM and a new Operating System (Debian Linux).  Until then, the computer will remain very slow, since WinNT server is very bogged down )it's a bit hard to reinstall without that CD-ROM).  Due to this slowness I'll refrain from using my computer whenever possible (I may leave it online a lot though).  I'll spare you the details.
   <P>Oh yeah, I almost forgot.  My old ryche site got picked as a <a href=" http://directory.mozilla.org/Arts/Music/Artists/Queensryche/Empire_Pages/">cool site</a>...
+
+tags: computers uiuc
 ---
+
 <div style="float: right">
 <img border=1 src="http://www.ftmax.com/pics/19981219-kuwait.jpg" width="200" 
 height="132" /><br/>From the land of Kuwait, the mighty US launches an assault on Iraq.

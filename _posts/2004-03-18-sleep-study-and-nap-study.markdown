@@ -3,7 +3,10 @@ wordpress_id: 531
 layout: post
 title: Sleep Study and Nap Study
 wordpress_url: http://davedash.com/2004/03/18/sleep-study-and-nap-study/
+
+tags: Uncategorized
 ---
+
 Okay, so I finished the sleep study.
 
 I get in at 8:30pm last night.  They hook up all these electrodes to me, and they expect me, a tosser and turner, to fall asleep with all these wires lightly restraining me.  I went to bed at 10, lights out at 11.

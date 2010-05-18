@@ -3,5 +3,8 @@ wordpress_id: 341
 layout: post
 title: Dogma
 excerpt: Dogma was a good movie.  That's to say, I liked it.  It's what I expected from Kevin Smith and ViewAskew.  Erin liked it too, and she can be picky.  I'm not saying that everyone should rush to go see this, but if you watch movies that I like, then go for it.
+
+tags: 
 ---
+
 Dogma was a good movie.  That's to say, I liked it.  It's what I expected from Kevin Smith and ViewAskew.  Erin liked it too, and she can be picky.  I'm not saying that everyone should rush to go see this, but if you watch movies that I like, then go for it.

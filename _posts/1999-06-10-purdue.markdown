@@ -16,7 +16,10 @@ excerpt: |-
   great people to hang out with.  We rode in our professor's Volkswagen van
   and had interesting conversations about computing, robots, 10-10-626 
   among other things.  I wouldn't mind visiting again.
+
+tags: 
 ---
+
 I just came back from the Inquiry meeting at Purdue University.  I 
 must say I am jealous.  The campus is beautiful compared to the 
 <a href="http://www.uiuc.edu/">U of I</a>.  The buildings were closer to each other

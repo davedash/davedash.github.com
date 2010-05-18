@@ -21,7 +21,10 @@ excerpt: |-
   I have a few more URLs and bits of information to give, but I'm too tired.
   <br>
   Goodnight.
+
+tags: 
 ---
+
 Matt's <a href="http://www.cgi-resources.com/">site</a> is really 
 cool.  I had a behind the scenes look at it.  It looks very nice.  
 So nice that it inspired me to work on my web site.

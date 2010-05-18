@@ -3,5 +3,8 @@ wordpress_id: 357
 layout: post
 title: Home
 excerpt: I'm in "Min-ne-so-o-ta."  Julie and her family were very kind in letting me spend the night and then taking me to the airport this morning.  I will try to find ways to occupy my time wilst I am in "Min-ne-so-o-ta," until I go to Germany.  On my list now is sketching out the next two years of my academic life.
+
+tags: 
 ---
+
 I'm in "Min-ne-so-o-ta."  Julie and her family were very kind in letting me spend the night and then taking me to the airport this morning.  I will try to find ways to occupy my time wilst I am in "Min-ne-so-o-ta," until I go to Germany.  On my list now is sketching out the next two years of my academic life.

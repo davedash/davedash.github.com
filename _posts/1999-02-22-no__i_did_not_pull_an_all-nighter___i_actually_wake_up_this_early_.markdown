@@ -14,7 +14,10 @@ excerpt: |
   <p>I saw <i>Waterboy</i> at the <a href="http://www.union.uiuc.edu/">Illini Union</a> with Juj.  It's a pretty funny movie and well worth it for $2.  They also played <i>Block Rockin Beats</i> from the Chemical Brothers as well as <i>Tom Sawyer</i> from Rush.  They had the sound messed up in the movie though with Tom Sawyer.  You could barely tell the music was there.  I wish IUB would show movies as often as Molly's school does.
   <p>So today I got to sleep late :(  Jack and Josh's fault really.  I however was also awakened in the morning.  I heard some whispering and I was like... great Jack is talking in his sleep again.  Not so, I found out that he's whispering along to his CDs.  I finally got back to sleep, and when I woke up at the usual 6:30, I noticed Jack tossing and turning and muttering in Chinese.  freak.
 
+
+tags: 
 ---
+
 Eric's Treasure Trove of Mathematics (CRC Treasure Trove) which deserves no hyperlinking now only features entries that begin with 10 randomly selected letters (selected daily).  It's quite annoying, but understandable as it is a ploy to sell his book through the CRC press.  Unfortunately it makes the Internet a cheap substitute for reality.
 <p>
 I've been spending hideous ammounts of money and I have no job to compensate.  The money is spent on random things like food and other things.  So this week I'll begin my job and good things will occur.  Luckily, my friend, the "Coupon Bitch," who spends a lot of money, mostly on food, has not had her bad habbits rub off on me, yet.

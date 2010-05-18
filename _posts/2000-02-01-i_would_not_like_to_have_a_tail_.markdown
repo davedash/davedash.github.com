@@ -3,5 +3,8 @@ wordpress_id: 371
 layout: post
 title: I would not like to have a tail.
 excerpt: So I had my headphones in one of my cargo pockets and it was plugged into my discman strapped to my waste.  I forget about the headphones in my pocket and just detatch the discman and put it on my bed (it incidentally fell off my bed I think, or fell off something, but that's okay, it's all good).  Then I walked out my room and closed the door and tug-tug snap goes my headphone cable.  I'd be less pissed if they weren't $20 headphones.  They actually gave decent headphones with my discman and I ruined them.  Luckily I had another identical pair so I am not music-less.  However the loss still hurts.  Perhaps John can fix them.  Then I will be okay.  Time to clean up some of my room.
+
+tags: 
 ---
+
 So I had my headphones in one of my cargo pockets and it was plugged into my discman strapped to my waste.  I forget about the headphones in my pocket and just detatch the discman and put it on my bed (it incidentally fell off my bed I think, or fell off something, but that's okay, it's all good).  Then I walked out my room and closed the door and tug-tug snap goes my headphone cable.  I'd be less pissed if they weren't $20 headphones.  They actually gave decent headphones with my discman and I ruined them.  Luckily I had another identical pair so I am not music-less.  However the loss still hurts.  Perhaps John can fix them.  Then I will be okay.  Time to clean up some of my room.

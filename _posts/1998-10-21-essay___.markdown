@@ -7,7 +7,10 @@ excerpt: |-
   Chemistry is so easy.  I enjoy today's unit, VSEPR models.  It's not terribly complex, but it looks like it is, and it deals with Geometry.  UMTYMPs intervention programs have made sure that I enjoy hands on geometry.<p>
   I'm thinking about getting some style sheets for this page.  Make it look a wee-bit nicer.  I think I need to go through this site one day.  I wish there was somebody here that would go through it with me.  It's neat when you look at your page with someone who'd been to it.  They point out things that just don't make sense.  Like "bigify."  WTF is that?  If you click on it, hit Alt-F4 to get out.  I haven't been able to work cookies out well enough that it informs you on how to close the window.<p>
   I think I have to shave now.  I don't like hair on my face.
+
+tags: web development uiuc
 ---
+
 Wow... I thought I wrote a somewhat decent essay for my C Lit class, but it turns out I got a C-.  I guess it's because I am not a good essay writer to begin with, this is my first real essay in a while and this is my first college essay.  I'll see on what I need to work.  There may have been loose ends and I may have not written enough.  Grr.<p>
 Chemistry is so easy.  I enjoy today's unit, VSEPR models.  It's not terribly complex, but it looks like it is, and it deals with Geometry.  UMTYMPs intervention programs have made sure that I enjoy hands on geometry.<p>
 I'm thinking about getting some style sheets for this page.  Make it look a wee-bit nicer.  I think I need to go through this site one day.  I wish there was somebody here that would go through it with me.  It's neat when you look at your page with someone who'd been to it.  They point out things that just don't make sense.  Like "bigify."  WTF is that?  If you click on it, hit Alt-F4 to get out.  I haven't been able to work cookies out well enough that it informs you on how to close the window.<p>

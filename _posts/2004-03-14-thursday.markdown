@@ -3,7 +3,10 @@ wordpress_id: 526
 layout: post
 title: Thursday...
 wordpress_url: http://davedash.com/2004/03/14/thursday/
+
+tags: Uncategorized
 ---
+
 So of all the things I could find out about last Thursday (considering the events of March 4th) I got a call late at night from my cousin who was in a car accident earlier that day.  Katie and I used our combined superior judgement to say "you really should go to the ER... we'll drive you."  
 
 Cars... not a fun place these days.  Drive safely everyone.  Including you, Overbo... with your muscle car to be...

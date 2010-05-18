@@ -3,5 +3,8 @@ wordpress_id: 355
 layout: post
 title: Grades...
 excerpt: A- for Econ 102. A for CS 273.  CS 231 is up in the air.  Hindi is an A thus far, but it is pending on the final I took today.  Math 361 depends on my performance tomorrow.  If I do as well as I have been doing I can muster up an A.  So I will attempt this.  I have three hours to get write down the right stuff to get an A.  Luck be with me.
+
+tags: 
 ---
+
 A- for Econ 102. A for CS 273.  CS 231 is up in the air.  Hindi is an A thus far, but it is pending on the final I took today.  Math 361 depends on my performance tomorrow.  If I do as well as I have been doing I can muster up an A.  So I will attempt this.  I have three hours to get write down the right stuff to get an A.  Luck be with me.

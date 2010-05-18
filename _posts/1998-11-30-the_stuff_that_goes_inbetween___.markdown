@@ -19,7 +19,10 @@ excerpt: |
     I tried to finish my math assignment on Saturday.
   <p>All and all, I think it was a good thing to have the break.  I would have enjoyed it a bit more if I weren't sick, if <a href="mailto:delmonte@ftmax.com">Molly</a> were there, if I did more stuff with my friends, or if it were longer.  Saturday was somewhat distressing.  I tried to cope with getting over constantly working all the time during school.
 
+
+tags: friends
 ---
+
 These are <a href="http://tycho.usno.navy.mil/">chronologically</a> out of whack, due to ... I don't know... <a href="http://dir.yahoo.com/Recreation/Games/Video_Games/Classic_Arcade_Games/Titles/Space_Invaders/">space aliens</a>.  Space aliens said, Travel Logs and then the vacation...
 <p><b><tt>Tuesday:</tt></b><br>
 I had dinner with my family at some restaurant.  We got to ride in Raj (my brother) and Kelly's (sister-in-law) new <a href="http://www.saab.com/">Saab</a>.  I like it.  

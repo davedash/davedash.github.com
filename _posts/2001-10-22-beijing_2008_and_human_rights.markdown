@@ -11,7 +11,10 @@ excerpt: |
   
   Source: Popular Science
 
+
+tags: 
 ---
+
 Beijing awarded the Olympics for: 2008
 Number of Internet cafes closed by Chinese gov't: 2000
 Number of cafes told to suspend operations: 6000

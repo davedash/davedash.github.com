@@ -3,5 +3,8 @@ wordpress_id: 373
 layout: post
 title: Michelle!
 excerpt: A happy birthday to my future housemate... Mich...no.  She's 22 and that means she ... hmm well let's see 18 - cigarettes, 19 - get into bars, 20 - new decade for you, 21 - beer, 22... well I guess that means she can do heroine.  Congrats, Michelle.
+
+tags: 
 ---
+
 A happy birthday to my future housemate... Mich...no.  She's 22 and that means she ... hmm well let's see 18 - cigarettes, 19 - get into bars, 20 - new decade for you, 21 - beer, 22... well I guess that means she can do heroine.  Congrats, Michelle.

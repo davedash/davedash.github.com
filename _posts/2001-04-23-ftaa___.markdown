@@ -3,5 +3,8 @@ wordpress_id: 428
 layout: post
 title: FTAA...
 excerpt: This <a href="http://urbana.indymedia.org/active/news/display.php3?article_id=540">article</a> by Mark Weisbrot (an alum of U of I, and a really progressive economist) is very insightful.  It doesn't quite justify Quebec City turning into a police state, but it explains how much the public do not need to be a part of corporations and governmental policies.  Weisbrot is a bit more optimistic about public scrutiny than I.  Educate yourselves people... you are being duped.  CNN and your local news do not contain the answers.  I used to wonder about government conspiracies (you know... X-files)... well it exists in a far differnet form, but really... aliens I can understand almost... but corporations?
+
+tags: 
 ---
+
 This <a href="http://urbana.indymedia.org/active/news/display.php3?article_id=540">article</a> by Mark Weisbrot (an alum of U of I, and a really progressive economist) is very insightful.  It doesn't quite justify Quebec City turning into a police state, but it explains how much the public do not need to be a part of corporations and governmental policies.  Weisbrot is a bit more optimistic about public scrutiny than I.  Educate yourselves people... you are being duped.  CNN and your local news do not contain the answers.  I used to wonder about government conspiracies (you know... X-files)... well it exists in a far differnet form, but really... aliens I can understand almost... but corporations?

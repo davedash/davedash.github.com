@@ -3,7 +3,10 @@ wordpress_id: 541
 layout: post
 title: Laptop
 wordpress_url: http://davedash.com/2004/03/24/laptop/
+
+tags: Uncategorized
 ---
+
 I got my laptop back from <a href="http://www.safeware.com/">Safeware</a>.  It looks <em>almost</em> like new.  So of course the first thing I do is install all the OS X liveJournal clients... and oddly enough, they all suck for different reasons.
 
 Rollerbladed around Lake Calhoun with ... we're blade brothers... since we have the same blades.  Its so much easier to go around the lake not alone.  I might slim down a little this summer after all!

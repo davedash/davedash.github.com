@@ -20,7 +20,10 @@ excerpt: |-
   [Link 1]</a> <a href="http://webserv1.startribune.com/cgi-bin/stOnLine/article?thisSlug=KQRS03&date=03-Nov-98&word=kqrs">[Link 2]</a> <a href="http://webserv1.startribune.com/cgi-bin/stOnLine/article?thisSlug=1103PM-MN--KQRSAPOLO&date=03-Nov-98&word=kqrs">[Link 3]</a> <a href="http://webserv1.startribune.com/cgi-bin/stOnLine/article?thisSlug=KQRS31&date=31-Oct-98&word=kqrs">[Link 4]</a>
   <p>
   I voted using an IBM Votomatic!  I voted mostly all democratic, just because I wasn't up to speed on all the issues of all the candidates in all the races I had to vote for.  Ryan (R) beat Poshard (D) for Gubenautical race.  Moseley-Braun (D) is behind by 100K votes v. Fitzgerald (R) for the Senatorical race.  I also think incumbent, E-wing (R) creamed Prussing 63 to 37 percent.  Then there is Minnesota... all I can say is good luck Jesse, who just won.
+
+tags: friends web development allen hall politics books
 ---
+
 <table align="left" width=179>
 <tr><td><img src="http://www.ftmax.com/pics/981103-soilsurvey.jpg" height="179" width="179">
 </td></tr>

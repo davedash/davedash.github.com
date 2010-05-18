@@ -12,7 +12,10 @@ excerpt: |-
   <P>I'm watching <I>the Saint</I>, again.  That's a movie worth watching.  
   The second time around is very cool, since I recognize the music.  It
   all sounds so wonderful.
+
+tags: 
 ---
+
 There's something about my staying in Champaign, IL that's made me 
 appreciate the simple fact that I'm alive.  The ability to take a nice
 stroll around the block.  To walk on a sunny day.  To go for a swim.  

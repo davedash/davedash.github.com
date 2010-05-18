@@ -3,5 +3,8 @@ wordpress_id: 487
 layout: post
 title: Weather
 excerpt: As beautiful as the weather is, I wonder if its really a good thing.  In Chicago-land its 67, and Minneapolis is not that far off.  This is December... what to other months have in store?  Will we have more floods?  Is something devastating in store?  Comments please...
+
+tags: 
 ---
+
 As beautiful as the weather is, I wonder if its really a good thing.  In Chicago-land its 67, and Minneapolis is not that far off.  This is December... what to other months have in store?  Will we have more floods?  Is something devastating in store?  Comments please...

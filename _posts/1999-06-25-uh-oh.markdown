@@ -3,5 +3,8 @@ wordpress_id: 61
 layout: post
 title: Uh-oh
 excerpt: Leia had an accident.  This morning she's been pawing at her nose, and I thought she had a cold or something.  I felt bad for her, but I couldn't really do anything.  She crawled onto my bed and went to sleep and when I looked at her she was almost crying.  I let her sleep.  Then I went to her again to see how she was, and I saw what had happened.  Leia had the flea collar which went around her neck get caught between her mouth so her jaw was forced open.  Once I figured that out I took the collar off, I hope she feels better.  It's a good thing I don't owna  kitten or I'd be worried constantly.
+
+tags: 
 ---
+
 Leia had an accident.  This morning she's been pawing at her nose, and I thought she had a cold or something.  I felt bad for her, but I couldn't really do anything.  She crawled onto my bed and went to sleep and when I looked at her she was almost crying.  I let her sleep.  Then I went to her again to see how she was, and I saw what had happened.  Leia had the flea collar which went around her neck get caught between her mouth so her jaw was forced open.  Once I figured that out I took the collar off, I hope she feels better.  It's a good thing I don't owna  kitten or I'd be worried constantly.

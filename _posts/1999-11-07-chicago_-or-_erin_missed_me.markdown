@@ -10,7 +10,10 @@ excerpt: |-
   <P>We headed back to the Sheraton: Chicago and Towers.  It's not that great of a hotel actually.  It's nicely furnished though and the lobby is really nice too.  We hung out and ate food there, although only Raj (the friend) was hungry.  Raj (the friend) went back to his campus (<A HREF='http://www.uchicago.com/'>U Chicago</A>).  My brother and I hung out at the hotel.  Went for a walk around Chicago.  Then we ate at Giordano's Pizzaria (very good pizza).
   <P>This morning I had a slice of that pizza for breakfast.  Then I went back home.  All was fun, even though it was for a short time.
   <P>Erin was upset at my absense.  Partially because she didn't know where I was.  I wish Erin would have come with me.
+
+tags: 
 ---
+
 I decided I'd meet my brother in Chicago.  Thanks to Hiro who knows how to get anywhere, I was able to take the Greyhound to Chicago and back.
 <P>It was a good 3 hour bus ride, but I wasn't wasting too much time since it was early in the morning and I was studying for my math exam.  Also it kept me from bidding on ebay.
 <P>One girl on the bus (fairly cute) looked like she fell asleep with her hand in a bag of chips... nasty oilyness.  Even the pretty have their weaknesses.

@@ -3,5 +3,8 @@ wordpress_id: 314
 layout: post
 title: the GAP
 excerpt: I used to think some of those GAP commercials with everybody singing were cool.  Like when they sang Madonna's <I>Dress You Up</I>.  Then I saw the one with Depeche Mode's <I>Just Can't Get Enough</I>.  That really bit.  I like it when Depeche Mode sings that song, but not when the Gap does.  The Gap sucks at times like these.
+
+tags: 
 ---
+
 I used to think some of those GAP commercials with everybody singing were cool.  Like when they sang Madonna's <I>Dress You Up</I>.  Then I saw the one with Depeche Mode's <I>Just Can't Get Enough</I>.  That really bit.  I like it when Depeche Mode sings that song, but not when the Gap does.  The Gap sucks at times like these.

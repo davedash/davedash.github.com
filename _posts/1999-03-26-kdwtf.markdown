@@ -13,7 +13,10 @@ excerpt: |-
   My status will change.<br>
   My network connection has been messy for the last week as well.  At UI, CS Majors have problems when the network becomes the notwork.<p>
   <p>This is also the first update since being back.  It's nice here in Urbana.  Very springy weather.  I wish that girl were here.
+
+tags: 
 ---
+
 Hi.<br>
 I run Linux now.<br>
 I have no customized kernel.<br>

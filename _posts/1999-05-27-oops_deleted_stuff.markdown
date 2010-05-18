@@ -38,7 +38,10 @@ excerpt: |-
   staying.  I'll move the rest Saturday and start cleaning this place 
   tomorrow (Friday).
   <p>I landed on a stash of pennies.
+
+tags: 
 ---
+
 TITLE: I live.<P>
 Well all my stuff was finally moved 
 today, and I'm even online.  

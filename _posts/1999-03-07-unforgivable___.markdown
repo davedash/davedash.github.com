@@ -45,7 +45,10 @@ excerpt: |-
   <p>Ugh Humanity.
   
   
+
+tags: 
 ---
+
 Saturday was a very packed day.  Woke up after a rough sleep (noisy roommate entering and exiting the room... loudly) at around 6:22.  Sat in my chair until 7AM or so and then got ready, ate and was taken to Kenny Gym Annex.  We raced again with a lower incline and our car flipped over on the incline.  It was a fun race though.  Next year should be fun as well.
 <p>Studied in DCL for a while that day (like I am studying in DCL now, because that's where all Math/CS majors are when they aren't in their room according to Jack).
 After studying I went to see one of Caroline's friends play at Area 51 (the <a href="http://eoh.cen.uiuc.edu/">EOH</a> entertainment tent).  I got cold and hungry so I ate and then came back to Allen Hall.  

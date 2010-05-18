@@ -20,7 +20,10 @@ excerpt: |-
   <li>Emacs is good for editing web pages.
   </ul>
   Have fun... back to Star Wars.
+
+tags: 
 ---
+
 I bought the CD today!  It rules (listening to it as I type)!  I bought three posters 
 one is of the Queen, the other of Anakin in the sand, and the awesome Jedi 
 Battle!<p>

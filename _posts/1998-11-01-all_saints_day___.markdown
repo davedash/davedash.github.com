@@ -21,7 +21,10 @@ excerpt: |
   I've cleaned up my new "better-than Adam's loft" desk.  There;s a lot of space to work with.  Of course that space may change in a week or two.
   
 
+
+tags: food friends allen hall politics uiuc
 ---
+
 Meijer is really annoying.  They often change their prices every week, thus causing confusion on how much you are paying.  Like I paid almost $8 for a 24 pack of Lipton - almost as bad as a vending machine, but not quite.  Yesterday Mike (my neighbor) and I went to Meijer, and since I was there I felt compelled to buy something.  So I bought a some Frappuccino, I ended up paying $4.80.  WTF.  Meijer also doesn't price all their products on the shelves.  That's the most annoying thing in the world.  Of course, I wasn't doing my part in asking for a price check, but really, $1.20 for some fancy yuppie drink?  You've got to be kidding me.  I may have to go shop at Target for more stuff.
 <p>
 Mike and I noticed a Perpetual Dawn (sorry, it's a song from Orb) yesterday.  It looked like it was 6AM, 7AM and then 7PM at various periods during the day.  In otherwords, no day yesterday.  No day today either, although I was never outside.  It has been cold, but I have to tolerate it.  I think Jack starts to smell after some time in the morning, so I keep my window open and my door open to bring fresh air into the room.<p>

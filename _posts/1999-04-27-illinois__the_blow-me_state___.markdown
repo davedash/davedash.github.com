@@ -14,7 +14,10 @@ excerpt: |
   <p>Apple now owns the rights to the MP3 codec which originally were created 
   at the Fraunhauffer Institute (which is from Germany, like <a href=http://www.jawed.com/>Jawed</a>).
 
+
+tags: 
 ---
+
 Here's a chock full of superficiality...
 <p>I got this thing called <i>imwheel</i> working under Linux so that it 
 makes my Intellimouse work just like it did in Windows.  On the otherhand 

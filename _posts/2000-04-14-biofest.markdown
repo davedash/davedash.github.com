@@ -8,7 +8,10 @@ excerpt: |-
   It also has me a little bit worried about research that I will be doing whence I go to grad school.  Right now I tend to be very interested in Application of Technology vs. Advancement of Technology.  So I am wondering whether I should be going into Computer Science or should I be going into Library and Information Science.  What interests me in Computer Science is pervasive computing.  I used to also think that user interfaces was something that I was also a CS topic for which I had interest, but that seems to be more of a LIS topic.  I'll start with CS.  I think I might be burned out on Information Science if I actually pursue it for grad school at this point.
   </p>
   To append to this, I also went to the CAVE at <a href="http://www.ncsa.uiuc.edu/">NCSA</a>.  It's a Virtual Reality 3D environment which includes Quake II demos as well.  If you are interested in seeing a Demo of the CAVE, just send me an <a href="/email.php3">email</a>.  I'd be glad to take about 5-10 of you up to the Beckman so you can have a chance to look at it.
+
+tags: 
 ---
+
 My group over at the NCSA, <a href="http://bioweb.ncsa.uiuc.edu/">the Biology Workbench</a> just had an all day workshop at the Beckman with participants from Beloit.  I finally got to place faces with the people I have meetings with via conference calls.  This workshop also has gotten me a little bit more interested in this project.
 <p>
 It also has me a little bit worried about research that I will be doing whence I go to grad school.  Right now I tend to be very interested in Application of Technology vs. Advancement of Technology.  So I am wondering whether I should be going into Computer Science or should I be going into Library and Information Science.  What interests me in Computer Science is pervasive computing.  I used to also think that user interfaces was something that I was also a CS topic for which I had interest, but that seems to be more of a LIS topic.  I'll start with CS.  I think I might be burned out on Information Science if I actually pursue it for grad school at this point.

@@ -3,7 +3,10 @@ wordpress_id: 529
 layout: post
 title: YWCA
 wordpress_url: http://davedash.com/2004/03/15/ywca/
+
+tags: Uncategorized
 ---
+
 Is anybody here a member of the YWCA?  Katie and I work out at my parents which is free, but it has no pool, and it's only convenient for me since it's on my way from work.
 
 Medica gives us a discount at LifeTime fitness, but it's still $80/mo per human.  Northwest Athletic Club is $90/mo per couple, but doesn't have any great locations.  They manage Calhoun Beach Club, which would be ideal, but no discounts there.  They also hire molesters.

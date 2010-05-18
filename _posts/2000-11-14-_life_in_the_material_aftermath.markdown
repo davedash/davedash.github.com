@@ -33,7 +33,10 @@ excerpt: |-
   country or what?
   
   </p>
+
+tags: 
 ---
+
 The following is my brother's post:
 
 <p>

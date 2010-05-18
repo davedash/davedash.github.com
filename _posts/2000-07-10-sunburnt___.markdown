@@ -6,7 +6,10 @@ excerpt: |-
   This weekend I went camping.  It was awesome... we even had electricity.  I had a lot of fun though, hanging out with friends from school.  Unfortunately I discovered what it means to be sunburnt.  Stephanie Lukas is awesome.  Thanks for putting it together.
   <p>Exactly one month left from this hellish nightmare called Systems Administration.  I guess my lack of things to do has got me into a desperate need to do something.  So now I'm working with my supervisor on writing a application downtime script (a script that lets you know how long a certain program has not been running).  Then comes August, which will be utterly confusing.  Move out somewhere.  Go back to Minnesota.  Move stuff to Champaign.  Live.  Start school.  Blah blah blah.
   </p>
+
+tags: 
 ---
+
 This weekend I went camping.  It was awesome... we even had electricity.  I had a lot of fun though, hanging out with friends from school.  Unfortunately I discovered what it means to be sunburnt.  Stephanie Lukas is awesome.  Thanks for putting it together.
 <p>Exactly one month left from this hellish nightmare called Systems Administration.  I guess my lack of things to do has got me into a desperate need to do something.  So now I'm working with my supervisor on writing a application downtime script (a script that lets you know how long a certain program has not been running).  Then comes August, which will be utterly confusing.  Move out somewhere.  Go back to Minnesota.  Move stuff to Champaign.  Live.  Start school.  Blah blah blah.
 </p>

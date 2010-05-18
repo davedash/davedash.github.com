@@ -3,7 +3,10 @@ wordpress_id: 522
 layout: post
 title: It's like a Bagel with Everything!
 excerpt: So keeping in tradition of not posting for quite some time, here is yet another post.  The good news is most of this is good news.  I've gone through unemployment, attended a wedding, gone fishing for my first time ever, went on a boat ride and got the exact job I wanted.  Most of this happened in the cozy months of June and July.  Read on.
+
+tags: 
 ---
+
 So keeping in tradition of not posting for quite some time, here is yet another post.  The good news is most of this is good news.  I've gone through unemployment, attended a wedding, gone fishing for my first time ever, went on a boat ride and got the exact job I wanted.  Most of this happened in the cozy months of June and July.  Read on.<!--more-->So my 3 month contract came to an end as promised at the end of May.  I missed not having a job, but I wasn't too stressed out.  I had enough money to keep myself afloat.  I spent most of the months trying to get a job and as you'll soon find out, it paid off.
 
 I also attended Tim and Molly's wedding.  Yet another of my friends has made the plunge into married life.  It was a great little ceremony (30 minutes long, no kidding!).  That week was filled with hanging out with friends.  Something I truly enjoy.  We also went canoeing, and that's something I hope to repeat this summer.  Possibly in St. Croix.

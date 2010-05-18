@@ -3,5 +3,8 @@ wordpress_id: 444
 layout: post
 title: OSA
 excerpt: "<a href=\"http://www.washingtonpost.com/ac2/wp-dyn/A1910-2001Jun29?language=printer\">Here</a> is a easy tou understand account on what's going on in the West Bank.\r<p>This weekend was the 32nd OSA convention in Chicago.  It was finally nice to see some friends.  Now I'm back to my corporate prison-life.</p>  "
+
+tags: 
 ---
+
 <a href="http://www.washingtonpost.com/ac2/wp-dyn/A1910-2001Jun29?language=printer">Here</a> is a easy tou understand account on what's going on in the West Bank.<p>This weekend was the 32nd OSA convention in Chicago.  It was finally nice to see some friends.  Now I'm back to my corporate prison-life.</p>  

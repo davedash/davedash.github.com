@@ -31,7 +31,10 @@ excerpt: |-
   <p>If I were at UI, I'd be doing laundry and hanging out waiting for my CS lecture... or I'd be researching my draft for Speech Com which is due Monday.  I'm hungry.  I'm always in the wrong Time Zone when it's lunchtime.  It's lunch in the Time Zone in which I was just in and where I am going... but not here.  Crap.
   <p>I'm sorry, what I purchased yesterday at IUB and on which I am writing is a bifold writing pad according to NWA's gift catalogue.
   <p>We are flying over Minneapolis.  I saw a Jesus fish (anybody know where this is?), the three towers of Minneapolis which look very small from up here.  I see a Yellow building which is on the road that goes along side Lake Calhoun when coming from Excelsior avenue!  That's really cool.  I'm looking for... and I just saw the Lake Harriet Bandshell.  Reminds me of all the fun we had this summer:)
+
+tags: computers uiuc rollerblading weight loss
 ---
+
 <b><tt>The following was composed throughout yesterday.</tt></b>
 
 <p>

@@ -18,7 +18,10 @@ excerpt: |-
   <p>I think I know why I dislike my roommate.  He's inconsiderate.  I'm currently working on my final paper for speech and he's currently watching Street Fighter videos with a friend.  He could have asked.  It's blatantly obvious that I'm working on a paper.  I'm not going to make a situation awkward and ask him to not watch this.  It is his room too, I just wish he's be a bit considerate.
   
   <p>Ugh, I was a bit foolish to eat a Chicken Cordon Bleu for dinner.  Not only do I remove the ham inside it, but the cheese that's in it doesn't agree with me.  It's a pity that the insides of me are so much like my brother (lactose intollerant).  One day they'll synthetically make food that tastes good.
+
+tags: food allen hall politics general family biking learning
 ---
+
 <TABLE align=right width=214 border=0>
 <TR><TD><IMG border=1 src="http://www.ftmax.com/pics/19981205-mob.jpg" width=214 height=181></TD></TR>
 <TR><TD><FONT face="Arial, sans-serif" size=1><B>"They're after me!"</B></FONT></TD></TR></TABLE>

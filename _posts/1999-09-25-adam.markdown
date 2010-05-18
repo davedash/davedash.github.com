@@ -3,5 +3,8 @@ wordpress_id: 305
 layout: post
 title: Adam
 excerpt: I visited <A HREF='http://www.engelbot.com/'>Adam</A> at Lincoln Hall where he was doing his college bowl tournament.  It was nice seeing him.  Even though he really didn't stop by my place, I'll give him points for visiting me in Urbana.
+
+tags: 
 ---
+
 I visited <A HREF='http://www.engelbot.com/'>Adam</A> at Lincoln Hall where he was doing his college bowl tournament.  It was nice seeing him.  Even though he really didn't stop by my place, I'll give him points for visiting me in Urbana.

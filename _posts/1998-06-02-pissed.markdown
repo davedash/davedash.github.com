@@ -6,7 +6,10 @@ excerpt: |
   From the <a href="http://www.startribune.com/">Star</a><blockquote>Moeller said that, in a few tough cases, customers might be out of service until Saturday.</blockquote>Grr.... that and I can't do my damn CS assignment... because something is flawed.<p>Well I think I'll do my Japanese now, and then take another stab at this silly assignment.  If somebody who knows a lot of C++ or a fair ammount at least could visit me (at Tom's house) and tell me what I'm doing wrong... that would be nice.
   
 
+
+tags: computers general learning
 ---
+
 From the <a href="http://www.startribune.com/">Star</a>
 <blockquote>Moeller said that, in a few tough cases, customers might be out of service until Saturday.</blockquote>
 Grr.... that and I can't do my damn <acronym title="Computer Science">CS</acronym> assignment... because something is flawed.

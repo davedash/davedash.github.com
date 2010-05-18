@@ -6,7 +6,10 @@ excerpt: |-
   Right now Princess Leia (the kitten) is playing on my dresser with my keys.  
   We got rid of the larger cat, Sparkles, because it wasn't very nice when it would see Leia.
   We replaced it with Han Solo, another kitten, which fights constantly with Leia.  Very cute.  I have pictures that I'll eventually show to people.
+
+tags: 
 ---
+
 Right now Princess Leia (the kitten) is playing on my dresser with my keys.  
 We got rid of the larger cat, Sparkles, because it wasn't very nice when it would see Leia.
 We replaced it with Han Solo, another kitten, which fights constantly with Leia.  Very cute.  I have pictures that I'll eventually show to people.

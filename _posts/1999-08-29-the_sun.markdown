@@ -3,5 +3,8 @@ wordpress_id: 20
 layout: post
 title: The Sun
 excerpt: Damn you cruel sun!  Why must you fill the five-day weather forcast for Champaign-Urbana?
+
+tags: 
 ---
+
 Damn you cruel sun!  Why must you fill the five-day weather forcast for Champaign-Urbana?

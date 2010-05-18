@@ -29,7 +29,10 @@ excerpt: |
   <p>A lot of my friends here on campus have older computers that require non-SDRAM, either EDO or the "other kind."  If someone can point me in the direction of how to distinguish between the types of RAM, that'd be great.  Also, if any of you have this type of RAM lying around, please give it to me.
   <p>Now you may be thinking, "Dave, you're all the way in Urbana."  I'm coming back Tuesday and their is a Thanksgiving Party at my house this Friday.  All are welcome, just email me so I know you're coming.  It's best to <a href="mailto:rsvp@ftmax.com">let me know</a> if you're coming by Tuesday night for sure.  If you've already told me that you are coming, then don't worry.  Thanks a lot.  Hope to see you soon.  And to all my friends living on the east and west coasts, hope to see many of you during Winter Break.  Unless I hate you.  Email me if you want to know if I hate you.
 
+
+tags: friends computers movies allen hall general books family
 ---
+
 <p>Stinky will not be present in my life until 29 November 1998.
 
 <p><TABLE align=left width=188 border=0>

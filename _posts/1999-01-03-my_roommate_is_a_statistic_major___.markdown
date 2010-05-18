@@ -31,7 +31,10 @@ excerpt: |-
   Good job Caltech.  Despite having three people who are on the top 10, wisconsin still managed to beat you.  Adam... remember when ... geek.
   <p>
   Well I tend to retype everything now that I forget to save things.  Anyway, I'm a bit upset, I liked all the albums I bought, but I'll have to return Meat Beat Manifesto because it has a noticeable scratch.  So when I'm theoretically at the U of M, I'll do that.  It sucks to have the first song in my head.
+
+tags: 
 ---
+
 My Star Wars checkbook is gone.  I use double checks and the thing that separates the checks so I can make carbon copies is coming off so I am now using a boring black checkbook.  The checks are still interesting.  I also think in a few years I may get a brand new set of checks with checkbook.
 
 <p>Well December is interesting.  Since a lot of people were home it meant that the second half of December experienced less hits on this web site.  In fact, the hits were about halved.  Seems pretty normal.  Especially since my audience is small.  Plus, I rarely visit other "news" sites at home.

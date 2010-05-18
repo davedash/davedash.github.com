@@ -27,7 +27,10 @@ excerpt: |-
   17 July  Add more people to friends page
   18 July  Beta testing of site begins
   25 July  Site is copied to root directory and replaces ftmax.com/ and ftmax.com/x</pre>
+
+tags: web development
 ---
+
 Updated schedule for Site4:
 <pre>
  9 June  Email/ICQ contact form

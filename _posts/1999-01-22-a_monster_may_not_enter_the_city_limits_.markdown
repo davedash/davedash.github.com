@@ -14,7 +14,10 @@ excerpt: |
   <p>People wanted me to stop doing this page, because I'm supposedly better in real life... but not all my fans get to see me in real life.
   
 
+
+tags: 
 ---
+
 Look at Urbana's <a href="http://www.dumblaws.com/">dumb laws</a>.
 
 <p><a href="http://www.lyrics.ch/">lyrics.ch</a> was closed recently.  The servers were seized by the Switzerland police.  :(

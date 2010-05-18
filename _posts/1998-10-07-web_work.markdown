@@ -15,7 +15,10 @@ excerpt: |-
   <li>Create a bulliten board.
   </ul>
   That's a lot of work.  The outcome is going to be very neat though.  The reason I dislike this is long forms take a very long time to create.  After creating the form it takes a while to write something that parses it and shoves it into a database.  Then you have to do pretty much make a brand new form that lets you update whatever data is in the database.  It's a lot of time taking stuff that you do not get to see "evolve" until you finish.<p>When I design a web page, I make several sketches and then whip out the ol' drawing program and make the images and lay them out on the web page where I think they should go.  It's very easy and you can see this pretty little thing you just made.  This is why I am yearning to work on a real web site.  I'll probably ask Med-Rx if I can update their site.  It's been a while since I last did anything.  May 1997... wow, I usually say stuff needs updating (at least minor) at least once a year.
+
+tags: web development
 ---
+
 Well I've decided that I need to get back into doing web work again...  Right now I am in the middle of this long, tedious project that I may have mentioned earlier.  The Hindu Mandir Email Database.  Here is what needs to be done:
 
 * Create a script to parse the form and insert it into the database.

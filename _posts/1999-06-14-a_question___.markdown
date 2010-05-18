@@ -25,7 +25,10 @@ excerpt: |-
   I want to get them online very soon.  After that I'll tweak everyhting
   and work on a new layout.
   <P>On a personal note, talk to me if you don't already.
+
+tags: 
 ---
+
 I've complete the user modification scripts for davedash.com.  I have 
 one question: Should users be able to change their usernames?
 <P>

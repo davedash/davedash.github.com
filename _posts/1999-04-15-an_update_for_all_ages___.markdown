@@ -26,7 +26,10 @@ excerpt: |-
   A few nights ago Matt and Kristine kidnapped me from DCL so I wouldn't 
   get raped.
   <p>Last night I was pissed off and wanted to kill someone, can you guess who?
+
+tags: 
 ---
+
 I saw <i>Bullworth</i> the other day.  I liked it.  Despite it not depicting 
 blacks in the best light.  Then again, I should like these things, because 
 according to some people I am racist (along with most of my floor).  See it 

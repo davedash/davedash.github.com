@@ -3,5 +3,8 @@ wordpress_id: 152
 layout: post
 title: Bang Bang
 excerpt: Here is a followup to the <a href="http://customnews.cnn.com/cnews/pna.show_story?p_art_id=3057422&p_section_name=On+Target&p_art_type=763693">shooting @UIUC</a>.
+
+tags: uiuc
 ---
+
 Here is a followup to the <a href="http://customnews.cnn.com/cnews/pna.show_story?p_art_id=3057422&p_section_name=On+Target&p_art_type=763693">shooting @UIUC</a>.
