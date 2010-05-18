@@ -5,10 +5,56 @@
         font-style: normal;
 }
 
-body {
-    font-family: Arial;
+header {
+    color: #eee;
+    background: #333;
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+html, body {
+    font-family: Helvetica Neue, Arial;
+    background: #eee;
+    height: 100%;
+}
+
+#content {
+    padding: 0 2em;
+    font-size: 120%;
 }
 
 h1 {
-    font-family: Surface;
+    font-family: Surface, Helvetica Neue, Arial;
+    font-size: 300%;
+    margin-bottom: 0;
+    padding: 0;
+    position: relative;
+    top: .4em;
+}
+
+h1 a { color: #eee; text-decoration: none }
+
+h2 {
+    font-family: Surface, Helvetica Neue, Arial;
+    font-size: 200%;
+    margin-top: 1em;
+}
+
+.date {
+    font-size: 80%;
+    color: #666;
+}
+
+#post .date, p, ol, ul {
+    margin-bottom: 1em;
+}
+
+#post ul li {
+    list-style: square;
+    margin-left: 1em;
+}
+
+strong {
+    font-weight: bold;
 }
