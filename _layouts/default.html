@@ -12,10 +12,8 @@
          type="application/atom+xml" />
          {% endif %}
    <!-- Homepage CSS -->
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.1.1/build/cssreset/reset-min.css">
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.1.1/build/cssfonts/fonts-min.css">
-   <link rel="stylesheet" href="/static/css/style.css" type="text/css"
-         media="screen, projection" />
+    {% include css.html %}
+
 </head>
 <body>
   <header>
@@ -24,6 +22,9 @@
   <div id="content">
     {{ content }}
   </div>
+
+  {% include ga.html %}
+
 </body>
 </html>
 
