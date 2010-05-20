@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /1999/
+Disallow: /2000/
+Disallow: /1998/
+Allow: /
+
+
