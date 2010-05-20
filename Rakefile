@@ -13,6 +13,9 @@ task :deploy do
     puts 'Cleaning _site...'
     CLEAN.include('_site/**')
     rmtree CLEAN
+    Rake::Task["cloud"].invoke
+    Rake::Task["tag"].invoke
+    Rake::Task["cloud_basic"].invoke
     puts 'Building site...'
     sh 'jekyll'
     Rake::Task["rsync"].reenable
