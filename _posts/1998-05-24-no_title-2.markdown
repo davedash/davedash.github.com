@@ -1,10 +1,10 @@
---- 
+---
 wordpress_id: 253
 layout: post
 title: Princess Bride
 excerpt: Finally... I saw <i>The Princess Bride</i>.  That is a very good movie.  It would have been nice to see it on Prom Night, but today was as good a day as any.  I bet there are several web sites dedicated to this movie.
 
-tags: [Uncategorized, highschool, movies]
+tags: [highschool, movies]
 ---
 
 Finally... I saw *The Princess Bride*.  That is a very good movie.  It would have been nice to see it on Prom Night, but today was as good a day as any.  I bet there are several web sites dedicated to this movie.

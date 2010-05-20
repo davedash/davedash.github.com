@@ -8,6 +8,7 @@ title: dave dash
 My name is Dave Dash.  I am a soon-to-be dad and a Senior Web Developer at
 Mozilla for the Firefox Add-ons site.
 
+You can contact me at `dd+onion` (at) `{this domain}`.
 
 ## Recent Blog Posts
 <ol>
@@ -16,7 +17,7 @@ Mozilla for the Firefox Add-ons site.
 {% endfor %}
 </ol>
 
-[Full Archive](archive)
+[Full archive](archive)
 
 ## Tags
 
