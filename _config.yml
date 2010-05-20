@@ -2,4 +2,4 @@ pygments: true
 markdown: rdiscount
 permalink: pretty
 # lsi: true
-exclude: Rakefile
+exclude: Rakefile, tagfucker.py
