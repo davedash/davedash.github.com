@@ -1,0 +1,37 @@
+--- 
+wordpress_id: 81
+layout: post
+title: MarsEdit
+wordpress_url: http://spindrop.us/2007/02/24/marsedit/
+---
+[tags]MarsEdit,software,blogs[/tags]
+
+I recently read about the acquisition of [MarsEdit][] by Red Sweater Software so I decided to check it out.  I'm quite glad I did it does make my workflow a lot easier.  What I had been doing up until today was this:
+
+1. I'd come up with an idea.
+2. Open up my writings project in [TextMate][]
+3. Open a new file and start typing ideas, etc.
+4. Find the right blog to post it on (e.g. [Spindrop][], [davedash.com][dd], [yumbo the reviewsBy.us blog][yumbo] or [Metroblogging][mb]).
+5. Login to the blog.
+6. Cut and paste titles, categories, tags, etc.
+
+It was easy to drop my blogging habbit ;)
+
+Now, I can do this:
+1. Come up with my idea.
+2. Select which blog I want to post it in.
+3. Write my idea.
+4. When it's ready to go live, just hit submit to blog.
+
+The one slight problem I have is I use a tags feature of wordpress in addition to categories (not sure why I don't just use categories, but that's another story), currently there's no easy way to deal with WordPress plugins' custom fields that I know of.  So there's an optional 5th step of examining the post on the site and possibly adding tags.
+
+Still, these 4 steps are easy and all done from one app.  It also features a preview of your post that you can customize per blog with a custom HTML template.  Which makes it easy to just drop your blog's style sheet and see if your post looks right.
+
+Definitely looks like a keeepr!
+
+[MarsEdit]: http://www.red-sweater.com/marsedit/
+[TextMate]: http://macromates.com/
+[Spindrop]: http://spindrop.us/
+[dd]: http://davedash.com/
+[yumbo]: http://yumbo.reviewsby.us/
+[mb]: http://twincities.metblogs.com/

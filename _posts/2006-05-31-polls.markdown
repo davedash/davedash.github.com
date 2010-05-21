@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 33
+layout: post
+title: Polls
+wordpress_url: http://spindrop.us/2006/05/31/polls
+---
+
+
+[democracy]: http://blog.jalenack.com/archives/democracy/
+[wordpress]: http://wordpress.org/
+[p]: http://www.problogger.net/archives/2006/06/01/blog-polls/
+[rbu]: http://reviewsby.us/
+
+I decided to install [Democracy] for [WordPress].  This was partially inspired by [Darren's post at Problogger][p] and for my own development efforts for the [restaurant review site][rbu].  Not sure if it allows you to change your vote, that would be useful for the first poll.  I suppose we'll find out.
+
+So the first poll is deciding on the next feature to implement for [reviewsby.us][rbu].  I've seeded it with some of the top requests I've heard/felt.  But I'd like to hear other peoples ideas.  If you're not familiar with the site, [take a look][rbu] and tell me what you think. 
+
+**Note:** For most people the poll is on the left sidebar.

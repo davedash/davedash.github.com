@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 67
+layout: post
+title: OpenID
+wordpress_url: http://spindrop.us/2006/10/03/openid/
+---
+[OpenID][] is a wonderful concept.  If I visit a web site, Acme Widgets, I only need to supply a <acronym title="Universal Resource Locator">URL</acronym> that belongs to me in order to log in.  The web site at that <acronym title="URL">URL</acronym> will provide a place where I can authorize Acme Widgets to log me in with this id.
+
+The benefit of this type of identity system is now you don't need to create new username's and passwords for each site you'd like to use.  We initially began [reviewsby.us][] with just [OpenID][] for that reason.  Now we can target places like [livejournal][] and make it exceptionally easy for their users to register with our site.
+
+As of this writing, and even more robust system is being developed, [whobar][].  [Whobar][] supports multiple identification sites, not just [OpenID][].  Rather than walking through explaining how to do a sign-in system that integrates [OpenID][], I'll direct people to [whobar][].  It is in the plans for [reviewsby.us][] to integrate [whobar][] and once that happens you can expect a shiny tutorial and/or plugin for symfony.
+
+[OpenID]: http://openid.net/
+[reviewsby.us]: http://reviewsby.us/
+[livejournal]: http://livejournal.com/
+[whobar]: http://whobar.org/

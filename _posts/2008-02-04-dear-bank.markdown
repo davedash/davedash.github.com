@@ -1,0 +1,53 @@
+--- 
+wordpress_id: 155
+layout: post
+title: Dear Bank
+wordpress_url: http://spindrop.us/2008/02/04/dear-bank/
+---
+I can't do simple things because they inevitably make me ranty.
+
+> Dear Small Bank in MN,
+> 
+> Your online banking system is difficult to log into and yet insecure.
+
+> I have to jump through so many hurtles trying to log into the [Small Bank in MN]  eBiz > bank, yet it still isn't that secure.
+> 
+> Instead of entering in my password, it's easier to just reset my password... but the scary thing is... resetting my password means you email me my old password in the clear!  Instead of just providing a temporary link, you give me my old password.  That's crazy!  That means anybody snooping into my email could find it out.  Or worse, someone could steal my computer and have all my online banking info.
+
+> My bank information should be secure even when my email gets compromised.  And it shouldn't be so hard to log into.  Look at ING, they have a sufficiently secure and accessible system.
+
+> Also... your HTML is inaccessible.  checkboxes and radiobuttons should have &lt;label&gt; tags.
+
+> Sincerely,
+
+> Dave Dash
+
+I hate online banking.  <!--more--> It's so frustrating.  Each company has a weird set of rules on login ids:
+
+* A random Number that they provide
+* A username which you choose must have at least two numbers
+
+I get it... but really?  Is it all that necessary.  All it means for me is I only check those bank accounts when I have to, or I write those account numbers in an easy to remember place, like on the palm of my hand.  Or it means I call customer support like an idiot and waste more money and time.
+
+Then there's the magic questions:
+
+* Where were you born?
+* Who's your daddy?
+* Who's your mommy?
+* Which of your two cats do you like better?
+* What's your best friends name? (I know "friends" should be "friend's" but that's not what the bank knows)
+* What is the date that your second girlfriend started holding your hand?
+
+Okay... less annoying, but seriously, how many times do I have to answer them to log into my account?
+
+And then finally passwords:
+
+* Passwords must contain numbers, letters, bears, tigers
+* Passwords cannot be any of the passwords you've used in the last 9 months
+* Passwords cannot be your daughter's name
+
+And then the inevitable... I give up and click forgot password... and without question it emails my email account with the password I couldn't remember... no questions asked... just a simple request to change my password again.
+
+Um... yeah that's real secure.  Thanks Bank!
+
+Oh and never mind that their forms are hard to use because they don't know proper HTML.  If you don't use &lt;label&gt;s it's like trying to pee in a Cheerio using your mouse.

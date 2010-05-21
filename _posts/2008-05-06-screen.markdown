@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 180
+layout: post
+title: Screen
+wordpress_url: http://spindrop.us/?p=180
+---
+Screen is **AWESOME**!
+
+I've been doing some data auditing at Delicious and we have a lot of data, and I work off of a laptop connected to other machines.
+
+So I caved in and started diving into `screen`.
+
+If your not familiar, screen is a multi-tasking terminal that you can connect and reconnect to.  Everything you run in screen keeps running as if you were there.  Think of it as VNC for the command line.
+
+I keep my screen session on a linux box at work and now I can do this:
+
+	ssh -t myawesomecomputer screen -x
+
+and be connected to my 10 different terminal sessions all at once.  I'm connected to any database I might need, and I have several long running tests in others, or even just an open bash prompt at the ready on the right server.  Very awesome!

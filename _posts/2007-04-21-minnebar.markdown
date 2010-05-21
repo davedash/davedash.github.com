@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 93
+layout: post
+title: MinneBar
+wordpress_url: http://spindrop.us/2007/04/21/minnebar/
+---
+[tags]Minnebar, symfony, barcamp, frameworks, php, php5[/tags]
+
+I gave a quick overview of the symfony framework for PHP5 at [MinneBar](http://barcamp.org/MinneBar).  If you have questions or comments about symfony or my talk, feel free to leave them here.

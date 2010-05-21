@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 65
+layout: post
+title: Vim Undo
+wordpress_url: http://spindrop.us/2006/09/20/vim-undo/
+---
+So apparently you can "time-travel" in `vim`.  Commands like `:earlier 10m` and `:later 5m` will move your document to points 10 minutes ago and from their 5 minutes after.
+
+Is it just me, or is this acceptable?
+
+    vim phd_thesis.txt
+    
+    :later 5y
+
+:)

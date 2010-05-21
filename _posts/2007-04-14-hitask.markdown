@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 91
+layout: post
+title: HiTask
+wordpress_url: http://spindrop.us/2007/04/14/hitask/
+---
+[tags]gtd, tasks, hiTask, web2.0, todo?[/tags]
+
+[hiTask]: http://hitask.com/
+
+<span style="margin-left: 1em; float:right">![hiTask](http://www2.hitask.com/img/header_logo.gif)</span>
+
+I'm a sucker for organizing things, and the drag and drop demo on the [hiTask homepage][hiTask] won me over with the ability to connect tasks to schedules to people.  
+
+
+They create buckets where you can dump information.  For example, you can put things into various projects, or color it a certain way or organize things by when they need to get done.  You can even schedule with some precision *when* do something.
+
+I've only been using it one day and it does fall short in a few areas:
+
+* I need to be able to edit multiple attributes at a time, quickly.  For example, I need something that has to be done today at 5pm for my house, I don't want to have to do 3 separate tasks.
+* I want to view my descriptions/notes without going to edit mode.  Sometimes I put URLs in there (e.g. pay credit card links to my credit card web site).
+* Repeating to-do list items... this would rock.
+
+I do like the little news notice at the top.  Got me interested in the news for the site.
+
+<br style="clear:both" />
