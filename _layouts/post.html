@@ -15,7 +15,12 @@
   <!-- Homepage CSS -->
   {% include css.html %}
 </head>
-<body data-id="http://davedash.com{{ page.id }}/">
+{% if page.site == 'spindrop' %}
+{% assign host = 'spindrop.us' %}
+{% else %}
+{% assign host = 'davedash.com' %}
+{% endif %}
+<body data-id="http://{{ host }}{{ page.id }}/">
   <header>
   <h1><a href="/">Dave Dash</a></h1>
   </header>
