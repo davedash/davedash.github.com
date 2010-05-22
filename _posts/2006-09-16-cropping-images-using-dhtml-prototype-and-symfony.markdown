@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 64
 layout: post
 title: Cropping Images using DHTML (Prototype) and symfony
 wordpress_url: http://spindrop.us/2006/09/16/cropping-images-using-dhtml-prototype-and-symfony/
+site: spindrop
 ---
 [dd]: http://davedash.com/
 [wf]: http://workface.com/

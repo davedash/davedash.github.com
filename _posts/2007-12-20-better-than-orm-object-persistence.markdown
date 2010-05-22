@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 129
 layout: post
 title: Better than ORM Object Persistence
 wordpress_url: http://spindrop.us/2007/12/20/better-than-orm-object-persistence/
+site: spindrop
 ---
  After talking to people about the benefits and disadvantages of various ORMs... and reading up a little on non RDMBSs like [Amazon SimpleDB](http://www.amazon.com/gp/browse.html?node=342335011) I came to the realization that ORM is really a hack to get RDBMSs to work as a storage for objects.
 

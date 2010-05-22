@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 281
 layout: post
 title: Delicious keeps you in the know
 wordpress_url: http://spindrop.us/?p=281
+site: spindrop
 ---
 My last task at Delicious was to build along with the amazing [Vik Singh](http://zooie.wordpress.com/) was to build a new feed of bookmarks that was heavily influenced by Twitter.  It was one of the most interesting and enjoyable pieces of code that I worked on at Delicious.
 

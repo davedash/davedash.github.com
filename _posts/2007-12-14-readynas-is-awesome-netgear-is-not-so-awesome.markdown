@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 128
 layout: post
 title: ReadyNAS is awesome, Netgear is not so awesome
 wordpress_url: http://spindrop.us/2007/12/14/readynas-is-awesome-netgear-is-not-so-awesome/
+site: spindrop
 ---
 After much debate I decided to get the ReadyNAS NV+ with a single 500GB disk.  It's great so far. I even got [ssh to work](http://chapados.org/2007/5/6/readynas-shell-access-redux) which means I have [rsnapshot][r] working (I can post details if necessary).
 

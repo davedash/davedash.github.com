@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 244
 layout: post
 title: AppEngine is not a free CDN
 wordpress_url: http://spindrop.us/?p=244
+site: spindrop
 ---
 [c]: http://24ways.org/2008/using-google-app-engine-as-your-own-cdn
 

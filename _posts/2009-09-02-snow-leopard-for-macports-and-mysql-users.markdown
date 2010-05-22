@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 307
 layout: post
 title: Snow Leopard for Macports and Mysql users
 wordpress_url: http://spindrop.us/?p=307
+site: spindrop
 ---
 I use mysql and macports on OSX and both were broken when I upgraded to Snow Leopard.
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 39
 layout: post
 title: How do I... on a Mac?  A software solution guide for OS X
 wordpress_url: http://spindrop.us/2006/06/09/how-do-i-on-a-mac-a-software-solution-guide-for-os-x
+site: spindrop
 ---
 [ff]: http://www.econsultant.com/i-want-firefox-extension/index.html
 [os x]: http://apple.com/macosx/

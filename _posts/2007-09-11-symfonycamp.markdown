@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 121
 layout: post
 title: "symfonyCamp "
 wordpress_url: http://spindrop.us/2007/09/11/symfonycamp/
+site: spindrop
 ---
 [tags]symfony, symfonyCamp, sensio, dop, zend search lucene, zsl[/tags]
 

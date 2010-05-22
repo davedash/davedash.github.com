@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 27
 layout: post
 title: More usable approach to adding restaurants
 wordpress_url: http://spindrop.us/2006/05/25/more-usable-approach-to-adding-restaurants
+site: spindrop
 ---
 [add]: http://reviewsby.us/add/restaurant/
 [h]: http://www.useit.com/papers/heuristic/heuristic_list.html

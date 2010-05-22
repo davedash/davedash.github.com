@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 134
 layout: post
 title: ddAccessibleFormPlugin updated
 wordpress_url: http://spindrop.us/2008/01/22/ddaccessibleformplugin-updated/
+site: spindrop
 ---
 [tags]
 yui, jquery, javascript, forms, symfony, plugin

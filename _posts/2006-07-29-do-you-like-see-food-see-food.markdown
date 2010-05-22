@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 56
 layout: post
 title: Do you like see-food?  See?  Food.
 wordpress_url: http://spindrop.us/2006/07/28/rss-feeds-everywhere/
+site: spindrop
 ---
 <div style="float:right">
 <img src="http://reviewsby.us/menuitem_image/ed100b3be2d453a6574463bf63f3533d" alt="Brownie Sundae" />

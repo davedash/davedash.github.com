@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 79
 layout: post
 title: Making anchor links smarter... and sexier
 wordpress_url: http://spindrop.us/2007/02/14/making-anchor-links-smarter-and-sexier/
+site: spindrop
 ---
 
 [1]: #fn1

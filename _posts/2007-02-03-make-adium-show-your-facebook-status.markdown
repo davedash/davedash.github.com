@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 76
 layout: post
 title: Make Adium show your Facebook status
 wordpress_url: http://spindrop.us/2007/02/03/make-adium-show-your-facebook-status/
+site: spindrop
 ---
 [xml]: http://us3.php.net/simplexml/
 [curl]: http://www.php.net/curl

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 154
 layout: post
 title: Django circular model references
 wordpress_url: http://spindrop.us/2008/02/03/django-circular-model-references/
+site: spindrop
 ---
 I'm used to circular references in my model.  Often I do a versioning of an `Item` with an `ItemVersion`.  `Item` will link to the latest `ItemVersion` and `ItemVersion` will link to the relevant `Item`.
 

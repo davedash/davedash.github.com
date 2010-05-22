@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 125
 layout: post
 title: "Inbox Zero: Dave Dash style"
 wordpress_url: http://spindrop.us/2007/10/04/inbox-zero-dave-dash-style/
+site: spindrop
 ---
 [tags]inbox, zero, 0, inbox zero, gtd, email, pending, todo, gtd[/tags]
 

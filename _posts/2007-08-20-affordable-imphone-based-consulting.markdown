@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 118
 layout: post
 title: Affordable IM/Phone-based consulting
 wordpress_url: http://spindrop.us/2007/08/20/affordable-imphone-based-consulting/
+site: spindrop
 ---
 [tags]symfony, spindrop, services, consulting[/tags]
 

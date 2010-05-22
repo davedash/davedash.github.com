@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 162
 layout: post
 title: Keep a second web server around for luck...
 wordpress_url: http://spindrop.us/2008/02/12/keep-a-second-web-server-around-for-luck/
+site: spindrop
 ---
 I had one of those mid-day "what's going on with my server" heart-atacks.  I have a service that emails me when [reviewsby.us][rbu] is down.  On my old server if it went down, I could just restart the server and it'd be back up.  That was big old apache, running out of memory or something.
 

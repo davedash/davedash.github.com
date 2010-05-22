@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 142
 layout: post
 title: "django experiment: Day 1 and Model Inheritence"
 wordpress_url: http://spindrop.us/2008/01/27/django-experiment-day-1-and-model-inheritence/
+site: spindrop
 ---
 [tags]django, inheritance[/tags]
 

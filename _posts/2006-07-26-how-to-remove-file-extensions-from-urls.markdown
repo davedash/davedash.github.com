@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 54
 layout: post
 title: How to remove file extensions from URLs
 wordpress_url: http://spindrop.us/2006/07/26/how-to-remove-file-extensions-from-urls/
+site: spindrop
 ---
 <acronym title="Universal Resource Locator">URL</acronym>s should be treated as prime real estate.  Their primary purpose is to locate resources on the Internet.  So for a web developer, it makes sense to make things as user-friendly as possible.  One effort is to remove the extensions from files.  I don't mean things like `.html` or `.pdf`, as those give you an idea that you're reading a page of content or a <acronym title="Portable Document Format">PDF</acronym> document.  I meant things like `.php` or `.asp` or `.pl`, etc.  These are unnecessary items that just clutter the location bar on most browsers.
 

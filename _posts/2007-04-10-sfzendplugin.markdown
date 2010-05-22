@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 90
 layout: post
 title: sfZendPlugin
 wordpress_url: http://spindrop.us/2007/04/10/sfzendplugin/
+site: spindrop
 ---
 [tags]Zend, Zend Search Lucene, Search, Lucene, php, symfony, zsl, plugins[/tags]
 

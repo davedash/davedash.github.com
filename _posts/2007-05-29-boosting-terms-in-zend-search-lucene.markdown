@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 102
 layout: post
 title: Boosting terms in  Zend Search Lucene
 wordpress_url: http://spindrop.us/2007/05/29/boosting-terms-in-zend-search-lucene/
+site: spindrop
 ---
 [tags]Zend, Zend Search Lucene, Search, Lucene, php, symfony, zsl[/tags]
 

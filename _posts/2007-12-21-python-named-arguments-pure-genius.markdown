@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 130
 layout: post
 title: "Python, Named arguments: Pure Genius"
 wordpress_url: http://spindrop.us/2007/12/21/python-named-arguments-pure-genius/
+site: spindrop
 ---
 
 I decided I want to learn python, if only to learn Django and to "get" what all the python hub-bub is about.

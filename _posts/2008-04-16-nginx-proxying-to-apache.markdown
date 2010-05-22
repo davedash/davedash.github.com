@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 179
 layout: post
 title: nginx proxying to apache
 wordpress_url: http://spindrop.us/?p=179
+site: spindrop
 ---
 I gave up on fastcgi with NginX and django.  Too many things just didn't work, so I decided to keep Apache, but lock it down and thrown NginX in the front to serve static content and to prevent max client issues.
 

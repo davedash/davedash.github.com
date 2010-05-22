@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 262
 layout: post
 title: From Delicious to Mozilla
 wordpress_url: http://spindrop.us/?p=262
+site: spindrop
 ---
 [amo]: http://addons.mozilla.org/
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 105
 layout: post
 title: Saving a file to a database using symfony and doctrine
 wordpress_url: http://spindrop.us/2007/07/07/saving-a-file-to-a-database-using-symfony-and-doctrine/
+site: spindrop
 ---
 [tags]symfony, doctrine, database, uploads, wordpress, fixme[/tags]
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 299
 layout: post
 title: git svn rebase... forever?
 wordpress_url: http://spindrop.us/?p=299
+site: spindrop
 ---
 While working on [addons.mozilla.org](http://addons.mozilla.org/) I ran into an issue of `git svn rebase` continually asking me to merge a file, over and over.
 

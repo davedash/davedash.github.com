@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 189
 layout: post
 title: Why code rewrites are often coupled with redesigns
 wordpress_url: http://spindrop.us/?p=189
+site: spindrop
 ---
 I've done some rewrites of code, and they usually are coupled with redesigns.
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 225
 layout: post
 title: Database versus files for Images
 wordpress_url: http://spindrop.us/?p=225
+site: spindrop
 ---
 This is a dead topic for sure, but one of the bad web development habits I had picked up was that storing everything in a database made things easier.
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 100
 layout: post
 title: Equal height columns with jQuery
 wordpress_url: http://spindrop.us/2007/05/22/equal-height-columns-with-jquery/
+site: spindrop
 ---
 [tags]css, jQuery, layout, javascript, equal, columns, equal columns[/tags]
 

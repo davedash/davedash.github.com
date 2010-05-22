@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 166
 layout: post
 title: Why I hate the Apple Store and so can you!
 wordpress_url: http://spindrop.us/2008/02/23/why-i-hate-the-apple-store-and-so-can-you/
+site: spindrop
 ---
 So if you remember, [I went to the apple store over a week ago](/2008/02/13/iphone-and-macbook-air/) to learn that Apple gave me a goofy battery and it needed replacing.  Here's what happened:
 

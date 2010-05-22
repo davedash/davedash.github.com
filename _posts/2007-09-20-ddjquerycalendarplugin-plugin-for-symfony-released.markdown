@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 123
 layout: post
 title: ddJQueryCalendarPlugin plugin for symfony released
 wordpress_url: http://spindrop.us/2007/09/20/ddjquerycalendarplugin-plugin-for-symfony-released/
+site: spindrop
 ---
 [tags]JQuery, jq, javascript, js, JQuery Calendar, calendar, symfony, plugin[/tags]
 

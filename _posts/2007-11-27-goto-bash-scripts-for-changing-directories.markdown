@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 127
 layout: post
 title: goto() Bash scripts for changing directories
 wordpress_url: http://spindrop.us/2007/11/27/goto-bash-scripts-for-changing-directories/
+site: spindrop
 ---
 So one of the downsides to symfony is traversing the file system.  Lately I've had to do this a lot so I decided to write some `bash` functions to make this easier.  Here's one I call `goto` which works as such:
 

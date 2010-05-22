@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 96
 layout: post
 title: TextMate + YUI = YUI snippets!
 wordpress_url: http://spindrop.us/2007/04/30/textmate-yui-yui-snippets/
+site: spindrop
 ---
 I do a lot of [YUI grid layouts](http://developer.yahoo.com/yui/grids/) and I love the nestable grids:
 

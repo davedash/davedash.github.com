@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 104
 layout: post
 title: Firebug Lite and symfony
 wordpress_url: http://spindrop.us/2007/06/02/firebug-lite-and-symfony/
+site: spindrop
 ---
 [tags]Firefox, symfony, firebug, firebug lite[/tags]
 

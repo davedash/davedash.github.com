@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 115
 layout: post
 title: "symfony + mod_rewrite: moving smoothly from development to production environments"
 wordpress_url: http://spindrop.us/2007/08/14/symfony-mod_rewrite-moving-smoothly-from-development-to-production-environments/
+site: spindrop
 ---
 [tags]symfony, mod_rewrite, 404, url, pretty urls, development, production[/tags]
 

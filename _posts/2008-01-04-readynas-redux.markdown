@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 131
 layout: post
 title: ReadyNAS redux
 wordpress_url: http://spindrop.us/2008/01/04/readynas-redux/
+site: spindrop
 ---
 [tags]infrant, readynas, nv+, redux, harddrive, crash, gear[/tags]
 

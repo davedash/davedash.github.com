@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 133
 layout: post
 title: nginx and symfony
 wordpress_url: http://spindrop.us/2008/01/20/nginx-and-symfony/
+site: spindrop
 ---
 [tags]nginx, server, symfony[/tags]
 

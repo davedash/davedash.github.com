@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 109
 layout: post
 title: Dynamically adjusting your page title in symfony
 wordpress_url: http://spindrop.us/2007/07/18/dynamically-adjusting-your-page-title-in-symfony/
+site: spindrop
 ---
 [tags]view, view.yml, symfony, reviewsby.us, title, seo[/tags]
 

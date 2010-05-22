@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 83
 layout: post
 title: PHP double versus single quotes
 wordpress_url: http://spindrop.us/2007/03/03/php-double-versus-single-quotes/
+site: spindrop
 ---
 [tags]best practices, php[/tags]
 

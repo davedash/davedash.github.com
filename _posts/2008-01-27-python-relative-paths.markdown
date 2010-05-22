@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 141
 layout: post
 title: "python: relative paths"
 wordpress_url: http://spindrop.us/2008/01/27/python-relative-paths/
+site: spindrop
 ---
 So I started yesterday with Django, and I decided I didn't want to futz with creating another mysql database that I'd need to manage, etc.  Instead I'll just use `sqlite`.
 

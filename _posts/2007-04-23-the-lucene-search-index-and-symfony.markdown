@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 94
 layout: post
 title: The Lucene Search Index and symfony
 wordpress_url: http://spindrop.us/2007/04/23/the-lucene-search-index-and-symfony/
+site: spindrop
 ---
 [tags]Zend, Zend Search Lucene, Search, Lucene, php, symfony, zsl, index[/tags]
 

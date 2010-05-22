@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 110
 layout: post
 title: Usability for a limited audience and learnability
 wordpress_url: http://spindrop.us/2007/07/19/usability-for-a-limited-audience-and-learnability/
+site: spindrop
 ---
 [tags]usability, learnability, english[/tags]
 

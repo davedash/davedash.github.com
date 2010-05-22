@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 25
 layout: post
 title: Migrating from Drupal (4.7) to Wordpress
 wordpress_url: http://spindrop.us/2006/05/19/migrating-from-drupal-47-to-wordpress
+site: spindrop
 ---
 [katie]: http://katiebonn.com/
 [drupal]: http://drupal.org/

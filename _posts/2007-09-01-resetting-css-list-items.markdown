@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 120
 layout: post
 title: resetting CSS list items
 wordpress_url: http://spindrop.us/2007/09/01/resetting-css-list-items/
+site: spindrop
 ---
 [tags]css, symfony, blueprint, yui[/tags]
 

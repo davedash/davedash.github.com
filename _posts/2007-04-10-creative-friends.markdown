@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 89
 layout: post
 title: Creative Friends
 wordpress_url: http://spindrop.us/2007/04/10/creative-friends/
+site: spindrop
 ---
 [tags]photography, design, pretty[/tags]
 

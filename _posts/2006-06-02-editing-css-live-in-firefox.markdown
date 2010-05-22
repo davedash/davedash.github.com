@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 34
 layout: post
 title: Editing CSS live in Firefox
 wordpress_url: http://spindrop.us/2006/06/02/editing-css-live-in-firefox
+site: spindrop
 ---
 ### Summary
 `Firefox + Web Developer Extension = Live CSS Editing` if that makes sense to you, you probably don't need to read on any further, except perhaps the "caveats" section.

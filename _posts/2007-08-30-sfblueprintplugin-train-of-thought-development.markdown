@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 119
 layout: post
 title: "sfBlueprintPlugin: Train of thought development"
 wordpress_url: http://spindrop.us/2007/08/30/sfblueprintplugin-train-of-thought-development/
+site: spindrop
 ---
 [sc]: http://symfonycamp.com/
 [b]: http://trac.symfony-project.com/trac/browser/plugins/sfBlueprintPlugin

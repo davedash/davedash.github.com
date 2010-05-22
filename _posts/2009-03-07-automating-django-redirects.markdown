@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 242
 layout: post
 title: Automating Django Redirects
 wordpress_url: http://spindrop.us/?p=242
+site: spindrop
 ---
 [r]: http://docs.djangoproject.com/en/dev/ref/contrib/redirects/
 

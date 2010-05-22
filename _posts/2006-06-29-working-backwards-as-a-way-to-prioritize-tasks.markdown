@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 43
 layout: post
 title: Working Backwards as a Way to Prioritize Tasks
 wordpress_url: http://spindrop.us/2006/06/29/working-backwards-as-a-way-to-prioritize-tasks/
+site: spindrop
 ---
 [rbu]: http://reviewsby.us/ "Reviews By Us"
 [katie]: http://katiebonn.com/

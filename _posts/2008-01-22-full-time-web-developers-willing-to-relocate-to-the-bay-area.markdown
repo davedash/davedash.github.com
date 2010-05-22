@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 136
 layout: post
 title: Full Time Web Developers (willing to relocate to the Bay Area)
 wordpress_url: http://spindrop.us/2008/01/22/full-time-web-developers-willing-to-relocate-to-the-bay-area/
+site: spindrop
 ---
 [tags]jobs, yahoo, symfony[/tags]
 

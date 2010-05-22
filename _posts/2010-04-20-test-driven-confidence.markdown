@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 356
 layout: post
 title: Test Driven Confidence
 wordpress_url: http://spindrop.us/?p=356
+site: spindrop
 ---
 [a]: https://addons.mozilla.org/
 

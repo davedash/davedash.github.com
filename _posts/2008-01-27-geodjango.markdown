@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 143
 layout: post
 title: GeoDjango
 wordpress_url: http://spindrop.us/2008/01/27/geodjango/
+site: spindrop
 ---
 [tags]geodjango, django, gis[/tags]
 

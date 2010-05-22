@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 354
 layout: post
 title: Finding the most common Firefox issues
 wordpress_url: http://spindrop.us/?p=354
+site: spindrop
 ---
 [f]: http://support.mozilla.com/en-US/kb/
 [g]: http://github.com/davedash/SUMO-issues

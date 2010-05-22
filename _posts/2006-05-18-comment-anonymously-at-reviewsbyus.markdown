@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 24
 layout: post
 title: Comment Anonymously at ReviewsBy.Us
 wordpress_url: http://spindrop.us/2006/05/18/comment-anonymously-at-reviewsbyus/
+site: spindrop
 ---
 [1]: http://www.alistapart.com/articles/flywheelsandfriction
 [rbu]: http://reviewsby.us/

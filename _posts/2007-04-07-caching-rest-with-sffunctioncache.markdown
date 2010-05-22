@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 87
 layout: post
 title: Caching REST with sfFunctionCache
 wordpress_url: http://spindrop.us/2007/04/07/caching-rest-with-sffunctioncache/
+site: spindrop
 ---
 [tags]geocoding, caching, REST, symfony, Cache_Lite, php, cache, sfFunctionCache[/tags]
 

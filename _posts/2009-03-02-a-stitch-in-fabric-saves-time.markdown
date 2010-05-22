@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 233
 layout: post
 title: A stitch in Fabric saves time
 wordpress_url: http://spindrop.us/?p=233
+site: spindrop
 ---
 [f]: http://www.nongnu.org/fab/
 

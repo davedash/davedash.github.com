@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 198
 layout: post
 title: sfGuardUser -> django.contrib.auth
 wordpress_url: http://spindrop.us/?p=198
+site: spindrop
 ---
 If you find yourself moving from symfony to Django, here's how you `sf_guard_user`'s user table to `django.contrib.auth` user table:
 

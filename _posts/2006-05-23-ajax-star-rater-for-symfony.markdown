@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 26
 layout: post
 title: AJAX star rater for symfony
 wordpress_url: http://spindrop.us/2006/05/23/ajax-star-rater-for-symfony
+site: spindrop
 ---
 [sr]: http://www.symfony-project.com/snippets/5
 [symfony]: http://www.symfony-project.com/

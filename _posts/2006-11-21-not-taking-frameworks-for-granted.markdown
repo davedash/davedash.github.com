@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 75
 layout: post
 title: Not taking frameworks for granted
 wordpress_url: http://spindrop.us/2006/11/21/not-taking-frameworks-for-granted/
+site: spindrop
 ---
 One of my clients approached me with a relatively easy project.  She gave me a log file of PHP errors and I was supposed to fix her scripts.  I fixed about 100+ different errors in a few hours.  It was fairly straightforward.
 

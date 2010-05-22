@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 111
 layout: post
 title: "Facebook Markup Language: the Dashboard and Action links"
 wordpress_url: http://spindrop.us/2007/07/25/facebook-markup-language-the-dashboard-and-action-links/
+site: spindrop
 ---
 [tags]facebook, fbml, apps, reviewsby.us, symfony, sfFacebookPlatformPlugin, plugins[/tags]
 

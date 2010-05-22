@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 342
 layout: post
 title: "django-fixture-magic: Testing issues with real data."
 wordpress_url: http://spindrop.us/?p=342
+site: spindrop
 ---
 [f]: http://github.com/davedash/django-fixture-magic
 [amo]: http://addons.mozilla.org/

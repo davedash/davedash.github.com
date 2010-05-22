@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 52
 layout: post
 title: Inverting color codes in Textmate
 wordpress_url: http://spindrop.us/2006/07/19/inverting-color-codes-in-textmate/
+site: spindrop
 ---
 [textmate]: http://macromates.com/
 [g1]: http://www.google.com/search?q=inverse+colors+hex

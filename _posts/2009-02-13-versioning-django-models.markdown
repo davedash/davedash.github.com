@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 215
 layout: post
 title: Versioning Django Models
 wordpress_url: http://spindrop.us/?p=215
+site: spindrop
 ---
 In symfony, versioning a model was not terribly difficult.  I had my own specialized brute-force way of doing this.
 

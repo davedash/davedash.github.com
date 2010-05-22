@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 117
 layout: post
 title: "Symfony Camp: Ajax and Zend, what would you like to know?"
 wordpress_url: http://spindrop.us/2007/08/16/symfony-camp-ajax-and-zend-what-would-you-like-to-know/
+site: spindrop
 ---
 [tags]symfonyCamp, symfony, netherlands, ajax, zend search lucene, zsl, jquery[/tags]
 

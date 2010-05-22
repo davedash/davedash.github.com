@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 155
 layout: post
 title: Dear Bank
 wordpress_url: http://spindrop.us/2008/02/04/dear-bank/
+site: spindrop
 ---
 I can't do simple things because they inevitably make me ranty.
 

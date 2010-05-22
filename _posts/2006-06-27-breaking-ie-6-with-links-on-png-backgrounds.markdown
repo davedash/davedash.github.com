@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 41
 layout: post
 title: Breaking IE 6 with links on PNG backgrounds
 wordpress_url: http://spindrop.us/2006/06/27/breaking-ie-6-with-links-on-png-backgrounds/
+site: spindrop
 ---
 In <acronym title="Internet Explorer">IE</acronym> there's a whole slew of troubles with <acronym title="Portable Network Graphics">PNG</acronym>.  One such trouble is links or anchors will not work in <acronym title="Internet Explorer">IE</acronym> if you have a <acronym title="Portable Network Graphics">PNG</acronym> image that has gone through the Microsoft `[AlphaImageLoader]`, which is the only known way to render <acronym title="Portable Network Graphic">PNG</acronym>s in <acronym title="Internet Explorer">IE</acronym>6.
 

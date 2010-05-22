@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 301
 layout: post
 title: Fun with HTML5, Blockchalk, Bookmarklets and Google Maps
 wordpress_url: http://spindrop.us/?p=301
+site: spindrop
 ---
 [bc]: http://blockchalk.com/developers
 [j]: http://twitter.com/joshu/status/3679085168

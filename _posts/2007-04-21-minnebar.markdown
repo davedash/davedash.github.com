@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 93
 layout: post
 title: MinneBar
 wordpress_url: http://spindrop.us/2007/04/21/minnebar/
+site: spindrop
 ---
 [tags]Minnebar, symfony, barcamp, frameworks, php, php5[/tags]
 

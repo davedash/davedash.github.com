@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 35
 layout: post
 title: Spindrop objectives
 wordpress_url: http://spindrop.us/2006/06/05/spindrop-objectives
+site: spindrop
 ---
 [pb]: http://www.problogger.net/archives/2006/06/05/blog-goals-group-writing-project/
 [s1]: http://spindrop.us/purpose/

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 277
 layout: post
 title: Have unique descriptive page titles
 wordpress_url: http://spindrop.us/?p=277
+site: spindrop
 ---
 [1]: http://www.google.com/search?hl=en&q=+site:www.sphinxsearch.com+sphinx+api+php
 [2]: http://github.com/davedash/Title-Variance/tree

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 186
 layout: post
 title: Creating a new project in Mercurial versus SVN
 wordpress_url: http://spindrop.us/?p=186
+site: spindrop
 ---
 One of the most annoying things about creating new SVN projects is the new project dance:
 

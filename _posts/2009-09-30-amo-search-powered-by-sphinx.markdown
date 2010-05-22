@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 319
 layout: post
 title: "AMO Search: Powered by Sphinx"
 wordpress_url: http://spindrop.us/?p=319
+site: spindrop
 ---
 [g]: http://spindrop.us/2009/09/19/mysql-and-the-grand-regexp-retardedness-with-lettercasing/
 [v]: http://spindrop.us/2009/08/07/v-is-for-version-hell/

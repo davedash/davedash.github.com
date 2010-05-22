@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 139
 layout: post
 title: "python: it begins"
 wordpress_url: http://spindrop.us/2008/01/26/python-it-begins/
+site: spindrop
 ---
 [tags]php, python, symfony, frameworks, programming[/tags]
 

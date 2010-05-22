@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 146
 layout: post
 title: reusability
 wordpress_url: http://spindrop.us/2008/01/30/reusability/
+site: spindrop
 ---
 [tags]django, plugins, apps, projects, symfony[/tags]
 

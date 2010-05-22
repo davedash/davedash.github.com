@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 114
 layout: post
 title: FBML and CSS background images
 wordpress_url: http://spindrop.us/2007/08/11/fbml-and-css-background-images/
+site: spindrop
 ---
 [tags]fbml,hacks, background, openid, css, reviewsby.us, partials, symfony, sfFacebookPlatformPlugin[/tags]
 

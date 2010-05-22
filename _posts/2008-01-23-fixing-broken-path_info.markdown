@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 137
 layout: post
 title: Fixing broken PATH_INFO
 wordpress_url: http://spindrop.us/2008/01/23/fixing-broken-path_info/
+site: spindrop
 ---
 [tags]php, cgi, path_info, nginx, symfony[/tags]
 

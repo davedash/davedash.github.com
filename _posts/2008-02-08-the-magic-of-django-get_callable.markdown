@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 158
 layout: post
 title: "the magic of django: get_callable"
 wordpress_url: http://spindrop.us/2008/02/08/the-magic-of-django-get_callable/
+site: spindrop
 ---
 [django]: http://djangoproject.com/
 [rbu]: http://reviewsby.us/

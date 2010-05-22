@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 212
 layout: post
 title: Dear Banks, Stop Encouraging Bad Security
 wordpress_url: http://spindrop.us/?p=212
+site: spindrop
 ---
 [m]: http://mint.com/
 [g]: http://geezeo.com/

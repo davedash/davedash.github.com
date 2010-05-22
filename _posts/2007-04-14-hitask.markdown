@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 91
 layout: post
 title: HiTask
 wordpress_url: http://spindrop.us/2007/04/14/hitask/
+site: spindrop
 ---
 [tags]gtd, tasks, hiTask, web2.0, todo?[/tags]
 

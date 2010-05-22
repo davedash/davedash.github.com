@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 358
 layout: post
 title: Alphabetical sorting in Sphinx
 wordpress_url: http://spindrop.us/?p=358
+site: spindrop
 ---
 Sphinx 0.9.9 is great at searching full text, but treating actual strings as attributes takes some work.
 

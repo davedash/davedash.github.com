@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 227
 layout: post
 title: Resizing Image on upload in Django
 wordpress_url: http://spindrop.us/?p=227
+site: spindrop
 ---
 I had trouble wrapping my head around Django ORM's handling of Images.
 

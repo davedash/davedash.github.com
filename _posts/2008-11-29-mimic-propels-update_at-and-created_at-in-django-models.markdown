@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 204
 layout: post
 title: Mimic propel's update_at and created_at in Django models
 wordpress_url: http://spindrop.us/?p=204
+site: spindrop
 ---
 One "trick" that propel offers you is tables with fields `created_at` and `updated_at`.
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 254
 layout: post
 title: "Designing a tagging system: what is tagging"
 wordpress_url: http://spindrop.us/?p=254
+site: spindrop
 ---
 <img src="http://farm3.static.flickr.com/2080/1592127385_eca211d6af_m.jpg" class="alignright" />
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 196
 layout: post
 title: "Picking up loose ends: Position Pieces"
 wordpress_url: http://spindrop.us/?p=196
+site: spindrop
 ---
 I'm picking up a pet project of mine that I was working on a few months back.  It's written in Django and is openID enabled... but I didn't used [django openID][d] and I have no clue why... I wrote my own code.
 

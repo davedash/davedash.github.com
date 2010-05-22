@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 160
 layout: post
 title: Unicode or How to deal with f'd up text in Django
 wordpress_url: http://spindrop.us/2008/02/11/unicode-or-how-to-deal-with-fd-up-text-in-django/
+site: spindrop
 ---
 So I've been going out of my mind trying to figure out why something like:
 

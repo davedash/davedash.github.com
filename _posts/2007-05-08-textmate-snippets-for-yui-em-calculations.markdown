@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 98
 layout: post
 title: Textmate Snippets for YUI em calculations
 wordpress_url: http://spindrop.us/2007/05/08/textmate-snippets-for-yui-em-calculations/
+site: spindrop
 ---
 [tags]yui, yahoo, css, snippet, textmate, ems, px[/tags]
 

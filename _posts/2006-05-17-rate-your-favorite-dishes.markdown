@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 23
 layout: post
 title: Rate your favorite dishes
 wordpress_url: http://spindrop.us/2006/05/17/rate-your-favorite-dishes/
+site: spindrop
 ---
 [rbu]: http://reviewsby.us/
 

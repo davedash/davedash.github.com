@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 49
 layout: post
 title: Going international... kinda
 wordpress_url: http://spindrop.us/2006/07/06/going-international-kinda/
+site: spindrop
 ---
 Some of the first non-Minnesotan restaurants to show up were [Flying Dog](http://reviewsby.us/restaurant/flying-dog), [Bangalore](http://reviewsby.us/restaurant/bangalore) and [Konstam](http://reviewsby.us/restaurant/konstam)... all of them outside the US.  Wasn't expecting that... but then again, I wasn't really surprised.
 

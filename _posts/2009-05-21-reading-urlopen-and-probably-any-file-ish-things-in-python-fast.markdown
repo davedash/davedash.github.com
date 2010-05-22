@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 260
 layout: post
 title: Reading urlopen and probably any file-ish things in python fast
 wordpress_url: http://spindrop.us/?p=260
+site: spindrop
 ---
 So I've been churning away in my last few days in Delicious-land trying to optimize some python code.
 

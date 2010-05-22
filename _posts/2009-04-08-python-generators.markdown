@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 258
 layout: post
 title: Python Generators
 wordpress_url: http://spindrop.us/?p=258
+site: spindrop
 ---
 Someone had mentioned "generators" in python to me, so I decided to figure out what it was... and I figured it out.  I think a simple example would help explain it:
 

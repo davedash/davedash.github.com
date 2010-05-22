@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 82
 layout: post
 title: How do you find good programmers?
 wordpress_url: http://spindrop.us/2007/03/01/how-do-you-find-good-programmers/
+site: spindrop
 ---
 [tags]programmers, hiring[/tags]
 

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 116
 layout: post
 title: symfony and the .htaccess file
 wordpress_url: http://spindrop.us/2007/08/15/symfony-and-the-htaccess-file/
+site: spindrop
 ---
 [tags]symfony, .htaccess, apache, performance[/tags]
 

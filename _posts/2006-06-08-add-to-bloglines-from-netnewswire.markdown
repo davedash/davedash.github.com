@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 38
 layout: post
 title: Add to Bloglines from NetNewsWire
 wordpress_url: http://spindrop.us/2006/06/08/add-to-bloglines-from-netnewswire
+site: spindrop
 ---
 I use [NetNewsWire][] in conjunction with [Bloglines][] and often come across new feeds from within [NetNewsWire][] that I'd like to add to my [Bloglines][] (versus adding it directly to [NetNewsWire][]).  
 

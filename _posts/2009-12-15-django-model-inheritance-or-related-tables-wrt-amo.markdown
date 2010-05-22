@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 323
 layout: post
 title: "Django: Model Inheritance or Related Tables wrt AMO"
 wordpress_url: http://spindrop.us/?p=323
+site: spindrop
 ---
 [amo]: http://addons.mozilla.org
 [z]: http://github.com/jbalogh/zamboni

@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 185
 layout: post
 title: Windows Mobile 6.1 ROM for Mogul
 wordpress_url: http://spindrop.us/?p=185
+site: spindrop
 ---
 [nextrom]: http://www.phonenews.com/phones/index.php/HTC_PPC-6800_/_XV6800_/_Mogul_/_P4000_/_Titan
 

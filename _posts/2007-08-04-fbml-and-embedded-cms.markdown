@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 113
 layout: post
 title: FBML and embedded CMS
 wordpress_url: http://spindrop.us/2007/08/04/fbml-and-embedded-cms/
+site: spindrop
 ---
 [tags]fbml, css, reviewsby.us, partials, symfony, sfFacebookPlatformPlugin[/tags]
 

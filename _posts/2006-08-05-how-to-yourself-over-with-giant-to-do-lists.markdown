@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 60
 layout: post
 title: How to %^&* yourself over with giant to-do lists
 wordpress_url: http://spindrop.us/2006/08/05/how-to-yourself-over-with-giant-to-do-lists/
+site: spindrop
 ---
 > *<abbr title="Question">Q</abbr>: How do you eat an elephant?<br/>
 > <abbr title="Answer">A</abbr>: One bite at a time.*

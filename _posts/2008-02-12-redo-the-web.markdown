@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 161
 layout: post
 title: Redo The Web
 wordpress_url: http://spindrop.us/2008/02/12/redo-the-web/
+site: spindrop
 ---
 Sometimes it's nice to read a blog the "normal" way.  You go to the site and just read the entries in reverse chronological order ... versus the RSS-crazy aggregated with everything else.
 

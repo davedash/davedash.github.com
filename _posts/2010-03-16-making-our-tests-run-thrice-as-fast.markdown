@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 350
 layout: post
 title: Making our tests run thrice as fast
 wordpress_url: http://spindrop.us/?p=350
+site: spindrop
 ---
 [ttc]: http://github.com/jbalogh/test-utils/blob/c4c31905a95e59dcc8919c1030b23848ad7fbca6/test_utils/__init__.py#L57
 [tu]: http://github.com/jbalogh/test-utils

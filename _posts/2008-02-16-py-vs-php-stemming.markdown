@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 165
 layout: post
 title: "py vs php: stemming"
 wordpress_url: http://spindrop.us/2008/02/16/py-vs-php-stemming/
+site: spindrop
 ---
 I've been porting some PHP to python during SuperHappyDevHouse and was amazed at how little code I needed to write since python makes list manipulation a breeze.
 

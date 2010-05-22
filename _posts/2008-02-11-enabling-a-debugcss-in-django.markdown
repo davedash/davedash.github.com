@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 159
 layout: post
 title: Enabling a debug.css in django
 wordpress_url: http://spindrop.us/2008/02/11/enabling-a-debugcss-in-django/
+site: spindrop
 ---
 I like for extra magical stuff to occur when I am in development/debug mode.  One of those magical things is a a magic `debug.css` style sheet.
 

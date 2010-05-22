@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 208
 layout: post
 title: "PHPs strengths: array_count_values"
 wordpress_url: http://spindrop.us/?p=208
+site: spindrop
 ---
 I always like to think of what different interpreted programming languages bring to the table.
 

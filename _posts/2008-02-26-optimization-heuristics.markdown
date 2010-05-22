@@ -1,8 +1,9 @@
---- 
+---
 wordpress_id: 169
 layout: post
 title: Optimization heuristics
 wordpress_url: http://spindrop.us/2008/02/26/optimization-heuristics/
+site: spindrop
 ---
 I decided to play version control private-eye today when my coworker mentioned that we make a system call to check the time several times per request on a few specific pages.
 
