@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 12
 layout: post
 title: Easy Yahoo! Maps and  GeoRSS with symfony
@@ -16,6 +16,7 @@ excerpt: |
   
   It was worth trying [Yahoo!'s API][ymap].  First of all, [reviewsby.us][rbu] has addresses for restaurants and Yahoo! provides a simple [Geocoding REST][ygeo] service.  This made it easy for me to convert street addresses to latitude and longitude pairs (even though this wasn't required as we'll soon see).<sup id="fnr1">[1]</sup>  The real selling point of [Yahoo!][ymap] was the [GeoRSS] functionality.  I can extend an RSS feed (which [symfony] generates quite easily) to add latitude or longitude points (or even the street address), direct my [Yahoo! map][ymap] to the feed and voila, all the locations in that feed are now on the map, and when I click on them, the RSS item is displayed.  That cut down on a lot of development time.
 
+tags: [programming, symfony, Related Websites, symfony, reviewsby.us, map, georss, rss, tutorial, yahoo!, google]
 ---
 [rbu]: http://reviewsby.us/
 [ymap]: http://developer.yahoo.com/maps/index.html

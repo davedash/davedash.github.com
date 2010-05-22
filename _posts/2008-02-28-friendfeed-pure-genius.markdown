@@ -4,6 +4,7 @@ layout: post
 title: "FriendFeed: Pure Genius"
 wordpress_url: http://spindrop.us/2008/02/28/friendfeed-pure-genius/
 site: spindrop
+tags: [spindrop, aggregator, friendfeed]
 ---
 [FriendFeed][f] is pure genius.
 

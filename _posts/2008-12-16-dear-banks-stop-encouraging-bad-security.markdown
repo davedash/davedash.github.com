@@ -4,6 +4,7 @@ layout: post
 title: Dear Banks, Stop Encouraging Bad Security
 wordpress_url: http://spindrop.us/?p=212
 site: spindrop
+tags: [spindrop, banking, oauth, security]
 ---
 [m]: http://mint.com/
 [g]: http://geezeo.com/

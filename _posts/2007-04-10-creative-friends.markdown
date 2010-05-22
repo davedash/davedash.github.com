@@ -4,6 +4,7 @@ layout: post
 title: Creative Friends
 wordpress_url: http://spindrop.us/2007/04/10/creative-friends/
 site: spindrop
+tags: [spindrop, design, pretty, photography]
 ---
 [tags]photography, design, pretty[/tags]
 

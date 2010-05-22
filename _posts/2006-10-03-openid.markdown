@@ -4,6 +4,7 @@ layout: post
 title: OpenID
 wordpress_url: http://spindrop.us/2006/10/03/openid/
 site: spindrop
+tags: [reviewsby.us, openid, whobar, symfony, reviewsby.us, login]
 ---
 [OpenID][] is a wonderful concept.  If I visit a web site, Acme Widgets, I only need to supply a <acronym title="Universal Resource Locator">URL</acronym> that belongs to me in order to log in.  The web site at that <acronym title="URL">URL</acronym> will provide a place where I can authorize Acme Widgets to log me in with this id.
 

@@ -4,6 +4,7 @@ layout: post
 title: Open season for headhunting Yahoos
 wordpress_url: http://spindrop.us/?p=182
 site: spindrop
+tags: [spindrop, recruiting]
 ---
 None of my resumes floating around on the internet have my current job listed because I get enough calls and emails (mostly from Minneapolis, but some from the SF Bay Area) from recruiters attempting to help me find a job.
 

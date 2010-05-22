@@ -4,6 +4,7 @@ layout: post
 title: Parsing a list of Key:Value pairs
 wordpress_url: http://spindrop.us/2007/02/24/parsing-a-list-of-kv-pairs/
 site: spindrop
+tags: [reviewsby.us, programming, symfony, openid, php, best-practices]
 ---
 [tags]best practices,php,openID[/tags]
 [PHP]: http://php.net/

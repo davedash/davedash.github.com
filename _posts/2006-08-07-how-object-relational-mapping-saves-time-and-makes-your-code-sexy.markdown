@@ -4,6 +4,7 @@ layout: post
 title: How Object-Relational Mapping saves time and makes your code sexy
 wordpress_url: http://spindrop.us/2006/08/07/how-object-relational-mapping-saves-time-and-makes-your-code-sexy/
 site: spindrop
+tags: [symfony, symfony, propel, orm]
 ---
 [orm]: http://en.wikipedia.org/wiki/Object-relational_mapping "Object Relational Mapping on Wikipedia"
 [symfony]: http://symfony-project.com/

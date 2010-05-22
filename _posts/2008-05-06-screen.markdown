@@ -4,6 +4,7 @@ layout: post
 title: Screen
 wordpress_url: http://spindrop.us/?p=180
 site: spindrop
+tags: [spindrop, gnuscreen, screen, unix]
 ---
 Screen is **AWESOME**!
 

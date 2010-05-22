@@ -4,6 +4,7 @@ layout: post
 title: Make Adium show your Facebook status
 wordpress_url: http://spindrop.us/2007/02/03/make-adium-show-your-facebook-status/
 site: spindrop
+tags: [programming, rss, tutorial, programming, facebook, chat]
 ---
 [xml]: http://us3.php.net/simplexml/
 [curl]: http://www.php.net/curl

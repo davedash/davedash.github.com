@@ -4,6 +4,7 @@ layout: post
 title: Python String Formatting
 wordpress_url: http://spindrop.us/?p=206
 site: spindrop
+tags: [spindrop, python, string]
 ---
 Python 2.6 (and Py3K) introduce a new way to format strings.  Perviously you did this:
 

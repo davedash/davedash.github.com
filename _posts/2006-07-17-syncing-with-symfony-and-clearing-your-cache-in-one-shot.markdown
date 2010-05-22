@@ -4,6 +4,7 @@ layout: post
 title: Syncing with symfony and clearing your cache in one shot
 wordpress_url: http://spindrop.us/2006/07/17/syncing-with-symfony-and-clearing-your-cache-in-one-shot/
 site: spindrop
+tags: [programming, symfony]
 ---
 If you're using `symfony`'s `sync` command to synchronize files across environments (e.g. moving your development files to a staging server), it helps usually to clear the cache of the receiving server.
 

@@ -4,6 +4,7 @@ layout: post
 title: The Sprint SERO plan
 wordpress_url: http://spindrop.us/?p=184
 site: spindrop
+tags: [spindrop, psa, sprint, sero]
 ---
 [1]: http://spindrop.us/2008/05/12/smart-pricing-for-iphone-server/ 
 [2]: http://gizmodo.com/5015540/iphone-3gs-true-price-compared

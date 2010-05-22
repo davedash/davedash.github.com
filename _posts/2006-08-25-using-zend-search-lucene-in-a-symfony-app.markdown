@@ -4,6 +4,7 @@ layout: post
 title: Using Zend Search Lucene in a symfony app
 wordpress_url: http://spindrop.us/2006/08/25/using-zend-search-lucene-in-a-symfony-app/
 site: spindrop
+tags: [reviewsby.us, programming, symfony, symfony, zend, lucene, zend-search-lucene, php, search]
 ---
 [tags]zend, search, lucene, zend search lucene, zsl, symfony,php[/tags]
 

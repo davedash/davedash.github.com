@@ -4,6 +4,7 @@ layout: post
 title: Equal height columns with jQuery
 wordpress_url: http://spindrop.us/2007/05/22/equal-height-columns-with-jquery/
 site: spindrop
+tags: [programming, css, css, javascript, equal-columns, columns, equal, layout, jQuery]
 ---
 [tags]css, jQuery, layout, javascript, equal, columns, equal columns[/tags]
 

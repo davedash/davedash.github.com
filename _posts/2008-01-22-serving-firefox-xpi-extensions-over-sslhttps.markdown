@@ -4,6 +4,7 @@ layout: post
 title: Serving Firefox xpi extensions over ssl/https
 wordpress_url: http://spindrop.us/2008/01/22/serving-firefox-xpi-extensions-over-sslhttps/
 site: spindrop
+tags: [spindrop, cache, Firefox, https, xpi]
 ---
 [tags]firefox, cache, xpi, https[/tags]
 

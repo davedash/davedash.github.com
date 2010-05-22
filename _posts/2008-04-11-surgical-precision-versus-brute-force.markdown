@@ -4,6 +4,7 @@ layout: post
 title: Surgical Precision versus Brute Force
 wordpress_url: http://spindrop.us/?p=178
 site: spindrop
+tags: [spindrop, troubleshooting, wireless, networking]
 ---
 Wireless networking can be troublesome... usually I never have problems, but every now and then I'll go to a coffeeshop or a café where I can't just open up my laptop and immediately start surfing.
 

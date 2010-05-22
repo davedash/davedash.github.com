@@ -4,6 +4,7 @@ layout: post
 title: Alphabetical sorting in Sphinx
 wordpress_url: http://spindrop.us/?p=358
 site: spindrop
+tags: [spindrop, search, addons.mozilla.org, sphinx, sorting]
 ---
 Sphinx 0.9.9 is great at searching full text, but treating actual strings as attributes takes some work.
 

@@ -4,6 +4,7 @@ layout: post
 title: "Untuitive Interfaces: A look at MPL's Automatic Doors"
 wordpress_url: http://spindrop.us/2006/07/31/untuitive-interfaces-a-look-at-mpls-automatic-doors/
 site: spindrop
+tags: [usability]
 ---
 <div style="float:left; margin-right: 1em;">
 

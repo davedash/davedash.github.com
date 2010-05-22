@@ -4,6 +4,7 @@ layout: post
 title: Dynamic Linking to Syndication Feeds with symfony
 wordpress_url: http://spindrop.us/2006/07/04/dynamic-linking-to-syndication-feeds-with-symfony/
 site: spindrop
+tags: [reviewsby.us, programming, symfony]
 ---
 [sf1]: http://www.symfony-project.com/content/book/page/syndication.html "How to build a syndication feed"
 [symfony]: http://symfony-project.com/

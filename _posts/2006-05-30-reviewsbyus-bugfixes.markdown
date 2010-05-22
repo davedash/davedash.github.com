@@ -4,6 +4,7 @@ layout: post
 title: ReviewsBy.Us bugfixes
 wordpress_url: http://spindrop.us/2006/05/30/reviewsbyus-bugfixes
 site: spindrop
+tags: [reviewsby.us, usability, programming]
 ---
 A lot of bugs have popped up recently.  
 

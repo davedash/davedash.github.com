@@ -4,6 +4,7 @@ layout: post
 title: nginx and 'www' free urls
 wordpress_url: http://spindrop.us/2008/01/19/nginx-and-www-free-urls/
 site: spindrop
+tags: [spindrop, rewrite, nginx]
 ---
 [tags]nginx, rewrite[/tags]
 

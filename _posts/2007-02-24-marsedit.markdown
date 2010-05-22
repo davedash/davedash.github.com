@@ -4,6 +4,7 @@ layout: post
 title: MarsEdit
 wordpress_url: http://spindrop.us/2007/02/24/marsedit/
 site: spindrop
+tags: [spindrop, blogs, software, MarsEdit]
 ---
 [tags]MarsEdit,software,blogs[/tags]
 

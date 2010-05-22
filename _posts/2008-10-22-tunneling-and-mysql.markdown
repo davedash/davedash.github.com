@@ -4,6 +4,7 @@ layout: post
 title: tunneling and mysql
 wordpress_url: http://spindrop.us/?p=192
 site: spindrop
+tags: [programming, mysql, localhost]
 ---
 I have a mysql server for [reviewsby.us][1] that requires tunneling, and after establishing a tunnel like so:
 

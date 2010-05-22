@@ -4,8 +4,8 @@ layout: post
 title: Making anchor links smarter... and sexier
 wordpress_url: http://spindrop.us/2007/02/14/making-anchor-links-smarter-and-sexier/
 site: spindrop
+tags: [usability, prototype, javascript, tutorial, best-practices, design-pattern]
 ---
-
 [1]: #fn1
 [2]: #fn2
 [script.aculo.us]: http://script.aculo.us/

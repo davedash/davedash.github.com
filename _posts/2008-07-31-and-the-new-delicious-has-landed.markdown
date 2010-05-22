@@ -4,6 +4,7 @@ layout: post
 title: ... and the new Delicious has landed
 wordpress_url: http://spindrop.us/?p=187
 site: spindrop
+tags: [symfony, symfony, del.icio.us]
 ---
 [b]: http://blog.delicious.com/blog/2008/07/oh-happy-day.html
 [d]: http://delicious.com/

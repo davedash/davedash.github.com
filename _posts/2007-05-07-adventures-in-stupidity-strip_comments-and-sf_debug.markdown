@@ -4,6 +4,7 @@ layout: post
 title: Adventures in stupidity... strip_comments and SF_DEBUG
 wordpress_url: http://spindrop.us/2007/05/07/adventures-in-stupidity-strip_comments-and-sf_debug/
 site: spindrop
+tags: [symfony]
 ---
 [tags]symfony, media temple, fast cgi, anomalies, SNAFU, php, configuration[tags]
 

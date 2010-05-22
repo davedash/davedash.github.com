@@ -4,6 +4,7 @@ layout: post
 title: Semantic (X)HTML is easy
 wordpress_url: http://spindrop.us/2007/02/12/semantic-xhtml-is-easy/
 site: spindrop
+tags: [css, css, yahoo!, xhtml, best-practices]
 ---
 There's a flippant article, [CSS is Worthless](http://www.contentwithstyle.co.uk/Articles/106/css-is-worthless/) from Mike Stenhouse that alludes to semantic HTML.
 

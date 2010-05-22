@@ -4,6 +4,7 @@ layout: post
 title: Templating
 wordpress_url: http://spindrop.us/2008/01/28/templating/
 site: spindrop
+tags: [programming, symfony, symfony, php, python, django, smarty]
 ---
 [tags]smarty, symfony, php, python, django[/tags]
 

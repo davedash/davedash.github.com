@@ -4,6 +4,7 @@ layout: post
 title: jQuery shortcut functions and jQuery plugins
 wordpress_url: http://spindrop.us/2007/09/15/jquery-shortcut-functions-and-jquery-plugins/
 site: spindrop
+tags: [programming, css, javascript, yui, jQuery, shortcuts, readability]
 ---
 [tags]js, javascript, readability, yui, jquery, shortcuts[/tags]
 

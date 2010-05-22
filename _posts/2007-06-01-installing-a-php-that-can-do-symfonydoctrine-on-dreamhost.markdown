@@ -4,8 +4,8 @@ layout: post
 title: Installing a PHP that can do symfony+doctrine on Dreamhost
 wordpress_url: http://spindrop.us/2007/06/01/installing-a-php-that-can-do-symfonydoctrine-on-dreamhost/
 site: spindrop
+tags: [symfony, symfony, php, doctrine, syfony, dreamhost]
 ---
-
 Lately I've been experimenting with Doctrine on a few projects.  It does have some requirements, including the PDO layer of PHP 5.2.  Things didn't work right off the bat on Dreamhost (which I still use for non-critical things), so I opted to build my own php.
 
 

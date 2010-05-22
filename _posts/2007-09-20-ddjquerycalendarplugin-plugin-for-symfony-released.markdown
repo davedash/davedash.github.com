@@ -4,6 +4,7 @@ layout: post
 title: ddJQueryCalendarPlugin plugin for symfony released
 wordpress_url: http://spindrop.us/2007/09/20/ddjquerycalendarplugin-plugin-for-symfony-released/
 site: spindrop
+tags: [symfony, javascript, symfony, jQuery, plugin, calendar, JQuery-Calendar]
 ---
 [tags]JQuery, jq, javascript, js, JQuery Calendar, calendar, symfony, plugin[/tags]
 

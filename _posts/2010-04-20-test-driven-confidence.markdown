@@ -4,6 +4,7 @@ layout: post
 title: Test Driven Confidence
 wordpress_url: http://spindrop.us/?p=356
 site: spindrop
+tags: [spindrop, django, mozilla, addons.mozilla.org, testing, qa]
 ---
 [a]: https://addons.mozilla.org/
 

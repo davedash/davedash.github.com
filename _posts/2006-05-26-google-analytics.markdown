@@ -4,6 +4,7 @@ layout: post
 title: Google Analytics
 wordpress_url: http://spindrop.us/2006/05/26/google-analytics
 site: spindrop
+tags: [reviewsby.us, usability, programming]
 ---
 [u]: http://www.google.com/analytics/
 [g]: http://google.com/webmasters/sitemaps/

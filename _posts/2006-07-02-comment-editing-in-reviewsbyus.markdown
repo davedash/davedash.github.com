@@ -4,6 +4,7 @@ layout: post
 title: Comment editing in reviewsBy.us
 wordpress_url: http://spindrop.us/2006/07/02/comment-editing-in-reviewsbyus/
 site: spindrop
+tags: [reviewsby.us, symfony]
 ---
 Something that's been heavily requested for [reviewsBy.us][rbu] is the ability to either preview or somehow edit comments after they are posted.  I took a cue from [digg](http://digg.com) and added some comment editing.
 

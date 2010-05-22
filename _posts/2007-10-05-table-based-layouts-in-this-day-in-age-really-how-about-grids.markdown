@@ -4,6 +4,7 @@ layout: post
 title: Table based layouts?  In this day in age?  Really?  How about grids?
 wordpress_url: http://spindrop.us/2007/10/05/table-based-layouts-in-this-day-in-age-really-how-about-grids/
 site: spindrop
+tags: [css, css, yui, layout, table, grids]
 ---
 [tags]css, yui, grids, table, layout[/tags]
 

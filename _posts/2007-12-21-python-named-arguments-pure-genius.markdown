@@ -4,8 +4,8 @@ layout: post
 title: "Python, Named arguments: Pure Genius"
 wordpress_url: http://spindrop.us/2007/12/21/python-named-arguments-pure-genius/
 site: spindrop
+tags: [programming, programming, python, languages, functions, arguments]
 ---
-
 I decided I want to learn python, if only to learn Django and to "get" what all the python hub-bub is about.
 
 Python's named arguments in function calls is pure genius.  Let me explain.  

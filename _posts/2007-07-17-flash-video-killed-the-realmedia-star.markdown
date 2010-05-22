@@ -4,6 +4,7 @@ layout: post
 title: Flash video killed the RealMedia star...
 wordpress_url: http://spindrop.us/2007/07/17/flash-video-killed-the-realmedia-star/
 site: spindrop
+tags: [usability, cnn, real-media, windows-media, quicktime, flash, video, youtube]
 ---
 [tags]youtube, video, flash, quicktime, windows media, real media, cnn[/tags]
 

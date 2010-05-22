@@ -4,6 +4,7 @@ layout: post
 title: A few weeks in Chrome
 wordpress_url: http://spindrop.us/?p=352
 site: spindrop
+tags: [spindrop, Firefox, mozilla, chrome]
 ---
 A number of weeks ago I got annoyed with Firefox and decided to use Chrome for a while.  This reminded me of the olden days where I used Netscape for a while, and then IE6 came out, and then Phoenix came out all the while I'd keep switching to the newest shiniest thing (note: I'm not sure about the timeline of all the browsers either).
 

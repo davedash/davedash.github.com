@@ -4,6 +4,7 @@ layout: post
 title: "python: UnicodeEncodeError: 'ascii' codec can't encode character u'\\xbb' ...: ordinal not in range..."
 wordpress_url: http://spindrop.us/2008/01/25/python-unicodeencodeerror-ascii-codec-cant-encode-character-uxbb-ordinal-not-in-range/
 site: spindrop
+tags: [spindrop, python, utf-8, error]
 ---
 [tags]error, python, utf-8[/tags]
 

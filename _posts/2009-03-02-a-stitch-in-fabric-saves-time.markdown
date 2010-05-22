@@ -4,6 +4,7 @@ layout: post
 title: A stitch in Fabric saves time
 wordpress_url: http://spindrop.us/?p=233
 site: spindrop
+tags: [spindrop, python, django, automation, deployment]
 ---
 [f]: http://www.nongnu.org/fab/
 

@@ -4,6 +4,7 @@ layout: post
 title: "Slick Designs and Bad Usability: Translucent Text"
 wordpress_url: http://spindrop.us/2006/08/01/slick-designs-and-bad-usability-translucent-text/
 site: spindrop
+tags: [usability]
 ---
 <div style="float:left; margin-right: 1em;">
 <img src="http://static.flickr.com/45/180202469_b98fcaf836_m.jpg" alt="Minneapolis Central Library" />

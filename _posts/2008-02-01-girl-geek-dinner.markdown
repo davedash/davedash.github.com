@@ -4,8 +4,8 @@ layout: post
 title: Girl Geek Dinner
 wordpress_url: http://spindrop.us/2008/02/01/girl-geek-dinner/
 site: spindrop
+tags: [spindrop, django, pownce, geek, girl-geek-dinner, sfbay]
 ---
-
 Katie and I went to [Girl Geek Dinner](http://upcoming.yahoo.com/event/408117/).  The best thing about being a Geek Husband is having a Geek Wife to bring you as a guest.
 
 The panel talk was pretty good.  Featuring:

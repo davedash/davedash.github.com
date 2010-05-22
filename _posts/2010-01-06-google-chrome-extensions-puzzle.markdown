@@ -4,6 +4,7 @@ layout: post
 title: Google Chrome Extensions Puzzle
 wordpress_url: http://spindrop.us/?p=329
 site: spindrop
+tags: [spindrop, mozilla, puzzle, chrome]
 ---
 <div style="float:left; margin-right:1em"><a href="http://www.flickr.com/photos/44124375866@N01/4252390433" title="View 'puzzle' on Flickr.com"><div style="text-align:center;"><img src="http://farm3.static.flickr.com/2684/4252390433_b49093b583_m.jpg" alt="puzzle" border="0" width="161" height="240" /></div></a>
 </div>

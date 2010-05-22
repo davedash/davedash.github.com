@@ -4,6 +4,7 @@ layout: post
 title: "Usability for Nerds: Traversing URLs"
 wordpress_url: http://spindrop.us/2006/07/30/usability-for-nerds-traversing-urls/
 site: spindrop
+tags: [reviewsby.us, usability, symfony]
 ---
 A recent peeve of mine is <acronym title="Universal Resource Locator">URL</acronym>s that you can't manually traverse.  Let me explain.  Let's say you visit `http://reviewsby.us/restaurant/cheesecake-factory`.  You should manually be able to remove `cheesecake-factory` and see an index page of restaurants at `http://reviewsby.us/restaurant/`.  It makes logical sense for that page to be something that would enable you to find more restaurants.  
 

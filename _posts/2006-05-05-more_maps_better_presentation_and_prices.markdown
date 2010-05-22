@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 16
 layout: post
 title: More maps, better presentation and prices
@@ -13,6 +13,7 @@ excerpt: |
   
   The real exciting thing is maps.  Applying the same principles from the [Yahoo! Map tutorial][s1], I added maps to all the tag pages.  Want to know [where to find fried food][fried]?  Just look at the map.  I'm taking a few shortcuts now.  For example most of our restaurants are located in Minneapolis, therefore the maps seem to center in on the Twin Cities area.  This of course may get messy over time when more restaurants get added outside the Minneapolis area.  By then, I'll have some personalization setup to narrow down on restaurants based on where the visitor is located.  
 
+tags: [reviewsby.us, yahoo!]
 ---
 [feedback]: http://reviewsby.us/feedback
 [r1]: http://reviewsby.us/restaurant/tony-romas/location/mall-of-america

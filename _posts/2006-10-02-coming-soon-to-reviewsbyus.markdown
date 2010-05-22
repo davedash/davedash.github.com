@@ -4,6 +4,7 @@ layout: post
 title: Coming soon to reviewsby.us
 wordpress_url: http://spindrop.us/2006/10/02/coming-soon-to-reviewsbyus/
 site: spindrop
+tags: [reviewsby.us, symfony, reviewsby.us, spam, wireframe, sfGuarduser, mysql, zend, lucene, zend-search-lucene, php]
 ---
 In August I took a break from [reviewsby.us][] only to be plagued by spam.  In September, I relinquished portions of the project planning to my wife.  We haven't released anything publicly, yet, but there's a lot in development.
 

@@ -4,6 +4,7 @@ layout: post
 title: postgresql and python in osx
 wordpress_url: http://spindrop.us/?p=188
 site: spindrop
+tags: [programming, python, osx, postgresql]
 ---
 I want to start dabbling with postgreSQL on OS X.  After several SVN checkouts, binary packages, etc, I've realize the easiest path to success is just installing from fink unstable.
 

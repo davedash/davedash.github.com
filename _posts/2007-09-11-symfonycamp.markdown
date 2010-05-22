@@ -4,6 +4,7 @@ layout: post
 title: "symfonyCamp "
 wordpress_url: http://spindrop.us/2007/09/11/symfonycamp/
 site: spindrop
+tags: [symfony, symfony, zend-search-lucene, symfonyCamp, dop, sensio]
 ---
 [tags]symfony, symfonyCamp, sensio, dop, zend search lucene, zsl[/tags]
 

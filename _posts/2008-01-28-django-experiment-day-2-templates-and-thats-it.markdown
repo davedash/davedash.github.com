@@ -4,6 +4,7 @@ layout: post
 title: "django experiment: day 2 templates, and that's it?"
 wordpress_url: http://spindrop.us/2008/01/28/django-experiment-day-2-templates-and-thats-it/
 site: spindrop
+tags: [spindrop, symfony, django]
 ---
 [tags]django, symfony[/tags]
 

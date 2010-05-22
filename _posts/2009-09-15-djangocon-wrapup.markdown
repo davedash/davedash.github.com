@@ -4,6 +4,7 @@ layout: post
 title: DjangoCon wrapup
 wordpress_url: http://spindrop.us/?p=311
 site: spindrop
+tags: [spindrop, django, mozilla, djangocon]
 ---
 I went to [DjangoCon](http://djangocon.org/) this past week for work.  Django is one of my favorite frameworks.  I dropped PHP and the symfony framework to learn python and Django and I haven't looked back.  I think for Mozilla's webdev team it would be the framework of choice.  We have 100s of sites in many frameworks, but not a lot of resuability.  Django apps are built to built to be reusable.  If you build correctly you don't have to refactor, it's already done.<!--more-->
 

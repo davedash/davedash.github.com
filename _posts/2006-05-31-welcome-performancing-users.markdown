@@ -4,6 +4,7 @@ layout: post
 title: Welcome Performancing Users
 wordpress_url: http://spindrop.us/2006/05/31/welcome-performancing-users
 site: spindrop
+tags: [reviewsby.us]
 ---
 [l]: http://performancing.com/launchpad
 [rbu]: http://reviewsby.us/

@@ -4,6 +4,7 @@ layout: post
 title: Usability for a limited audience and learnability
 wordpress_url: http://spindrop.us/2007/07/19/usability-for-a-limited-audience-and-learnability/
 site: spindrop
+tags: [usability, usability, english, learnability]
 ---
 [tags]usability, learnability, english[/tags]
 

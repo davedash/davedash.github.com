@@ -4,6 +4,7 @@ layout: post
 title: Yahoo Pipes and reducing information overload
 wordpress_url: http://spindrop.us/2008/02/28/yahoo-pipes-and-reducing-information-overload/
 site: spindrop
+tags: [spindrop, rss, gizmodo, pipes, engadget, information overload]
 ---
 I've been suffering from some information overload.  I subscribed to Engadget and Gizmodo because I wanted to keep up with some home based network devices like homeplug/powerline and wireless routers.  But Engadget and Gizmodo are overwhelming.
 

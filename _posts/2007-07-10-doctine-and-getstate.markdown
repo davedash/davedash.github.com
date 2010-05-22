@@ -4,6 +4,7 @@ layout: post
 title: doctine and getState()
 wordpress_url: http://spindrop.us/2007/07/10/doctine-and-getstate/
 site: spindrop
+tags: [spindrop, symfony, php, doctrine, database, errors, sfDoctrine]
 ---
 [tags]doctrine, php, symfony, sfDoctrine, database,errors[/tags]
 

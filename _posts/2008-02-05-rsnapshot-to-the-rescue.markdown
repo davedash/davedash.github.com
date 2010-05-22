@@ -4,6 +4,7 @@ layout: post
 title: rsnapshot to the rescue
 wordpress_url: http://spindrop.us/2008/02/05/rsnapshot-to-the-rescue/
 site: spindrop
+tags: [spindrop, readynas, rsnapshot]
 ---
 Sometimes I wonder what convinced me to buy a ReadyNAS and use rsnapshot to create incremental backups.
 

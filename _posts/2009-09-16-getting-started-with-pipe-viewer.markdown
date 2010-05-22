@@ -4,6 +4,7 @@ layout: post
 title: Getting started with pipe viewer
 wordpress_url: http://spindrop.us/?p=313
 site: spindrop
+tags: [spindrop, mozilla, pv]
 ---
 Despite working on slimming the `addons.mozilla.org` database through dieting and exercise - I still have to occasionally do long running database tasks.  So I finally tried out [pipe viewer](http://www.ivarch.com/programs/pv.shtml).  As someone who's impatient this has been awesome.  Here's some quick examples:
 

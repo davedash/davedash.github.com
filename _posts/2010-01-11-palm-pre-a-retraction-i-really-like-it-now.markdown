@@ -4,6 +4,7 @@ layout: post
 title: "Palm Pr\xC3\xA9: A retraction, I really like it now"
 wordpress_url: http://spindrop.us/?p=333
 site: spindrop
+tags: [spindrop, mozilla, palm, pre, retraction]
 ---
 So before I went on trip to Minnesota last month, I decided maybe I would give the Palm Pré another shot.  After all, my parents have no internet access, so having the Pré... if I could overcome [my issues](/2009/11/19/palm-pre-always-hot/), might be a welcome distraction.
 

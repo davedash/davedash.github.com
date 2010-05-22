@@ -4,6 +4,7 @@ layout: post
 title: YUI Autocomplete the easy way
 wordpress_url: http://spindrop.us/2008/01/27/yui-autocomplete-the-easy-way/
 site: spindrop
+tags: [programming, symfony, javascript, symfony, yui, jQuery, autocomplete]
 ---
 [tags]yui, autocomplete, javascript, jquery, symfony[/tags]
 

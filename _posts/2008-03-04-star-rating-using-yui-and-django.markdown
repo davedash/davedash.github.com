@@ -4,6 +4,7 @@ layout: post
 title: Star Rating using YUI (and Django)
 wordpress_url: http://spindrop.us/2008/03/04/star-rating-using-yui-and-django/
 site: spindrop
+tags: [reviewsby.us, javascript, reviewsby.us, yui, django, pattern, starrater, ypattern]
 ---
 [django]: http://djangoproject.com/
 [yui]: http://developer.yahoo.com/yui/

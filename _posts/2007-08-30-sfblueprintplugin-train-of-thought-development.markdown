@@ -4,6 +4,7 @@ layout: post
 title: "sfBlueprintPlugin: Train of thought development"
 wordpress_url: http://spindrop.us/2007/08/30/sfblueprintplugin-train-of-thought-development/
 site: spindrop
+tags: [css, symfony, css, symfony, symfonyCamp, plugins, yui, camp, blueprint]
 ---
 [sc]: http://symfonycamp.com/
 [b]: http://trac.symfony-project.com/trac/browser/plugins/sfBlueprintPlugin

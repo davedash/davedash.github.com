@@ -4,6 +4,7 @@ layout: post
 title: "AMO Search: Powered by Sphinx"
 wordpress_url: http://spindrop.us/?p=319
 site: spindrop
+tags: [spindrop, search, mozilla, amo, addons.mozilla.org, sphinx, amochi09, chicago]
 ---
 [g]: http://spindrop.us/2009/09/19/mysql-and-the-grand-regexp-retardedness-with-lettercasing/
 [v]: http://spindrop.us/2009/08/07/v-is-for-version-hell/

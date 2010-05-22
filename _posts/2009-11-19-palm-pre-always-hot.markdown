@@ -4,6 +4,7 @@ layout: post
 title: "Palm Pre: Always hot"
 wordpress_url: http://spindrop.us/?p=321
 site: spindrop
+tags: [spindrop, mozilla, usabilitiy, palm, pre]
 ---
 So I borrowed a Palm Pré that we had at Mozilla to see what it was like.  I was at first very excited, I remember before the Pre was released there was a lot of talk about how awesome-fantastic it was going to be.  The stories of awesomeness sort of died, and I had thought nothing of it.
 

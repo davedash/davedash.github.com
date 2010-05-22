@@ -4,6 +4,7 @@ layout: post
 title: Why Django Templating is awesome and why I get smarty again
 wordpress_url: http://spindrop.us/2008/02/01/why-django-templating-is-awesome-and-why-i-get-smarty-again/
 site: spindrop
+tags: [spindrop, symfony, php, django, smarty]
 ---
 I get Smarty thanks to django... yeah, it's weird.
 

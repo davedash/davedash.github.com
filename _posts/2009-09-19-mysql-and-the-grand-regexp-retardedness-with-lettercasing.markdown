@@ -4,6 +4,7 @@ layout: post
 title: mySQL and the grand regexp retardedness with lettercasing
 wordpress_url: http://spindrop.us/?p=317
 site: spindrop
+tags: [spindrop, mysql, mozilla, sphinx, regexp]
 ---
 I wanted to find a list of Firefox addons that had smushed text in their title.  E.g. FireBug or StumbleUpon.  The normal porter stemming algorithm that Sphinx uses does not turn "StumbleUpon" into "stumbl upon" as it would with "Stumble Upon".  I was hoping for, and unfortunately could not find a method to do a regular expression search/replace using mysql.  If I could, I could have Sphinx read "StumbleUpon" as "Stumble Upon" and all would be well (although in theory this would backfire).
 

@@ -4,6 +4,7 @@ layout: post
 title: "Question: Building a Better Search Engine"
 wordpress_url: http://spindrop.us/?p=266
 site: spindrop
+tags: [spindrop, search, mozilla, amo]
 ---
 So I finally have one of those jobs where I can tell people almost every little detail about what I'm doing and I'm encouraged to talk to people on the intar-webs and solicit opinions.
 

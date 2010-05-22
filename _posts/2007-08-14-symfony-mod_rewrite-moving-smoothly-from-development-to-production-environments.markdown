@@ -4,12 +4,23 @@ layout: post
 title: "symfony + mod_rewrite: moving smoothly from development to production environments"
 wordpress_url: http://spindrop.us/2007/08/14/symfony-mod_rewrite-moving-smoothly-from-development-to-production-environments/
 site: spindrop
+tags:
+    - symfony
+    - mod_rewrite
+    - production
+    - development
+    - url
+    - pretty-urls
 ---
-[tags]symfony, mod_rewrite, 404, url, pretty urls, development, production[/tags]
 
-I think a common problem for some symfony developers that aren't too familiar with Apache's Mod Rewrite is when they move from a development environment that uses an explicit controller (e.g. `frontend_dev.php` is requested from the server explicitly) to their production app which implicitly calls `index.php` (e.g. '/' or some other route is passed to `index.php`) things stop working.
+I think a common problem for some symfony developers that aren't too familiar
+with Apache's Mod Rewrite is when they move from a development environment that
+uses an explicit controller (e.g. `frontend_dev.php` is requested from the
+server explicitly) to their production app which implicitly calls `index.php`
+(e.g. '/' or some other route is passed to `index.php`) things stop working.
 
-This is probably a `mod_rewrite` issue.  Mod Rewrite handles implicitly directing (almost) all traffic to `index.php` in a symfony application.
+This is probably a `mod_rewrite` issue.  Mod Rewrite handles implicitly
+directing (almost) all traffic to `index.php` in a symfony application.
 
 The default `.htaccess` for symfony is defined as such:
 
@@ -39,7 +50,7 @@ The default `.htaccess` for symfony is defined as such:
     # big crash from our front web controller
     ErrorDocument 500 "<h2>Application error</h2>symfony application failed to start properly"
 
-As you can see if the `mod_rewrite.c` module is not enabled this will not work.   
+As you can see if the `mod_rewrite.c` module is not enabled this will not work.
 
 Luckily most packages of Apache have the module, it just needs to be enabled by uncommenting the right line of `.htaccess`:
 

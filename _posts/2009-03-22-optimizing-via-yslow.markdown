@@ -4,6 +4,7 @@ layout: post
 title: Optimizing via YSlow
 wordpress_url: http://spindrop.us/?p=252
 site: spindrop
+tags: [spindrop, yahoo!, google, performance, optimization, yslow]
 ---
 [yslow]: http://developer.yahoo.com/yslow/
 [ydn]: http://developer.yahoo.com/

@@ -1,4 +1,4 @@
---- 
+---
 wordpress_id: 13
 layout: post
 title: Markdown for everything
@@ -16,6 +16,7 @@ excerpt: |
   
   Today, in a matter of minutes, I wrote a [really simple markdown web environment][mwe] in PHP.  It's nothing complicated by any stretch of the imagination, but for me at least it'll be quite useful.
 
+tags: [programming, Related Websites, javascript, symfony, reviewsby.us, php, markdown, tinymce, textmate, drupal, mod_rewrite, xhtml]
 ---
 [mphp]: http://www.michelf.com/projects/php-markdown/
 [mwe]: http://spindrop.us/files/markdown_everywhere-2006-04-28.tar.bz

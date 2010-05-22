@@ -4,6 +4,7 @@ layout: post
 title: Random Selections using Propel
 wordpress_url: http://spindrop.us/2006/06/12/random-selections-using-propel/
 site: spindrop
+tags: [reviewsby.us, symfony]
 ---
 [Propel][] is a handy way to deal with <acronym title="Object-Relational Mapping">ORM</acronym>.   Rather than figuring out the correct <acronym title="Structured Query Language">SQL</acronym> statement to select your elements you just use a -`Peer` object to select it.
 

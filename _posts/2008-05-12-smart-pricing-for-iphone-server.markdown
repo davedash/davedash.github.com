@@ -4,6 +4,7 @@ layout: post
 title: Smart pricing for iphone
 wordpress_url: http://spindrop.us/?p=181
 site: spindrop
+tags: [spindrop, iphone, blackberry]
 ---
 Going to NYC really made me want a new phone.  Primarily just to have Google Maps telling me where stuff is.  So I've been looking at prices (theoretically for my wife and myself) more closely.  Despite both devices being different, I'm treating them essentially the same:
 

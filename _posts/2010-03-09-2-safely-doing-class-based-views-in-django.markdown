@@ -4,6 +4,7 @@ layout: post
 title: "&lambda;^2: safely doing class based views in Django"
 wordpress_url: http://spindrop.us/?p=348
 site: spindrop
+tags: [spindrop, python, django, mozilla, views, lambda]
 ---
 [a]: https://addons.mozilla.org/
 [call]: http://github.com/davedash/zamboni/blob/b5a147820840e66b542691e7239f15eccdebeec9/apps/api/views.py#L39

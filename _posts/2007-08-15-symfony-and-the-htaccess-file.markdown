@@ -4,14 +4,18 @@ layout: post
 title: symfony and the .htaccess file
 wordpress_url: http://spindrop.us/2007/08/15/symfony-and-the-htaccess-file/
 site: spindrop
+tags: [spindrop, symfony, performance, apache, .htaccess]
 ---
-[tags]symfony, .htaccess, apache, performance[/tags]
 
-One performance boost that can be garnered from a symfony app (or any app for that matter) is disabling `.htaccess`.  `.htaccess` does not need to be parsed on each visit to your app.  Disabling `.htaccess` is trivial in your VirtualHost or another relevant part of your apache configuration place:
+One performance boost that can be garnered from a symfony app (or any app for
+that matter) is disabling `.htaccess`.  `.htaccess` does not need to be parsed
+on each visit to your app.  Disabling `.htaccess` is trivial in your
+VirtualHost or another relevant part of your apache configuration place:
 
 	AllowOverride None
 
-symfony does require the Rewrite recipes in .htaccess to properly give you pretty urls, so place those statements right after `AllowOverride None`.
+symfony does require the Rewrite recipes in .htaccess to properly give you
+pretty urls, so place those statements right after `AllowOverride None`.
 
 In my specific case I used this:
 
@@ -39,4 +43,5 @@ In my specific case I used this:
 	  </Directory>
 	</VirtualHost>
 
-Now all these rewriting rules are loaded when the server is restarted and the `.htaccess` is not examined upon each request.
+Now all these rewriting rules are loaded when the server is restarted and the
+`.htaccess` is not examined upon each request.

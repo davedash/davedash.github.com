@@ -4,6 +4,7 @@ layout: post
 title: "django-fixture-magic: Testing issues with real data."
 wordpress_url: http://spindrop.us/?p=342
 site: spindrop
+tags: [spindrop, django, mozilla, addons.mozilla.org, testing, fixtures]
 ---
 [f]: http://github.com/davedash/django-fixture-magic
 [amo]: http://addons.mozilla.org/

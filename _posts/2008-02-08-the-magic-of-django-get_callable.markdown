@@ -4,6 +4,7 @@ layout: post
 title: "the magic of django: get_callable"
 wordpress_url: http://spindrop.us/2008/02/08/the-magic-of-django-get_callable/
 site: spindrop
+tags: [spindrop, openid, symfony, php, python, django, magic functions, sfopenidplugin]
 ---
 [django]: http://djangoproject.com/
 [rbu]: http://reviewsby.us/

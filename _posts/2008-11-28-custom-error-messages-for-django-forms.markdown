@@ -4,6 +4,7 @@ layout: post
 title: Custom error messages for Django forms
 wordpress_url: http://spindrop.us/?p=200
 site: spindrop
+tags: [spindrop, django, forms]
 ---
 For some reason, it was difficult for me to find the documentation for this.  If your Django form field is required you'll by default get an error stating that 'This field is required.'  You can easily replace that when defining your form like so:
 

@@ -4,6 +4,7 @@ layout: post
 title: Mimic propel's update_at and created_at in Django models
 wordpress_url: http://spindrop.us/?p=204
 site: spindrop
+tags: [spindrop, symfony, propel, django]
 ---
 One "trick" that propel offers you is tables with fields `created_at` and `updated_at`.
 

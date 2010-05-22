@@ -4,6 +4,7 @@ layout: post
 title: Why code rewrites are often coupled with redesigns
 wordpress_url: http://spindrop.us/?p=189
 site: spindrop
+tags: [programming, symfony, django, del.icio.us]
 ---
 I've done some rewrites of code, and they usually are coupled with redesigns.
 

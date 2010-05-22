@@ -4,6 +4,7 @@ layout: post
 title: nginx and symfony
 wordpress_url: http://spindrop.us/2008/01/20/nginx-and-symfony/
 site: spindrop
+tags: [symfony, symfony, nginx, server]
 ---
 [tags]nginx, server, symfony[/tags]
 

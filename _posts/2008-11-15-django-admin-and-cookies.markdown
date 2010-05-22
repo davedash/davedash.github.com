@@ -4,6 +4,7 @@ layout: post
 title: Django Admin and Cookies
 wordpress_url: http://spindrop.us/?p=194
 site: spindrop
+tags: [spindrop, django, cookies, admin]
 ---
 I was dusting off an old Django project and everything was working except the admin site:
 

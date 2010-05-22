@@ -4,6 +4,7 @@ layout: post
 title: Finding things using Zend Search Lucene in symfony
 wordpress_url: http://spindrop.us/2007/05/23/finding-things-using-zend-search-lucene-in-symfony/
 site: spindrop
+tags: [programming, symfony, symfony, zend, lucene, zend-search-lucene, php, search]
 ---
 [tags]Zend, Zend Search Lucene, Search, Lucene, php, symfony, zsl[/tags]
 

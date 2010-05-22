@@ -4,6 +4,7 @@ layout: post
 title: Creating, Updating, Deleting documents in a Lucene Index with symfony
 wordpress_url: http://spindrop.us/2007/04/24/creating-updating-deleting-documents-in-a-lucene-index-with-symfony/
 site: spindrop
+tags: [symfony, symfony, zend, lucene, zend-search-lucene, php, search]
 ---
 [s2]: http://spindrop.us/2007/04/23/the-lucene-search-index-and-symfony/
 

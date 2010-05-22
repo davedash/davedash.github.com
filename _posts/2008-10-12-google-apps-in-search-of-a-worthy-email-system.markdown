@@ -4,6 +4,7 @@ layout: post
 title: "Google Apps: In search of a worthy email system"
 wordpress_url: http://spindrop.us/?p=190
 site: spindrop
+tags: [spindrop, google, email, gmail]
 ---
 Email, in a lot of ways, is one of the most critical applications for me.
 

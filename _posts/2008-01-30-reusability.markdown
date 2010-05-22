@@ -4,6 +4,7 @@ layout: post
 title: reusability
 wordpress_url: http://spindrop.us/2008/01/30/reusability/
 site: spindrop
+tags: [programming, symfony, plugins, apps, django, projects]
 ---
 [tags]django, plugins, apps, projects, symfony[/tags]
 

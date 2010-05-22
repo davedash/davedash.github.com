@@ -4,6 +4,7 @@ layout: post
 title: Automating Django Redirects
 wordpress_url: http://spindrop.us/?p=242
 site: spindrop
+tags: [spindrop, django, redirects, slugs]
 ---
 [r]: http://docs.djangoproject.com/en/dev/ref/contrib/redirects/
 

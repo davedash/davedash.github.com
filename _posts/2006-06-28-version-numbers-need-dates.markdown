@@ -4,6 +4,7 @@ layout: post
 title: Version numbers need dates
 wordpress_url: http://spindrop.us/2006/06/28/version-numbers-need-dates/
 site: spindrop
+tags: [usability]
 ---
 What is the point of a version number?  For the most part, it's just a [milestone](http://en.wikipedia.org/wiki/Milestone).  The difference between version `2.3` and `2.4` of a software is a given feature-set.  Between `2.3` and `2.5` is an even larger feature-set that encompasses our previous feature-set.
 

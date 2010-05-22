@@ -4,6 +4,7 @@ layout: post
 title: Digg-style AJAX comment editing in PHP/symfony
 wordpress_url: http://spindrop.us/2006/08/13/digg-style-ajax-comment-editing-in-phpsymfony/
 site: spindrop
+tags: [reviewsby.us, programming, symfony]
 ---
 [digg]: http://digg.com/
 [s1]: http://spindrop.us/2006/07/02/comment-editing-in-reviewsbyus/ "Comment Editing in reviewsBy.us"

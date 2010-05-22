@@ -4,6 +4,7 @@ layout: post
 title: "Django models: saving markdown"
 wordpress_url: http://spindrop.us/?p=202
 site: spindrop
+tags: [spindrop, markdown, django]
 ---
 I love markdown.  I write my blogs in markdown.  For most user text areas in my web apps I support markdown and save both the markdown and the formatted text into my data store.
 

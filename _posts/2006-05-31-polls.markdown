@@ -4,9 +4,8 @@ layout: post
 title: Polls
 wordpress_url: http://spindrop.us/2006/05/31/polls
 site: spindrop
+tags: [reviewsby.us]
 ---
-
-
 [democracy]: http://blog.jalenack.com/archives/democracy/
 [wordpress]: http://wordpress.org/
 [p]: http://www.problogger.net/archives/2006/06/01/blog-polls/

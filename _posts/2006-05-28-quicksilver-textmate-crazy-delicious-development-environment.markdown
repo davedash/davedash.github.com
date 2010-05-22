@@ -4,6 +4,7 @@ layout: post
 title: Quicksilver + TextMate = craZy delicious development environment
 wordpress_url: http://spindrop.us/2006/05/28/quicksilver-textmate-crazy-delicious-development-environment
 site: spindrop
+tags: [reviewsby.us, programming]
 ---
 <strong>UPDATE:</strong>Cmd-T allows you to search for the files in your currently opened TextMate project.  I learned this shortly after writing this post, but forgot to mention it.  Thanks again to Tyson Tune for pointing that out.
 

@@ -4,6 +4,7 @@ layout: post
 title: GeoDjango
 wordpress_url: http://spindrop.us/2008/01/27/geodjango/
 site: spindrop
+tags: [reviewsby.us, programming, django, gis, geodjango]
 ---
 [tags]geodjango, django, gis[/tags]
 

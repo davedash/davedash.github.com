@@ -4,6 +4,7 @@ layout: post
 title: Using sfDoctrine to match allowed email domains
 wordpress_url: http://spindrop.us/2007/07/09/using-sfdoctrine-to-match-allowed-email-domains/
 site: spindrop
+tags: [programming, symfony, symfony, php, propel, startups, doctrine, optiopt, validators]
 ---
 [tags]php, propel, doctrine, validators, symfony, optiopt, startup[/tags]
 

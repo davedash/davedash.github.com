@@ -4,6 +4,7 @@ layout: post
 title: Debugging yaml configuration with the symfony web debugger
 wordpress_url: http://spindrop.us/2007/05/21/debugging-yaml-configuration-with-the-symfony-web-debugger/
 site: spindrop
+tags: [programming, symfony, symfony, debug, web-debug, configuration, yaml]
 ---
 [tags]symfony, yaml, configuration, web debug, debug[/tags]
 [symfony]: http://symfony-project.com/

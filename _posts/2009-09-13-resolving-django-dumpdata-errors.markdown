@@ -4,6 +4,7 @@ layout: post
 title: Resolving Django dumpdata errors
 wordpress_url: http://spindrop.us/?p=309
 site: spindrop
+tags: [reviewsby.us, django, testing, fixtures]
 ---
 Recently I recieved this wonderful piece of news when I ran `./manage.py dumpdata` for the first time:
 

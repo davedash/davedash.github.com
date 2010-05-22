@@ -4,6 +4,7 @@ layout: post
 title: Thoughts on Skype
 wordpress_url: http://spindrop.us/2007/09/23/thoughts-on-skype/
 site: spindrop
+tags: [usability, usability, skype]
 ---
 [tags]skype, usability[/tags]
 

@@ -4,6 +4,7 @@ layout: post
 title: Tips for symfony and Subversion
 wordpress_url: http://spindrop.us/2007/04/17/tips-for-symfony-and-subversion/
 site: spindrop
+tags: [programming, symfony, symfony, subversion]
 ---
 [tags]symfony, subversion[/tags]
 

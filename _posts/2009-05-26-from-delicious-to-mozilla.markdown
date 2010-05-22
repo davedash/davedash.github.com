@@ -4,6 +4,7 @@ layout: post
 title: From Delicious to Mozilla
 wordpress_url: http://spindrop.us/?p=262
 site: spindrop
+tags: [spindrop, python, mozilla]
 ---
 [amo]: http://addons.mozilla.org/
 

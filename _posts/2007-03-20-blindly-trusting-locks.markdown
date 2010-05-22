@@ -4,6 +4,7 @@ layout: post
 title: Blindly Trusting Locks
 wordpress_url: http://spindrop.us/2007/03/20/blindly-trusting-locks/
 site: spindrop
+tags: [usability, usability, design]
 ---
 [tags]design,usability[/tags]
 

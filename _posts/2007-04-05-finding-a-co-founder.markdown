@@ -4,6 +4,7 @@ layout: post
 title: Finding a co-founder
 wordpress_url: http://spindrop.us/2007/04/05/finding-a-co-founder/
 site: spindrop
+tags: [spindrop, startups]
 ---
 [tags]startups[/tags]
 A friend of mine directed me to [Why to Not Not Start a Startup][not]:

@@ -4,6 +4,7 @@ layout: post
 title: Building a triangle toggler in YUI
 wordpress_url: http://spindrop.us/2008/02/25/building-a-triangle-toggler-in-yui/
 site: spindrop
+tags: [spindrop, yui, toggles, triangle]
 ---
 If someone knows the more common name for triangle-toggle menu's similar to [this](http://developer.yahoo.com/yui/examples/treeview/menu_style.html).  Let me know.
 

@@ -4,6 +4,7 @@ layout: post
 title: How to make Prototype Window Class as easy as Lightbox Gone Wild
 wordpress_url: http://spindrop.us/2006/11/13/how-to-make-prototype-window-class-as-easy-as-lightbox-gone-wild/
 site: spindrop
+tags: [programming, css, prototype, lightbox, javascript]
 ---
 [l]: http://particletree.com/features/lightbox-gone-wild/ "Lightbox Gone Wild"
 [p]: http://prototype-window.xilinus.com/ "Prototype Window Class"

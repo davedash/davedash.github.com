@@ -4,6 +4,7 @@ layout: post
 title: "Smarter excerpts: the art of the semi-automatic CMS"
 wordpress_url: http://spindrop.us/2008/02/28/smarter-excerpts-the-art-of-the-semi-automatic-cms/
 site: spindrop
+tags: [spindrop, usability, design]
 ---
 I was browsing the [TED](http://ted.com/) site, since it's all up in my blogospheres and ran across this:
 

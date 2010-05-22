@@ -4,6 +4,7 @@ layout: post
 title: AJAX star rater for symfony
 wordpress_url: http://spindrop.us/2006/05/23/ajax-star-rater-for-symfony
 site: spindrop
+tags: [reviewsby.us, programming, css]
 ---
 [sr]: http://www.symfony-project.com/snippets/5
 [symfony]: http://www.symfony-project.com/

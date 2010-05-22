@@ -4,6 +4,7 @@ layout: post
 title: iPhone and MacBook Air
 wordpress_url: http://spindrop.us/2008/02/13/iphone-and-macbook-air/
 site: spindrop
+tags: [spindrop, apple, battery, iphone, macbook air, macbook pro]
 ---
 I had to wait quite some time at the Apple Store only to find out my MacBook Pro [had a battery](http://spindrop.us/2006/05/03/apple_batteries_and_applecare_paid_support/) that had been recalled.
 
