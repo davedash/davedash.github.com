@@ -1,5 +1,3 @@
-@@site_url = 'http://davedash.com/'
-
 require 'rake/clean'
 
 task :rsync do
@@ -15,42 +13,11 @@ task :deploy do
     rmtree CLEAN
     Rake::Task["cloud"].invoke
     Rake::Task["tag"].invoke
-    Rake::Task["cloud_basic"].invoke
     puts 'Building site...'
     sh 'jekyll'
     Rake::Task["rsync"].reenable
     Rake::Task["rsync"].invoke
 end
-
-task :cloud_basic do
-    puts 'Generating tag cloud...'
-    require 'rubygems'
-    require 'jekyll'
-    include Jekyll::Filters
-
-    options = Jekyll.configuration({})
-    site = Jekyll::Site.new(options)
-    site.read_posts('')
-
-    html = ''
-
-    site.tags.sort.each do |tags, posts|
-
-      s = posts.count
-      font_size = 12 + (Math.log(s) * 2);
-      html << "<a href=\"#{@@site_url}/tag/#{tags}/\"
-        title=\"Pages tagged #{tags}\"
-        style=\"font-size: #{font_size}px; line-height:#{font_size}px\"
-        rel=\"tag\">#{tags}</a> "
-    end
-
-    File.open('_includes/tags.html', 'w+') do |file|
-      file.puts html
-    end
-
-    puts 'Done.'
-  end
-
 
 task :cloud do
     puts 'Generating tag cloud...'
@@ -62,43 +29,31 @@ task :cloud do
     site = Jekyll::Site.new(options)
     site.read_posts('')
 
+    html = ''
 
-    html =<<-HTML
----
-layout: default
-title: Tags
-type: A tag cloud
----
-
-<h1>Tag cloud for {{site.title}}</h1>
-
-    <p>Click on a tag to see the relevant posts.</p>
-    HTML
-
-    site.tags.sort.each do |category, posts|
-      next if category == ".net"
-      html << <<-HTML
-      HTML
+    site.tags.sort.each do |tag, posts|
 
       s = posts.count
-      font_size = 12 + (s*1.5);
-      html << "<a href=\"#{@@site_url}/tag/#{category}/\"
-               title=\"Entries tagged #{category}\"
-               style=\"font-size: #{font_size}px; line-height:#{font_size}px\">
-               #{category}</a> "
+
+      if s == 1 then
+        next
+      end
+
+      font_size = (Math.log(s)*1.5).round
+      class_name = 'size_%d' % font_size
+      html << "<li class=\"#{class_name}\">
+            <a href=\"/tag/#{tag}/\" title=\"Pages tagged #{tag}\" rel=\"tag\">
+            #{tag}</a></li>"
     end
 
-    html << "<p>You may also wish to browse the
-             <a href=\"#{@@site_url}/archives/\"
-             title=\"Archives for {{site.title}}\">archives</a>."
-
-
-    File.open('tags/index.html', 'w+') do |file|
+    File.open('_includes/tags.html', 'w+') do |file|
       file.puts html
     end
 
     puts 'Done.'
   end
+
+
 
 desc 'Generate tags page'
 task :tags do

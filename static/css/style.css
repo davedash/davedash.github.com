@@ -75,3 +75,27 @@ blockquote {
     border-left: 5px solid #333;
     padding-left: 1em;
 }
+
+ul.tags li {
+    display: inline;
+}
+
+li.size_2 {
+    font-size: 105%;
+}
+
+li.size_3 {
+    font-size: 110%;
+}
+
+li.size_4 {
+    font-size: 120%;
+}
+
+li.size_5 {
+    font-size: 140%;
+}
+
+li.size_6 {
+    font-size: 180%;
+}

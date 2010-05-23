@@ -21,6 +21,6 @@ You can contact me at `dd+onion` (at) `{this domain}`.
 
 ## Tags
 
-<p class="tags">
+<ul class="tags">
 {% include tags.html %}
-</p>
+</ul>

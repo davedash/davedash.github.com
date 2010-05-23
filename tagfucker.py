@@ -16,6 +16,7 @@ cur = con.cursor()
 POST_HEADER_SEP_RE = re.compile(POST_HEADER_SEP_RE, re.M)
 files_done = 0
 for filename in sys.argv[1:]:
+    metadata = None
     f = file(os.path.join(filename))
     files_done += 1
     if filename.endswith('.swp'):
@@ -37,9 +38,17 @@ for filename in sys.argv[1:]:
         continue
 
     wpid = metadata['wordpress_id']
-    cur.execute(("SELECT name FROM wp_terms WHERE term_id IN "
-        "(SELECT term_taxonomy_id FROM wp_term_relationships "
-        "WHERE object_id = %s)"), wpid)
+
+    sql = """
+    SELECT
+        name
+    FROM wp_terms t
+    LEFT JOIN wp_term_taxonomy tt ON (t.term_id = tt.term_id)
+    LEFT JOIN wp_term_relationships tr
+        ON (tr.term_taxonomy_id=tt.term_taxonomy_id)
+    WHERE tr.object_id=%s
+    """
+    cur.execute(sql, wpid)
     tags = cur.fetchall()
 
     if not tags:

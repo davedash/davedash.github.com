@@ -2,4 +2,8 @@ pygments: true
 markdown: rdiscount
 permalink: pretty
 # lsi: true
-exclude: Rakefile, tagfucker.py, sitelabeler.py
+exclude:
+  - Rakefile
+  - tagfucker.py
+  - crawl.py
+  - sitelabeler.py
