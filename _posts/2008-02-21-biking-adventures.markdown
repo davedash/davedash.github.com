@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 571
 layout: post
 title: Biking adventures
 wordpress_url: http://davedash.com/2008/02/21/biking-adventures/
 
-tags: [general, learning]
 ---
 
 So I'm trying to do a bit more than the 2.5 miles to the station and back, so I biked to work today and decided to bike part of the way back like so:

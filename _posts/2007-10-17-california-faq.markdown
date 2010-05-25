@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 561
 layout: post
 title: California FAQ
 wordpress_url: http://davedash.com/2007/10/17/california-faq/
 
-tags: [computers, work, rollerblading, facebook, medical]
 ---
 
 Katie and I are "officially" moving to California.  A lot of people have been asking questions about this, so I'll try to create a FAQ:

@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 625
 layout: post
 title: On leaving Delicious
 wordpress_url: http://davedash.com/?p=625
 
-tags: [general, work, historical, buster]
 ---
 
 [d]: http://delicious.com/

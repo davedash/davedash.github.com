@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 551
 layout: post
 title: Goal-setting for weight loss
 wordpress_url: http://davedash.com/2006/06/25/goal-setting-for-weight-loss/
 
-tags: [food, desi, religion, writing]
 ---
 
 [wedding]: http://ktdd.org/

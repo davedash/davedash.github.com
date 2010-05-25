@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 550
 layout: post
 title: Goal met, now it's time to get married
 wordpress_url: http://davedash.com/2006/06/12/goal-met-now-its-time-to-get-married/
 
-tags: [religion, writing]
 ---
 
 160 pounds.

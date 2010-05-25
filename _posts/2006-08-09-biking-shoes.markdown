@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 554
 layout: post
 title: Biking Shoes
 wordpress_url: http://davedash.com/2006/08/09/biking-shoes/
 
-tags: [wedding]
 ---
 
 <div style="float:left; margin-right: 1em">

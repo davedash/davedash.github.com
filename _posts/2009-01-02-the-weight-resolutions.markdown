@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 605
 layout: post
 title: The Weight Resolutions
 wordpress_url: http://davedash.com/?p=605
 
-tags: [general, blogs, rambling, resolutions]
 ---
 
 [j]: http://planetary-gears.blogspot.com/2009/01/new-years-resolutions.html

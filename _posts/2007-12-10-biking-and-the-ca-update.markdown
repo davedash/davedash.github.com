@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 567
 layout: post
 title: Biking and the CA update...
 wordpress_url: http://davedash.com/2007/12/10/biking-and-the-ca-update/
 
-tags: [general, learning]
 ---
 
 People keep asking me how things are going in CA.

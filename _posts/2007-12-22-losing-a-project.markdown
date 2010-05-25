@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 568
 layout: post
 title: Losing a project
 wordpress_url: http://davedash.com/2007/12/22/losing-a-project/
 
-tags: [work]
 ---
 
 One lesson I keep learning is get out as soon as you can if you're in a sub-optimal situation.

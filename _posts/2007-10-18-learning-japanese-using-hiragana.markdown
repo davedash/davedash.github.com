@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 566
 layout: post
 title: Learning Japanese using Hiragana
 wordpress_url: http://davedash.com/2007/10/18/learning-japanese-using-hiragana/
 
-tags: [general, moving, Related Sites, japanese, hiragana, rosetta, rosettastone, learning]
 ---
 
 So watching Heroes has made me want to learn Japanese again.  I've noticed that one difficult thing is using hiragana-only to learn Japanese.  Here's the same sentence that means The book is good:

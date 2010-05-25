@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 574
 layout: post
 title: Renting versus owning a car
 wordpress_url: http://davedash.com/?p=574
 
-tags: [general, learning]
 ---
 
 My dad's relationship to cars is way different than mine.  He has a nice Lexus LS460 and my mom drives a practical Volvo S80.  They drive their cars separately every day to and from the same office.

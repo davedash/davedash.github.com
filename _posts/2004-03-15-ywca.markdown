@@ -1,10 +1,8 @@
---- 
+---
 wordpress_id: 529
 layout: post
 title: YWCA
 wordpress_url: http://davedash.com/2004/03/15/ywca/
-
-tags: [Uncategorized]
 ---
 
 Is anybody here a member of the YWCA?  Katie and I work out at my parents which is free, but it has no pool, and it's only convenient for me since it's on my way from work.

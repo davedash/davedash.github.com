@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 575
 layout: post
 title: The Infamous E18 and why American Express rocks
 wordpress_url: http://davedash.com/?p=575
 
-tags: [general, learning]
 ---
 
 My mother-in-law was visiting this past week and she was happily shooting pictures with her Canon Powershot SD30 and then the barrel decided to not retract and the camera gave the E18 error.

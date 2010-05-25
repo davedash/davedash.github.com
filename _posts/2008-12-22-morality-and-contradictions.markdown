@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 603
 layout: post
 title: Morality and Contradictions
 wordpress_url: http://davedash.com/?p=603
 
-tags: [general, minneapolis, string, morality]
 ---
 
 [cnn]: http://www.cnn.com/2008/HEALTH/12/19/milgram.experiment.obedience/index.html?eref=rss_topstories
@@ -17,7 +16,7 @@ I'm trying to use this to understand my own take on morality.  From what I under
 
 You can read this and say, that given the right conditions, anybody has the capability to do evil.  But that seems like a detrimental way of taking this.  Yes, during war, evil horrors are committed, but if we read between the lines there are people who resist this.  There are people who despite all pressure will resist any of this.
 
-<!--more--> 
+<!--more-->
 
 ### Moral Bar
 

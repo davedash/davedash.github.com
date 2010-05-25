@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 532
 layout: post
 title: St. Patty's day
 wordpress_url: http://davedash.com/2004/03/18/st-pattys-day/
 
-tags: [Uncategorized]
 ---
 
 Katie, Lil' T, engelbot, Marc, Erin and I went to Suzy's parent's St. Patty's day party.

@@ -3,7 +3,6 @@ wordpress_id: 632
 layout: post
 title: "Advice for people seeking a mortgage "
 wordpress_url: http://davedash.com/?p=632
-tags: [homes, mortgage]
 ---
 So Katie and I decided to buy our first home (a condo) in California last year.  From our first house (in Minneapolis) the lessons we learned was to have your 20% saved up ahead of time before taking the plunge.  We're fans of traditional 30-year loans (or 15 year loans if you can swing it) as they are fairly predictable and 20% will buy your way out of mortgage insurance.
 

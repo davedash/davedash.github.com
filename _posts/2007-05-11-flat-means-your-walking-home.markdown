@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 559
 layout: post
 title: Flat means you're walking home ;)
 wordpress_url: http://davedash.com/2007/05/11/flat-means-your-walking-home/
 
-tags: [rollerblading, wedding]
 ---
 
 [tags]flat, biking[/tags]
@@ -13,7 +12,7 @@ I used to/still have a cavalier attitude toward flats.  I figured when/if I get 
 
 Yesterday, in 80+ degree heat, I chose walk... I went a mile to the Dunn Bros coffee shop cooled down and went a mile to get home.
 
-Despite better judgement I fixed my flat when I got home in my very warm garage.  With the right tools fixing a flat is easy, but the pouch I carry... is missing a lot... namely *a wrench* to undo the wheels and *a pump*.  
+Despite better judgement I fixed my flat when I got home in my very warm garage.  With the right tools fixing a flat is easy, but the pouch I carry... is missing a lot... namely *a wrench* to undo the wheels and *a pump*.
 
 Here's a tip for flats:
 

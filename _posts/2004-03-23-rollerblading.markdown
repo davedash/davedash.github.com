@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 539
 layout: post
 title: Rollerblading!
 wordpress_url: http://davedash.com/2004/03/23/rollerblading/
 
-tags: [Uncategorized]
 ---
 
  and I went Rollerblading.  I'm glad the winds been slowly dying down and the streets/sidewalks around town are clear enough to skate.

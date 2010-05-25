@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 607
 layout: post
 title: Another bike bites the dust
 wordpress_url: http://davedash.com/?p=607
 
-tags: [general, wedding]
 ---
 
 Bauer Transit, a local corporate shuttle service, has commuters attach their bikes to racks on the rear of their busses.

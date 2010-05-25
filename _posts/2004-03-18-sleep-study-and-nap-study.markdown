@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 531
 layout: post
 title: Sleep Study and Nap Study
 wordpress_url: http://davedash.com/2004/03/18/sleep-study-and-nap-study/
 
-tags: [Uncategorized]
 ---
 
 Okay, so I finished the sleep study.

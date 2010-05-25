@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 548
 layout: post
 title: $420 later and my car starts ...
 wordpress_url: http://davedash.com/2004/03/31/420-later-and-my-car-starts/
 
-tags: [Uncategorized]
 ---
 
 anybody been to who-remembers-me.com ?  I got spam from it I think, but it may have been legit.  Sounds interesting.

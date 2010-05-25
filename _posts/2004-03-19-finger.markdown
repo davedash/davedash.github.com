@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 535
 layout: post
 title: Finger
 wordpress_url: http://davedash.com/2004/03/19/finger/
 
-tags: [Uncategorized]
 ---
 
 I sent in an email to the <a href="http://dailyillini.com/">DI</a> yesterday and got a call back from my friend who was working there just to verify it was me.

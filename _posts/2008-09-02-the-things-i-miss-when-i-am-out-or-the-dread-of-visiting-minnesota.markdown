@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 584
 layout: post
 title: The things I miss when I am out... (or the dread of visiting Minnesota)
 wordpress_url: http://davedash.com/?p=584
 
-tags: [general, best-of]
 ---
 
 Here's what I'm missing in the South Bay in the next week:

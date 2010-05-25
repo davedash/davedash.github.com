@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 553
 layout: post
 title: New Breezer
 wordpress_url: http://davedash.com/2006/08/04/new-breezer/
 
-tags: [wedding]
 ---
 
 [n]: http://minneapolis.metblogs.com/archives/2006/07/breezer_bikes_a.phtml

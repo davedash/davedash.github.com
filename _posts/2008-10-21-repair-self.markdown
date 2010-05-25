@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 593
 layout: post
 title: repair self
 wordpress_url: http://davedash.com/?p=593
 
-tags: [computers, general, writing, blogs]
 ---
 
 I haven't been completely happy with myself lately.  

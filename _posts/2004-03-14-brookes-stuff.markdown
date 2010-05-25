@@ -1,10 +1,8 @@
---- 
+---
 wordpress_id: 527
 layout: post
 title: Brooke's stuff
 wordpress_url: http://davedash.com/2004/03/14/brookes-stuff/
-
-tags: [Uncategorized]
 ---
 
 So Brooke, my downstair's neighbor, has a new bike that costs more than Katie's Tercel and my Prizm combined.  Yipes.

@@ -1,10 +1,10 @@
---- 
+---
 wordpress_id: 549
 layout: post
 title: Weight Goal within Reach
 wordpress_url: http://davedash.com/2006/05/30/weight-goal-within-reach/
 
-tags: [general, learning]
+tags: [weight]
 ---
 
 Yesterday I finally reached that target weight, 159.6 pounds.  If I can maintain this weight, that would put me at a <acronym title="Body Mass Index">BMI</acronym> of 25, which is the border for "Normal weight" and "Overweight."  My goal since sometime last year was to meet or beat this weight.  Judging from my past performance it could take me as long as a few weeks to just over a month to maintain that weight.  Since I know my goal is to be at this weight by June 17th, I'll be putting a lot more effort into continuing to lose weight.

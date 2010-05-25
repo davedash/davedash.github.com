@@ -1,10 +1,9 @@
---- 
+---
 wordpress_id: 630
 layout: post
 title: Removing parental restrictions from the PlayStation 2
 wordpress_url: http://davedash.com/?p=630
 
-tags: [general, delicious]
 ---
 
 Every time I put in a DVD (House, Bones, almost anything) I'd get the parental control screen that I'd have to temporarily unlock.  While entering 0000 wasn't that difficult, it was annoying to have to do this before I could get through all the FBI warnings and to the DVD menu... and finally to my content.
