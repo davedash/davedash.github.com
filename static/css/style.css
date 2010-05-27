@@ -22,6 +22,8 @@ html, body {
 #content {
     padding: 0 2em;
     font-size: 120%;
+    width: 600px;
+    margin: auto;
 }
 
 h1 {
@@ -64,6 +66,10 @@ h3 {
 #post ol li {
     list-style: decimal;
     margin-left: 2em;
+}
+
+#post ol.ualpha li {
+    list-style: upper-alpha
 }
 
 strong {
