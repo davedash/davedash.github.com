@@ -105,3 +105,15 @@ li.size_5 {
 li.size_6 {
     font-size: 180%;
 }
+
+acronym {
+    border-bottom: dotted 1px #666;
+}
+
+dd {
+    margin: 1em;
+}
+
+dt {
+    font-weight: bold;
+}
