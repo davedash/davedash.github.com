@@ -12,7 +12,7 @@ task :deploy do
     CLEAN.include('_site/**')
     rmtree CLEAN
     Rake::Task["cloud"].invoke
-    Rake::Task["tag"].invoke
+    Rake::Task["tags"].invoke
     puts 'Building site...'
     sh 'jekyll'
     Rake::Task["rsync"].reenable
@@ -52,7 +52,6 @@ task :cloud do
 
     puts 'Done.'
   end
-
 
 
 desc 'Generate tags page'
