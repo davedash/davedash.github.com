@@ -4,8 +4,8 @@ layout: post
 title: Morality and Contradictions
 wordpress_url: http://davedash.com/?p=603
 
+tags: [religion, morality, rambling]
 ---
-
 [cnn]: http://www.cnn.com/2008/HEALTH/12/19/milgram.experiment.obedience/index.html?eref=rss_topstories
 
 I've been reading about [Miligram's shock tests][cnn] which also relates to the Stanford Prison experiments.  Both sort of confirm the same thing: given the proper authoritarian conditions, ordinary people will act in a brutal manner.  I'm paraphrasing this, but it is a valid takeaway.

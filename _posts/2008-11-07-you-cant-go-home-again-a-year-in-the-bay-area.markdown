@@ -3,6 +3,7 @@ wordpress_id: 594
 layout: post
 title: "You can't go home again: A year in the Bay Area"
 wordpress_url: http://davedash.com/?p=594
+tags: [minneapolis, yahoo!, relocation, bay area, best-of]
 ---
 Yesterday as I left work it dawned on me that I had been in the San Francisco
 Bay Area for a year.  It is one of the most drastic changes in my life since

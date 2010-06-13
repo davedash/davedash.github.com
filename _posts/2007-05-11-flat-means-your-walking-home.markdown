@@ -4,8 +4,8 @@ layout: post
 title: Flat means you're walking home ;)
 wordpress_url: http://davedash.com/2007/05/11/flat-means-your-walking-home/
 
+tags: [minneapolis, biking]
 ---
-
 [tags]flat, biking[/tags]
 
 I used to/still have a cavalier attitude toward flats.  I figured when/if I get one, I'll lockup and bus home, or walk.

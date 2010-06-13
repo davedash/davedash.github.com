@@ -4,8 +4,8 @@ layout: post
 title: On leaving Delicious
 wordpress_url: http://davedash.com/?p=625
 
+tags: [work, yahoo!, delicious]
 ---
-
 [d]: http://delicious.com/
 
 In short I am quitting my awesome job at Yahoo! working on [Delicious][d] and will be starting somewhere else next month.

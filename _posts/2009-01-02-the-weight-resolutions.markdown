@@ -4,8 +4,8 @@ layout: post
 title: The Weight Resolutions
 wordpress_url: http://davedash.com/?p=605
 
+tags: [health, resolutions, weight]
 ---
-
 [j]: http://planetary-gears.blogspot.com/2009/01/new-years-resolutions.html
 
 [Jim][j] over at Hiawatha Cyclery inspired me to post my weight resolution.

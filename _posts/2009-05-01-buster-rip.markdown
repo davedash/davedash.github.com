@@ -3,8 +3,8 @@ wordpress_id: 611
 layout: post
 title: Buster, RIP
 wordpress_url: http://davedash.com/?p=611
+tags: [buster]
 ---
-
 Last Sunday (April 26 2009), Katie and I decided to stay in and enjoy the rest of our weekend.  We heard our cat, Buster, vomiting as he sometimes does.  Katie was a little concerned since he wasn't vomiting up food as he normally does - we were worried that he had ingested something.  Then he got curiously lethargic and unresponsive - so Katie and I rushed him to Adobe Animal Hospital.
 
 Adobe was phenomenally quick, but on our way to the vet and in the operating room we knew we didn't want to prolong our cats not so pleasant life and we had him euthanized.

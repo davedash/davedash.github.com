@@ -4,8 +4,8 @@ layout: post
 title: Goal-setting for weight loss
 wordpress_url: http://davedash.com/2006/06/25/goal-setting-for-weight-loss/
 
+tags: [food, desi, family, wedding, weight loss]
 ---
-
 [wedding]: http://ktdd.org/
 
 Well losing about 20-25 pounds (of mostly fat) in the year before [my wedding][wedding] definitely had the intended effect of receiving positive comments from friends and family.  I secretly had the intent of not just being able to lose weight, but wanting to help others lose weight too.  There's no reason to suffer through anything if you can't use it to better yourself or others later.

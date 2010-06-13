@@ -4,8 +4,8 @@ layout: post
 title: Welcome...
 wordpress_url: http://davedash.com/2004/03/14/welcome/
 
+tags: [friends, web development, writing]
 ---
-
 A while back, I discovered LiveJournal.  I thought, cool, but I don't need it, I've got my own site.  I visited other people's LiveJournal's and then got to thinking... hmm there's something to this.  One.  I never post any updates on my web site.  Two.  Someone else is doing the hard stuff of keeping track of my journals.  and the selling point... Three.  the community kicks ass.  It reminds me a bit of BBSing days and a bit of iT days (if anybody remembers that).
 
 So anyway, here I am, here I remain.  Hopefully I'll get some time to work on my website davedash.com and get the behemoth Photo Gallery up and running as well.

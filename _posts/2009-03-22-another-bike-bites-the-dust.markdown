@@ -4,8 +4,8 @@ layout: post
 title: Another bike bites the dust
 wordpress_url: http://davedash.com/?p=607
 
+tags: [biking]
 ---
-
 Bauer Transit, a local corporate shuttle service, has commuters attach their bikes to racks on the rear of their busses.
 
 This always alarmed me because it increased the danger factor of attaching and detaching your bicycle.  The straps were always precariously worn down.  This Wednesday the 18th, however, the straps were just fine.  I ride the shuttle a few miles from downtown Mountain View to the Mission College Yahoo! Campus.  Unfortunately this Wednesday my bike was not there when we arrived.

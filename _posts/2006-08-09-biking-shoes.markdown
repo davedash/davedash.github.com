@@ -4,8 +4,8 @@ layout: post
 title: Biking Shoes
 wordpress_url: http://davedash.com/2006/08/09/biking-shoes/
 
+tags: [biking]
 ---
-
 <div style="float:left; margin-right: 1em">
     <img src="http://www.performancebike.com/product_images/150/20_2565BLK_B.jpg" alt="Shimano SH-MT20" />
 </div>
