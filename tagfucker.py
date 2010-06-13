@@ -10,7 +10,7 @@ import MySQLdb
 
 POST_HEADER_SEP_RE = r'^---\s*$'
 
-con = MySQLdb.Connect(db='tmp_spindrop', user='root')
+con = MySQLdb.Connect(db='tmp_davedash', user='root')
 cur = con.cursor()
 
 POST_HEADER_SEP_RE = re.compile(POST_HEADER_SEP_RE, re.M)
