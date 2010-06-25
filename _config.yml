@@ -7,3 +7,4 @@ exclude:
   - tagfucker.py
   - crawl.py
   - sitelabeler.py
+  - fabfile.py
