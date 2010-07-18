@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siddhartha: Weeks 3 and 4
+title: "Siddhartha: Weeks 3 and 4"
 tags: [baby]
 published: true
 time: 10:43AM
@@ -41,14 +41,7 @@ helped somewhat in terms of food and giving Sibi infant massages, but we've
 been trying hard to do baby stuff on our own.  It's paying off.  We're a lot
 more confident.
 
-<object width="1280" height="745">
-    <param name="movie"
-        value="http://www.youtube.com/v/RK8UayJ_c-w&hl=en_US&fs=1&rel=0&hd=1">
-    </param>
-    <param name="allowFullScreen" value="true"></param>
-    <param name="allowscriptaccess" value="always"></param>
-    <embed src="http://www.youtube.com/v/RK8UayJ_c-w&hl=en_US&fs=1&rel=0&hd=1"
-        type="application/x-shockwave-flash" allowscriptaccess="always"
-        allowfullscreen="true" width="1280" height="745">
-    </embed>
-</object>
+<div>
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/RK8UayJ_c-w&amp;hl=en_US&amp;fs=1?rel=0&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/RK8UayJ_c-w&amp;hl=en_US&amp;fs=1?rel=0&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+
+</div>

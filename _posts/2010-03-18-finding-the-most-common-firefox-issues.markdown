@@ -4,7 +4,7 @@ layout: post
 title: Finding the most common Firefox issues
 wordpress_url: http://spindrop.us/?p=354
 site: spindrop
-tags: [spindrop, search, support, Firefox, mozilla]
+tags: [spindrop, search, support, Firefox, mozilla, clustering]
 ---
 [f]: http://support.mozilla.com/en-US/kb/
 [g]: http://github.com/davedash/SUMO-issues
