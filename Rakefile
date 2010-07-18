@@ -42,7 +42,8 @@ task :cloud do
       font_size = (Math.log(s)*1.5).round
       class_name = 'size_%d' % font_size
       html << "<li class=\"#{class_name}\">
-            <a href=\"/tag/#{tag}/\" title=\"Pages tagged #{tag}\" rel=\"tag\">
+            <a href=\"/tag/#{tag.downcase}/\"
+               title=\"Pages tagged #{tag}\" rel=\"tag\">
             #{tag}</a></li>"
     end
 
@@ -84,8 +85,8 @@ type: "#{category.gsub(/\b\w/){$&.upcase}}"
     </ol>
     HTML
 
-    FileUtils.mkdir_p "tag/#{category}"
-    File.open("tag/#{category}/index.html", 'w+') do |file|
+    FileUtils.mkdir_p "tag/#{category.downcase}"
+    File.open("tag/#{category.downcase}/index.html", 'w+') do |file|
       file.puts html
     end
 
@@ -100,8 +101,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Dave Dash</title>
- <link href="http://davedash.com/tag/#{category}/atom.xml" rel="self"/>
- <link href="http://davedash.com/tag/#{category}"/>
+ <link href="http://davedash.com/tag/#{category.downcase}/atom.xml" rel="self"/>
+ <link href="http://davedash.com/tag/#{category.downcase}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://davedash.com/</id>
  <author>
@@ -122,7 +123,7 @@ layout: nil
 </feed>
     HTML
 
-    File.open("tag/#{category}/atom.xml", 'w+') do |file|
+    File.open("tag/#{category.downcase}/atom.xml", 'w+') do |file|
       file.puts html
     end
 
