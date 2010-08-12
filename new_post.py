@@ -11,7 +11,7 @@ def get_filename(title):
     return "_posts/%s-%s.markdown" % (date, title)
 
 def get_time():
-    t = today.strftime('%I:%M:%p')
+    t = today.strftime('%I:%M%p')
     if t.startswith('0'):
         t = t[1:]
     return t
@@ -28,7 +28,7 @@ if __name__ == '__main__':
         lines = []
         lines.append('---')
         lines.append('layout: post')
-        lines.append('title: %s' % title)
+        lines.append('title: "%s"' % title)
         lines.append('tags: []')
         lines.append('published: false')
         lines.append('time: %s' % get_time())

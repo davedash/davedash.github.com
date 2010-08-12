@@ -8,7 +8,7 @@ time: 7:49AM
 
 [1]: http://davedash.com/2010/03/18/finding-the-most-common-firefox-issues/
 [fi]: http://aakash.doesthings.com/2010/06/25/hi-my-name-is-firefox-input/
-[g]: http://davedash.com/2010/07/08/the-python-textcluster-package/
+[g]: http://github.com/davedash/textcluster
 
 Earlier I wrote about [finding the most common Firefox issues][1].  I had
 wanted to automate that process and continually find these issues.
