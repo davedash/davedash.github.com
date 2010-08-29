@@ -1,52 +1,93 @@
 @font-face {
-        font-family: 'Surface';
-        src: url('/static/fonts/Surface-Medium.otf');
+        font-family: 'Pigiarniq';
+        src: url('/static/fonts/Pigiarniq Regular.ttf');
+        font-weight: normal;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Pigiarniq';
+        src: url('/static/fonts/Pigiarniq Heavy.ttf');
+        font-weight: bold;
+        font-style: normal;
+}
+
+@font-face {
+        font-family: 'Gentium';
+        src: url('/static/fonts/GenR102.TTF');
         font-weight: normal;
         font-style: normal;
 }
 
 header {
-    color: #eee;
-    background: #333;
     display: block;
-    text-align: center;
-    position: relative;
+    margin-bottom: 3em;
 }
 
 html, body {
-    font-family: Helvetica Neue, Arial;
-    background: #eee;
+    font-family: Pigiarniq, Helvetica Neue, Arial;
+    background: #fff;
     height: 100%;
 }
 
-#content {
-    padding: 0 2em;
-    font-size: 120%;
-    width: 600px;
-    margin: auto;
+body {
+    margin: 1em auto;
+    width: 900px;
 }
 
+#content {
+    font-size: 120%;
+}
+
+a {
+    color: #05e;
+    text-decoration: none;
+    border-bottom: dotted 1px;
+}
+
+a:visited {
+    color: #a0a;
+}
+
+
 h1 {
-    font-family: Surface, Helvetica Neue, Arial;
-    font-size: 300%;
+    font-family: Gentium, Times;
+    text-transform: lowercase;
+    font-size: 500%;
     margin-bottom: 0;
     padding: 0;
     position: relative;
     top: .4em;
 }
 
-h1 a { color: #eee; text-decoration: none }
+h1 a, h1 a:visited { color: #000; text-decoration: none; border: none }
 
 h2, h3 {
-    font-family: Surface, Helvetica Neue, Arial;
-    margin-top: 1em;
+    font-family: Pigiarniq, Helvetica Neue, Arial;
+    margin-top: 2em;
+    letter-spacing: .2em;
+    text-transform: uppercase;
 }
+
+.post h2 {
+    margin-bottom: 0;
+}
+
 h2 {
-    font-size: 200%;
+    font-size: 110%;
+    color: #e50;
+    margin-bottom: 1em;
+}
+
+h2 .post_date {
+    letter-spacing: .1em;
+    font-size: 80%;
+    color: #666;
 }
 
 h3 {
-    font-size: 170%;
+    font-size: 105%;
+    margin-bottom: .5em;
 }
 
 .meta, .date {
@@ -56,6 +97,7 @@ h3 {
 
 .meta, p, ol, ul {
     margin-bottom: 1em;
+    line-height: 1.5;
 }
 
 #post ul li {
@@ -87,23 +129,18 @@ ul.tags li {
 }
 
 li.size_2 {
-    font-size: 105%;
 }
 
 li.size_3 {
-    font-size: 110%;
 }
 
 li.size_4 {
-    font-size: 120%;
 }
 
 li.size_5 {
-    font-size: 140%;
 }
 
 li.size_6 {
-    font-size: 180%;
 }
 
 acronym {

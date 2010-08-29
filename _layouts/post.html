@@ -20,17 +20,17 @@
 {% else %}
 {% assign host = 'davedash.com' %}
 {% endif %}
-<body data-id="http://{{ host }}{{ page.id }}/">
+<body data-id="http://{{ host }}{{ page.id }}/" class="post">
   <header>
   <h1><a href="/">Dave Dash</a></h1>
   </header>
   <div id="content">
-    <h2>{{ page.title }}</h2>
+    <h2>
+      <span class="post_date">{{ page.date | date: '%d %b %Y' }} &raquo;</span>
+      {{ page.title }}
+    </h2>
     <p class="meta">
-      <span class="post_date">
-        Posted {{ page.date | date: '%d %B %Y %I:%M %p' }}
-      </span>
-      {% if page.tags %}
+      {% if page.tags.size > 0 %}
       <span class="tags">Tagged:
         {% for tag in page.tags %}
         <a href="/tag/{{ tag }}/">{{ tag }}</a>{% if forloop.rindex0 > 0 %},

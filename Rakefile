@@ -7,11 +7,14 @@ task :rsync do
     puts 'Done.'
 end
 
-task :deploy do
+task :clean do
     puts 'Cleaning _site...'
     CLEAN.include('_site/**')
     rmtree CLEAN
-    Rake::Task["cloud"].invoke
+end
+
+task :deploy do
+    # Rake::Task["cloud"].invoke
     Rake::Task["tags"].invoke
     puts 'Building site...'
     sh 'jekyll'
@@ -31,11 +34,11 @@ task :cloud do
 
     html = ''
 
-    site.tags.sort.each do |tag, posts|
+    site.tags.each do |tag, posts|
 
       s = posts.count
 
-      if s == 1 then
+      if s < 40 then
         next
       end
 
