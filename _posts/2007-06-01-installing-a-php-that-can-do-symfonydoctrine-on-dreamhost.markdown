@@ -1,8 +1,5 @@
----
-wordpress_id: 103
 layout: post
 title: Installing a PHP that can do symfony+doctrine on Dreamhost
-wordpress_url: http://spindrop.us/2007/06/01/installing-a-php-that-can-do-symfonydoctrine-on-dreamhost/
 site: spindrop
 tags: [symfony, symfony, php, doctrine, syfony, dreamhost]
 ---

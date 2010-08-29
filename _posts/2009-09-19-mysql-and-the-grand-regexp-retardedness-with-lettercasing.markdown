@@ -1,8 +1,5 @@
----
-wordpress_id: 317
 layout: post
 title: mySQL and the grand regexp retardedness with lettercasing
-wordpress_url: http://spindrop.us/?p=317
 site: spindrop
 tags: [spindrop, mysql, mozilla, sphinx, regexp]
 ---
@@ -14,16 +11,16 @@ So my Plan B was to get a list of common smushed named addons (I'd say camelCase
     +------------------------+
     | name                   |
     +------------------------+
-    | Orbit Grey             | 
-    | Phoenity               | 
-    | Pinball                | 
-    | Qute                   | 
-    | FirefoxModern          | 
-    | Adblock                | 
-    | Add Bookmark Here      | 
-    | All-in-One Gestures    | 
-    | Bookmarks Synchronizer | 
-    | Browser Uptime         | 
+    | Orbit Grey             |
+    | Phoenity               |
+    | Pinball                |
+    | Qute                   |
+    | FirefoxModern          |
+    | Adblock                |
+    | Add Bookmark Here      |
+    | All-in-One Gestures    |
+    | Bookmarks Synchronizer |
+    | Browser Uptime         |
     +------------------------+
     10 rows in set (41.28 sec)
 
@@ -48,7 +45,7 @@ Wait... none of these match.  I scratched my head for a bit and then thought, oh
 
 No difference.  Time to pull out the [mysql documentation](http://dev.mysql.com/doc/refman/5.1/en/regexp.html):
 
-> REGEXP is not case sensitive, except when used with binary strings. 
+> REGEXP is not case sensitive, except when used with binary strings.
 
 ORLY?
 

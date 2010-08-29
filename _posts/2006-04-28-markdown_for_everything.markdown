@@ -1,21 +1,5 @@
----
-wordpress_id: 13
 layout: post
 title: Markdown for everything
-excerpt: |
-  [mphp]: http://www.michelf.com/projects/php-markdown/
-  [mwe]: http://spindrop.us/files/markdown_everywhere-2006-04-28.tar.bz
-  [symfony]: http://www.symfony-project.com/
-  [markdown]: http://daringfireball.net/projects/markdown/
-  [TinyMCE]: http://tinymce.moxiecode.com/
-  [rbu1]: http://reviewsby.us/restaurant/cheesecake-factory/menu/orange-chicken
-  [df]: http://daringfireball.net/
-  [lj]: http://davedash.livejournal.com/
-  [textmate]: http://macromates.com/
-  [drupal]: http://drupal.org
-  
-  Today, in a matter of minutes, I wrote a [really simple markdown web environment][mwe] in PHP.  It's nothing complicated by any stretch of the imagination, but for me at least it'll be quite useful.
-
 tags: [programming, Related Websites, javascript, symfony, reviewsby.us, php, markdown, tinymce, textmate, drupal, mod_rewrite, xhtml]
 ---
 [mphp]: http://www.michelf.com/projects/php-markdown/

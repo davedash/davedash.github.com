@@ -1,9 +1,7 @@
---- 
+---
 wordpress_id: 456
 layout: post
 title: Taj Mahal and Hindu Zionism
-excerpt: The Taj Mahal was vandalized yesterday.  [ <a href="http://www.dawn.com/2001/10/15/top17.htm">the Dawn Group</a> ][ <a href="http://www.rediff.com/news/2001/oct/14bjp.htm">Rediff India</a> ].<p>I've been watching this slow pattern of visible anti-Muslim rhetoric spewed by the BJP/RSS/VHP (unholy trinity that acts in the name of Hindusim).  It's out of hand, and if India wants to stay a true republic for all people Muslim and Hindu alike, it will need to change the climate.</p>
-
 tags: [computers, web development, work]
 ---
 

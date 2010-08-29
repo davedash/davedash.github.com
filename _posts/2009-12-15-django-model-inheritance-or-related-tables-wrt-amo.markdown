@@ -1,8 +1,5 @@
----
-wordpress_id: 323
 layout: post
 title: "Django: Model Inheritance or Related Tables wrt AMO"
-wordpress_url: http://spindrop.us/?p=323
 site: spindrop
 tags: [spindrop, django, mozilla, amo, addons.mozilla.org]
 ---
@@ -11,7 +8,7 @@ tags: [spindrop, django, mozilla, amo, addons.mozilla.org]
 [1]: http://scottbarnham.com/blog/2008/08/21/extending-the-django-user-model-with-inheritance/
 [2]: http://www.b-list.org/weblog/2007/feb/20/about-model-subclassing/
 
-When I attended DjangoCon this year, I lamented that our flagship web property was difficult to test, and not fun to develop.  I figured DjangoCon was a way to placate me, and Django might mean something for some of the smaller projects at Mozilla.  However, Wil Clouser, our lead web developer, [announced development changes](http://micropipes.com/blog/2009/11/17/amo-development-changes-in-2010/) for [addons.mozilla.org][amo] (AMO) that says we'll be moving to Django.  
+When I attended DjangoCon this year, I lamented that our flagship web property was difficult to test, and not fun to develop.  I figured DjangoCon was a way to placate me, and Django might mean something for some of the smaller projects at Mozilla.  However, Wil Clouser, our lead web developer, [announced development changes](http://micropipes.com/blog/2009/11/17/amo-development-changes-in-2010/) for [addons.mozilla.org][amo] (AMO) that says we'll be moving to Django.
 
 Wil was open to Django and knew that's what we in the dev team wanted.  Jeff spawned our foray into a new AMO with [Zamboni][z].  I've been working on some grunt-work tasks inside and outside of Django.
 

@@ -1,8 +1,6 @@
 ---
-wordpress_id: 632
 layout: post
 title: "Advice for people seeking a mortgage "
-wordpress_url: http://davedash.com/?p=632
 tags: [mortgage, homes]
 ---
 So Katie and I decided to buy our first home (a condo) in California last year.  From our first house (in Minneapolis) the lessons we learned was to have your 20% saved up ahead of time before taking the plunge.  We're fans of traditional 30-year loans (or 15 year loans if you can swing it) as they are fairly predictable and 20% will buy your way out of mortgage insurance.
@@ -19,4 +17,9 @@ So Katie and I decided to buy our first home (a condo) in California last year. 
 * **Paper trail everything.** If you don't need the money to make closing, don't put it in your source account.  If you do need the money, show a paper trail.
 * **Have your loan officer make a schedule for you.** Our loan officer was horrible since we had no idea what needed to be done when.  So we would frantically get things together for her, and realize it was all for naught.  Once you have a desired closing date, tell them to give you deadlines for having things.
 
-While I wish I had this advice when I bought our place, we did manage to get all our ducks in a row and close without delay.
+While I wish I had this advice when I bought our place, we did manage to get
+all our ducks in a row and close without delay.
+
+**Update:** A translation in Belorussian (not sure why).
+
+[b]: http://pc.de/pages/seeking-a-mortgage-be

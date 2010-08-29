@@ -1,14 +1,11 @@
----
-wordpress_id: 125
 layout: post
 title: "Inbox Zero: Dave Dash style"
-wordpress_url: http://spindrop.us/2007/10/04/inbox-zero-dave-dash-style/
 site: spindrop
-tags: [spindrop, todo?, gtd, pending, email, inbox-zero, zero, inbox]
+tags: [spindrop, gtd, pending, email, inbox-zero, zero, inbox]
 ---
 [tags]inbox, zero, 0, inbox zero, gtd, email, pending, todo, gtd[/tags]
 
-[i]: http://www.43folders.com/izero/ 
+[i]: http://www.43folders.com/izero/
 [d]: http://dop.nu/
 [b]: http://en.wikipedia.org/wiki/Bacn_(electronic)
 
@@ -18,7 +15,7 @@ Guido from [Dutch Open Projects][d] asked me to explain, [Inbox Zero][i] and at 
 
 The principle is this: The inbox should be relatively clean, simple email should be taken care of now, and things that you need more time with should be sorted elsewhere.
 
-My inbox used to swell up close to 100 some emails, and then I realized... this inbox is pointless if it's full.  I'm never going to look at the older mails and it will slowly start growing and growing.  
+My inbox used to swell up close to 100 some emails, and then I realized... this inbox is pointless if it's full.  I'm never going to look at the older mails and it will slowly start growing and growing.
 
 <!--next page-->
 <!--more-->
@@ -47,7 +44,7 @@ All incoming mail should be handled ASAP.  Your goal every time you see your inb
 
 The nice thing about about developing OCD to keep your inbox clean is you go into unsubscribe mode.  Immediately you start chucking lists that you don't use or you at least filter them into folders which you can take on at your leisure.
 
-Some lists are worth keeping, some are classified as [bacn], stuff you don't want to deal with at the moment.  I put those in a [bacn] folder, along with Facebook, LiveJournal, LinkedIn and any other social network that I really want to read at some point, just not now.  
+Some lists are worth keeping, some are classified as [bacn], stuff you don't want to deal with at the moment.  I put those in a [bacn] folder, along with Facebook, LiveJournal, LinkedIn and any other social network that I really want to read at some point, just not now.
 
 ### Todo items
 
@@ -67,7 +64,7 @@ I am an avid Priceline user.  So I get emails if my bid was accepted, and final 
 
 ### Automatic Filtering
 
-Automatic filtering can help quite a bit.  Especially as you see email sent from robots, those can easily go into your bacn folder, or "check-in" reminders can go into your trips folder.  
+Automatic filtering can help quite a bit.  Especially as you see email sent from robots, those can easily go into your bacn folder, or "check-in" reminders can go into your trips folder.
 
 I use Gmail, so I can have email in multiple folders which makes it easy to be organized automatically, yet keep important emails still coming into my inbox.
 

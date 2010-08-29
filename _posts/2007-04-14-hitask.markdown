@@ -1,18 +1,13 @@
----
-wordpress_id: 91
 layout: post
 title: HiTask
-wordpress_url: http://spindrop.us/2007/04/14/hitask/
 site: spindrop
-tags: [spindrop, todo?, web2.0, hiTask, tasks, gtd]
+tags: [spindrop, web2.0, hiTask, tasks, gtd]
 ---
-[tags]gtd, tasks, hiTask, web2.0, todo?[/tags]
-
 [hiTask]: http://hitask.com/
 
 <span style="margin-left: 1em; float:right">![hiTask](http://www2.hitask.com/img/header_logo.gif)</span>
 
-I'm a sucker for organizing things, and the drag and drop demo on the [hiTask homepage][hiTask] won me over with the ability to connect tasks to schedules to people.  
+I'm a sucker for organizing things, and the drag and drop demo on the [hiTask homepage][hiTask] won me over with the ability to connect tasks to schedules to people.
 
 
 They create buckets where you can dump information.  For example, you can put things into various projects, or color it a certain way or organize things by when they need to get done.  You can even schedule with some precision *when* do something.
