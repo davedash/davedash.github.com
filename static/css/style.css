@@ -163,6 +163,12 @@ pre {
   margin-bottom: 1em;
 }
 
+.side {
+    float: left;
+    margin: 0 1em 1em 0;
+    border: solid 1px #000;
+}
+
 .c { color: #408080; font-style: italic } /* Comment */
 .err { border: 1px solid #FF0000 } /* Error */
 .k { color: #008000; font-weight: bold } /* Keyword */
