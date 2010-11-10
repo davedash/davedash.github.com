@@ -1,0 +1,64 @@
+---
+layout: post
+title: "The Kindle"
+tags: [ipad, kindle, gadgets, baby]
+published: false
+time: 1:27PM
+---
+[bt]: http://www.youtube.com/watch?v=706_yY4EJWI
+
+Katie bought me a new Kindle 3G and a few people asked why I didn't get an iPad
+instead.  Of course my answer is that I *have* an iPad.  It's just not a
+comparable device.
+
+The iPad is a general-purpose device that performs alright for web-browsing,
+reading, checking email, etc.  The Kindle on the other hand is very optimized
+for reading.
+
+In fact, if Katie wasn't nursing, our iPad might just be an overpriced
+[baby toy][bt].
+
+
+### Electronic Ink
+
+[b]: http://www.amazon.com/gp/product/0679762906/
+[e]: http://en.wikipedia.org/wiki/E_Ink
+
+While in school and visiting India, I read a book called [*Being Digital*][b]
+by Nicholas Negroponte of the MIT Media labs (which is ironically not available
+for the Kindle).  Negroponte talked about a lot of fascinating new technologies
+that they were working on -- the one that seemed the most futuristic was
+"electronic ink."
+
+[Electronic Ink][e] was ink on paper that could be moved around electronically.
+This was fascinating, at the time I had been a teenager who would stare at a
+CRT monitor for hours into the night.  The idea that there could be a future
+where we'd be looking at paper-like displays seemed like a godsend.
+
+Of course it was many years before anything came to market.
+
+### My observations
+
+* It's [reasonably priced](http://www.youtube.com/watch?v=HGmRKSds9OY).
+* It feels like it's from an alternate future.  The fact that it's gray-scale
+  and it can connect to the Internet makes it feel like a prop from a 60s
+  sci-fi movie.
+* It doesn't hurt my eyes.
+* The buttons to turn the page are well placed.
+* I like to see how far along I've come in a book and how far I've read at a
+  given moment.  The progress bar tells me all of this.
+* It's really convenient to switch from one book to the next based on my
+  attention span.
+* Bookmarking is easy, finding your bookmarks is awkward.
+* It's light enough to hold with one hand.
+* The dictionary is very convenient... I wish my web browser told me what each
+  word meant if I hovered over it.
+* Being able to resize text and reorient the screen is handy when walking.
+* I can put Siddhartha to sleep by wearing a Moby wrap, and going for a walk
+  and reading.
+* The 3G model is only $50 more which is worth it for the off chance that you
+  might want a book and not have Wifi or your computer handy.
+
+All in all this is probably my favorite gadget.  I've only recently been using
+it less since I have a brand new phone, but I think the Kindle will hold my
+attention for longer.
