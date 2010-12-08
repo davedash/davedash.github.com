@@ -155,12 +155,14 @@ dt {
     font-weight: bold;
 }
 
+div.highlight {
+    background: #000;
+    padding: 1em;
+}
+
 pre {
-  background: black;
   color: white;
-  overflow: auto;
   font-size: 81%;
-  margin-bottom: 1em;
 }
 
 .side {
