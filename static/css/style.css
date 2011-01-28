@@ -163,6 +163,7 @@ div.highlight {
 pre {
   color: white;
   font-size: 81%;
+  background: #000;
 }
 
 .side {
