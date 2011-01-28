@@ -114,8 +114,12 @@ h3 {
     list-style: upper-alpha
 }
 
-strong {
+strong, strong em {
     font-weight: bold;
+}
+
+em {
+    font-style: italic;
 }
 
 blockquote {

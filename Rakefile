@@ -22,6 +22,10 @@ task :deploy do
     Rake::Task["rsync"].invoke
 end
 
+task :sync_static do
+    sh "rsync -a static/ _site/static/"
+    Rake::Task["rsync"].invoke
+end
 task :cloud do
     puts 'Generating tag cloud...'
     require 'rubygems'
