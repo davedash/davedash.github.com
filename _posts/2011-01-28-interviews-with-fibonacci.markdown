@@ -20,7 +20,7 @@ I use questions relating to the Fibonacci sequence.  E.g.:
 * Print `n` digits of the Fibonacci sequence
 * Give me a `list` (if the person knows python) of `n` digits of the Fibonacci
   sequence.
-* In rare casesPrint the `n`th digit of Fibonacci.
+* In rare cases, Print the `n`th digit of Fibonacci.
 
 In some cases I dumb it down... a lot:
 
@@ -99,7 +99,7 @@ assurance.
 
 ### How do you think?
 
-I don't ask this problem, because I'm dying to know the 12th digit of the
+I don't ask this problem, because I'm dying to know the 12th number of the
 fibonacci sequence.  I already know that's 144.  I want to know how people
 solve problems.  How do they take a set of requirements and implement them.
 
