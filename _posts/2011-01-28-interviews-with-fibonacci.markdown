@@ -17,14 +17,15 @@ they know.  Then I give them some time to write some code.
 
 I use questions relating to the Fibonacci sequence.  E.g.:
 
-* Print `n` digits of the Fibonacci sequence
-* Give me a `list` (if the person knows python) of `n` digits of the Fibonacci
+* Print `n` numbers of the Fibonacci sequence
+* Give me a `list` (if the person knows python) of `n` numbers of the Fibonacci
   sequence.
-* In rare cases, Print the `n`th digit of Fibonacci.
+* In rare cases, Print the `n`th numbers of Fibonacci.
 
 In some cases I dumb it down... a lot:
 
-> Give me `n` digits.  In other words `f(5) = [1 1 1 1 1]`
+> Give me `n` integers.  In other words `f(5) = [1 1 1 1 1]`.  I just want to
+> know if you can write a `for`-loop.
 
 Here's the sequence:
 
@@ -41,7 +42,7 @@ they're trying.
 ### This is a low bar
 
 A good **number of people solve this with no issues**.  They calculate the
-sequence and print out the digits, or store them in a `list`.  I run the code,
+sequence and print out the numbers, or store them in a `list`.  I run the code,
 we optimize it slightly, we move on.
 
 Unfortunately, **I expect *everyone* I interview to easily solve this**.  Quite
@@ -106,8 +107,8 @@ solve problems.  How do they take a set of requirements and implement them.
 Our jobs as software developers are to take requirements or problems, find a
 suitable solution and write code to solve it.
 
-This is my approach.  I know the first digit is 1 and the next digit is 1,
-therefore I can store those and get the third digit by adding them.  I shift
+This is my approach.  I know the first number is 1 and the next number is 1,
+therefore I can store those and get the third number by adding them.  I shift
 the variables around in a for loop and I can get this:
 
 	cur = next = 1
