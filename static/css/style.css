@@ -159,16 +159,15 @@ dt {
     font-weight: bold;
 }
 
-div.highlight {
-    background: #000;
-    padding: 1em;
+pre {
+	background-color: #f0f0f0;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+	font-size: 13px;
+	font-family: Bitstream Vera Sans Mono,monospace;
 }
 
-pre {
-  color: white;
-  font-size: 81%;
-  background: #000;
-}
 
 .side {
     float: left;
@@ -176,6 +175,7 @@ pre {
     border: solid 1px #000;
 }
 
+.hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */
 .err { border: 1px solid #FF0000 } /* Error */
 .k { color: #008000; font-weight: bold } /* Keyword */
@@ -236,4 +236,3 @@ pre {
 .vg { color: #19177C } /* Name.Variable.Global */
 .vi { color: #19177C } /* Name.Variable.Instance */
 .il { color: #666666 } /* Literal.Number.Integer.Long */
-
