@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "snippets"
+tag: snippets
+type: "Snippets"
+---
+    <h2 id="snippets">Entries tagged "snippets"</h2>
+
+    <ol>
+      {% for post in site.tags['snippets'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "input"
+tag: input
+type: "Input"
+---
+    <h2 id="input">Entries tagged "input"</h2>
+
+    <ol>
+      {% for post in site.tags['input'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

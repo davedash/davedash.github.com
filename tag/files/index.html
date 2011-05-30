@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "files"
+tag: files
+type: "Files"
+---
+    <h2 id="files">Entries tagged "files"</h2>
+
+    <ol>
+      {% for post in site.tags['files'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "TV"
+tag: TV
+type: "TV"
+---
+    <h2 id="TV">Entries tagged "TV"</h2>
+
+    <ol>
+      {% for post in site.tags['TV'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

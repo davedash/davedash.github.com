@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "interviews"
+tag: interviews
+type: "Interviews"
+---
+    <h2 id="interviews">Entries tagged "interviews"</h2>
+
+    <ol>
+      {% for post in site.tags['interviews'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

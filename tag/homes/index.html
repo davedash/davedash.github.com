@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "homes"
+tag: homes
+type: "Homes"
+---
+    <h2 id="homes">Entries tagged "homes"</h2>
+
+    <ol>
+      {% for post in site.tags['homes'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

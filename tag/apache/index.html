@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "apache"
+tag: apache
+type: "Apache"
+---
+    <h2 id="apache">Entries tagged "apache"</h2>
+
+    <ol>
+      {% for post in site.tags['apache'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

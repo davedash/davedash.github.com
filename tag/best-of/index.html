@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "best-of"
+tag: best-of
+type: "Best-Of"
+---
+    <h2 id="best-of">Entries tagged "best-of"</h2>
+
+    <ol>
+      {% for post in site.tags['best-of'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

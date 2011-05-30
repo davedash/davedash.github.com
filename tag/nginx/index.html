@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "nginx"
+tag: nginx
+type: "Nginx"
+---
+    <h2 id="nginx">Entries tagged "nginx"</h2>
+
+    <ol>
+      {% for post in site.tags['nginx'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

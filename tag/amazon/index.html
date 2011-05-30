@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "amazon"
+tag: amazon
+type: "Amazon"
+---
+    <h2 id="amazon">Entries tagged "amazon"</h2>
+
+    <ol>
+      {% for post in site.tags['amazon'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

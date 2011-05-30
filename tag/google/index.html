@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "google"
+tag: google
+type: "Google"
+---
+    <h2 id="google">Entries tagged "google"</h2>
+
+    <ol>
+      {% for post in site.tags['google'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "banking"
+tag: banking
+type: "Banking"
+---
+    <h2 id="banking">Entries tagged "banking"</h2>
+
+    <ol>
+      {% for post in site.tags['banking'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

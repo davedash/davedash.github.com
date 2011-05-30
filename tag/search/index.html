@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "search"
+tag: search
+type: "Search"
+---
+    <h2 id="search">Entries tagged "search"</h2>
+
+    <ol>
+      {% for post in site.tags['search'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

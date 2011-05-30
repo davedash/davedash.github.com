@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "services"
+tag: services
+type: "Services"
+---
+    <h2 id="services">Entries tagged "services"</h2>
+
+    <ol>
+      {% for post in site.tags['services'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

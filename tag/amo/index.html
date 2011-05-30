@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "amo"
+tag: amo
+type: "Amo"
+---
+    <h2 id="amo">Entries tagged "amo"</h2>
+
+    <ol>
+      {% for post in site.tags['amo'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

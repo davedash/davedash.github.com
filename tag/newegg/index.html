@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "newegg"
+tag: newegg
+type: "Newegg"
+---
+    <h2 id="newegg">Entries tagged "newegg"</h2>
+
+    <ol>
+      {% for post in site.tags['newegg'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

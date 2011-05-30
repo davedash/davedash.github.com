@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "facebook"
+tag: facebook
+type: "Facebook"
+---
+    <h2 id="facebook">Entries tagged "facebook"</h2>
+
+    <ol>
+      {% for post in site.tags['facebook'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

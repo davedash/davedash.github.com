@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "delicious"
+tag: delicious
+type: "Delicious"
+---
+    <h2 id="delicious">Entries tagged "delicious"</h2>
+
+    <ol>
+      {% for post in site.tags['delicious'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

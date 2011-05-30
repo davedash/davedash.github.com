@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "contests"
+tag: contests
+type: "Contests"
+---
+    <h2 id="contests">Entries tagged "contests"</h2>
+
+    <ol>
+      {% for post in site.tags['contests'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

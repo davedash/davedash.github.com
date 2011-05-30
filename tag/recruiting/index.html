@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "recruiting"
+tag: recruiting
+type: "Recruiting"
+---
+    <h2 id="recruiting">Entries tagged "recruiting"</h2>
+
+    <ol>
+      {% for post in site.tags['recruiting'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

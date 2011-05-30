@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "ajax"
+tag: ajax
+type: "Ajax"
+---
+    <h2 id="ajax">Entries tagged "ajax"</h2>
+
+    <ol>
+      {% for post in site.tags['ajax'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

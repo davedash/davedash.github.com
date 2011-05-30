@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "autocomplete"
+tag: autocomplete
+type: "Autocomplete"
+---
+    <h2 id="autocomplete">Entries tagged "autocomplete"</h2>
+
+    <ol>
+      {% for post in site.tags['autocomplete'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

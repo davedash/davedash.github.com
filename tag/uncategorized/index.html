@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "Uncategorized"
+tag: Uncategorized
+type: "Uncategorized"
+---
+    <h2 id="Uncategorized">Entries tagged "Uncategorized"</h2>
+
+    <ol>
+      {% for post in site.tags['Uncategorized'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

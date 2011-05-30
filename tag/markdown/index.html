@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "markdown"
+tag: markdown
+type: "Markdown"
+---
+    <h2 id="markdown">Entries tagged "markdown"</h2>
+
+    <ol>
+      {% for post in site.tags['markdown'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

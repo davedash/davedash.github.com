@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "symfony"
+tag: symfony
+type: "Symfony"
+---
+    <h2 id="symfony">Entries tagged "symfony"</h2>
+
+    <ol>
+      {% for post in site.tags['symfony'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

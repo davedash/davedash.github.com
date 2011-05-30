@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "poop"
+tag: poop
+type: "Poop"
+---
+    <h2 id="poop">Entries tagged "poop"</h2>
+
+    <ol>
+      {% for post in site.tags['poop'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "puzzle"
+tag: puzzle
+type: "Puzzle"
+---
+    <h2 id="puzzle">Entries tagged "puzzle"</h2>
+
+    <ol>
+      {% for post in site.tags['puzzle'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

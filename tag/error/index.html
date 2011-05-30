@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "error"
+tag: error
+type: "Error"
+---
+    <h2 id="error">Entries tagged "error"</h2>
+
+    <ol>
+      {% for post in site.tags['error'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

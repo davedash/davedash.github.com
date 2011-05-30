@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "qa"
+tag: qa
+type: "Qa"
+---
+    <h2 id="qa">Entries tagged "qa"</h2>
+
+    <ol>
+      {% for post in site.tags['qa'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

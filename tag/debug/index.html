@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "debug"
+tag: debug
+type: "Debug"
+---
+    <h2 id="debug">Entries tagged "debug"</h2>
+
+    <ol>
+      {% for post in site.tags['debug'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

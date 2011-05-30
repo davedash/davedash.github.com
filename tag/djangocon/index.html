@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "djangocon"
+tag: djangocon
+type: "Djangocon"
+---
+    <h2 id="djangocon">Entries tagged "djangocon"</h2>
+
+    <ol>
+      {% for post in site.tags['djangocon'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

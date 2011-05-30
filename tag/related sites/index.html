@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "Related Sites"
+tag: Related Sites
+type: "Related Sites"
+---
+    <h2 id="Related Sites">Entries tagged "Related Sites"</h2>
+
+    <ol>
+      {% for post in site.tags['Related Sites'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

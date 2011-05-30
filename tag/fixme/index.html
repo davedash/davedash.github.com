@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "fixme"
+tag: fixme
+type: "Fixme"
+---
+    <h2 id="fixme">Entries tagged "fixme"</h2>
+
+    <ol>
+      {% for post in site.tags['fixme'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

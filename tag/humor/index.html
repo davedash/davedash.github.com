@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "humor"
+tag: humor
+type: "Humor"
+---
+    <h2 id="humor">Entries tagged "humor"</h2>
+
+    <ol>
+      {% for post in site.tags['humor'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

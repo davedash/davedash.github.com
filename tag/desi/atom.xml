@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Dave Dash</title>
+ <link href="http://davedash.com/tag/desi/atom.xml" rel="self"/>
+ <link href="http://davedash.com/tag/desi"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://davedash.com/</id>
+ <author>
+   <name>Dave Dash</name>
+   <email>dd+atom1@davedash.com</email>
+ </author>
+
+ {% for post in site.tags['desi'] %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://davedash.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://davedash.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>

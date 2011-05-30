@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "__FILE__"
+tag: __FILE__
+type: "__FILE__"
+---
+    <h2 id="__FILE__">Entries tagged "__FILE__"</h2>
+
+    <ol>
+      {% for post in site.tags['__FILE__'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

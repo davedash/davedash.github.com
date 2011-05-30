@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "firefox"
+tag: firefox
+type: "Firefox"
+---
+    <h2 id="firefox">Entries tagged "firefox"</h2>
+
+    <ol>
+      {% for post in site.tags['firefox'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "yahoo!"
+tag: yahoo!
+type: "Yahoo!"
+---
+    <h2 id="yahoo!">Entries tagged "yahoo!"</h2>
+
+    <ol>
+      {% for post in site.tags['yahoo!'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

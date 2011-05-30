@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "web development"
+tag: web development
+type: "Web Development"
+---
+    <h2 id="web development">Entries tagged "web development"</h2>
+
+    <ol>
+      {% for post in site.tags['web development'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

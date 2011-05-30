@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "apple"
+tag: apple
+type: "Apple"
+---
+    <h2 id="apple">Entries tagged "apple"</h2>
+
+    <ol>
+      {% for post in site.tags['apple'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

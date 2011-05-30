@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "whobar"
+tag: whobar
+type: "Whobar"
+---
+    <h2 id="whobar">Entries tagged "whobar"</h2>
+
+    <ol>
+      {% for post in site.tags['whobar'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

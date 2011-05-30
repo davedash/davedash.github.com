@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "politics"
+tag: politics
+type: "Politics"
+---
+    <h2 id="politics">Entries tagged "politics"</h2>
+
+    <ol>
+      {% for post in site.tags['politics'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "background"
+tag: background
+type: "Background"
+---
+    <h2 id="background">Entries tagged "background"</h2>
+
+    <ol>
+      {% for post in site.tags['background'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

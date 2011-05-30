@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "chat"
+tag: chat
+type: "Chat"
+---
+    <h2 id="chat">Entries tagged "chat"</h2>
+
+    <ol>
+      {% for post in site.tags['chat'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

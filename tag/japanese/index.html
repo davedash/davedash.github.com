@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "japanese"
+tag: japanese
+type: "Japanese"
+---
+    <h2 id="japanese">Entries tagged "japanese"</h2>
+
+    <ol>
+      {% for post in site.tags['japanese'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "del.icio.us"
+tag: del.icio.us
+type: "Del.Icio.Us"
+---
+    <h2 id="del.icio.us">Entries tagged "del.icio.us"</h2>
+
+    <ol>
+      {% for post in site.tags['del.icio.us'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

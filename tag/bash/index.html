@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "bash"
+tag: bash
+type: "Bash"
+---
+    <h2 id="bash">Entries tagged "bash"</h2>
+
+    <ol>
+      {% for post in site.tags['bash'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

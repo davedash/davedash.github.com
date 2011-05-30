@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "software"
+tag: software
+type: "Software"
+---
+    <h2 id="software">Entries tagged "software"</h2>
+
+    <ol>
+      {% for post in site.tags['software'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "writing"
+tag: writing
+type: "Writing"
+---
+    <h2 id="writing">Entries tagged "writing"</h2>
+
+    <ol>
+      {% for post in site.tags['writing'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

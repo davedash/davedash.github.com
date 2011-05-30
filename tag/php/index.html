@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "php"
+tag: php
+type: "Php"
+---
+    <h2 id="php">Entries tagged "php"</h2>
+
+    <ol>
+      {% for post in site.tags['php'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

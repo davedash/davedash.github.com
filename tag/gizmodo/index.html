@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "gizmodo"
+tag: gizmodo
+type: "Gizmodo"
+---
+    <h2 id="gizmodo">Entries tagged "gizmodo"</h2>
+
+    <ol>
+      {% for post in site.tags['gizmodo'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

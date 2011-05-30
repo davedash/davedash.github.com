@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "production"
+tag: production
+type: "Production"
+---
+    <h2 id="production">Entries tagged "production"</h2>
+
+    <ol>
+      {% for post in site.tags['production'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "slugs"
+tag: slugs
+type: "Slugs"
+---
+    <h2 id="slugs">Entries tagged "slugs"</h2>
+
+    <ol>
+      {% for post in site.tags['slugs'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

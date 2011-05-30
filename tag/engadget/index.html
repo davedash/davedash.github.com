@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "engadget"
+tag: engadget
+type: "Engadget"
+---
+    <h2 id="engadget">Entries tagged "engadget"</h2>
+
+    <ol>
+      {% for post in site.tags['engadget'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

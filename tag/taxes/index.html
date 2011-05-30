@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "taxes"
+tag: taxes
+type: "Taxes"
+---
+    <h2 id="taxes">Entries tagged "taxes"</h2>
+
+    <ol>
+      {% for post in site.tags['taxes'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

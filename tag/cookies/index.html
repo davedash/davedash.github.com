@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "cookies"
+tag: cookies
+type: "Cookies"
+---
+    <h2 id="cookies">Entries tagged "cookies"</h2>
+
+    <ol>
+      {% for post in site.tags['cookies'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "friends"
+tag: friends
+type: "Friends"
+---
+    <h2 id="friends">Entries tagged "friends"</h2>
+
+    <ol>
+      {% for post in site.tags['friends'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

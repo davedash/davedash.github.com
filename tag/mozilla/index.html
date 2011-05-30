@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "mozilla"
+tag: mozilla
+type: "Mozilla"
+---
+    <h2 id="mozilla">Entries tagged "mozilla"</h2>
+
+    <ol>
+      {% for post in site.tags['mozilla'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

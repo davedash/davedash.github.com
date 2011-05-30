@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "iphone"
+tag: iphone
+type: "Iphone"
+---
+    <h2 id="iphone">Entries tagged "iphone"</h2>
+
+    <ol>
+      {% for post in site.tags['iphone'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

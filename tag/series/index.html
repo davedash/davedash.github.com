@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "series"
+tag: series
+type: "Series"
+---
+    <h2 id="series">Entries tagged "series"</h2>
+
+    <ol>
+      {% for post in site.tags['series'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

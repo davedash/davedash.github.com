@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "technology"
+tag: technology
+type: "Technology"
+---
+    <h2 id="technology">Entries tagged "technology"</h2>
+
+    <ol>
+      {% for post in site.tags['technology'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

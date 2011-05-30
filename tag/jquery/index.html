@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "jQuery"
+tag: jQuery
+type: "JQuery"
+---
+    <h2 id="jQuery">Entries tagged "jQuery"</h2>
+
+    <ol>
+      {% for post in site.tags['jQuery'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

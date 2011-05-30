@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "consumer"
+tag: consumer
+type: "Consumer"
+---
+    <h2 id="consumer">Entries tagged "consumer"</h2>
+
+    <ol>
+      {% for post in site.tags['consumer'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

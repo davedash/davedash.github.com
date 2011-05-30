@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "feeding"
+tag: feeding
+type: "Feeding"
+---
+    <h2 id="feeding">Entries tagged "feeding"</h2>
+
+    <ol>
+      {% for post in site.tags['feeding'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

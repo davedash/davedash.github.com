@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "startups"
+tag: startups
+type: "Startups"
+---
+    <h2 id="startups">Entries tagged "startups"</h2>
+
+    <ol>
+      {% for post in site.tags['startups'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

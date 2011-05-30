@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "wordpress"
+tag: wordpress
+type: "Wordpress"
+---
+    <h2 id="wordpress">Entries tagged "wordpress"</h2>
+
+    <ol>
+      {% for post in site.tags['wordpress'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "view"
+tag: view
+type: "View"
+---
+    <h2 id="view">Entries tagged "view"</h2>
+
+    <ol>
+      {% for post in site.tags['view'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

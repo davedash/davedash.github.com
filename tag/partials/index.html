@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "partials"
+tag: partials
+type: "Partials"
+---
+    <h2 id="partials">Entries tagged "partials"</h2>
+
+    <ol>
+      {% for post in site.tags['partials'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

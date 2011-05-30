@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "travel"
+tag: travel
+type: "Travel"
+---
+    <h2 id="travel">Entries tagged "travel"</h2>
+
+    <ol>
+      {% for post in site.tags['travel'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

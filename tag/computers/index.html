@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "computers"
+tag: computers
+type: "Computers"
+---
+    <h2 id="computers">Entries tagged "computers"</h2>
+
+    <ol>
+      {% for post in site.tags['computers'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

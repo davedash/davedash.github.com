@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "string"
+tag: string
+type: "String"
+---
+    <h2 id="string">Entries tagged "string"</h2>
+
+    <ol>
+      {% for post in site.tags['string'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "apps"
+tag: apps
+type: "Apps"
+---
+    <h2 id="apps">Entries tagged "apps"</h2>
+
+    <ol>
+      {% for post in site.tags['apps'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

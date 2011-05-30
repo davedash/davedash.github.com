@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "buster"
+tag: buster
+type: "Buster"
+---
+    <h2 id="buster">Entries tagged "buster"</h2>
+
+    <ol>
+      {% for post in site.tags['buster'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "smarty"
+tag: smarty
+type: "Smarty"
+---
+    <h2 id="smarty">Entries tagged "smarty"</h2>
+
+    <ol>
+      {% for post in site.tags['smarty'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

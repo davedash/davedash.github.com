@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "movies"
+tag: movies
+type: "Movies"
+---
+    <h2 id="movies">Entries tagged "movies"</h2>
+
+    <ol>
+      {% for post in site.tags['movies'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

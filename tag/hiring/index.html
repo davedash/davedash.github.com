@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "hiring"
+tag: hiring
+type: "Hiring"
+---
+    <h2 id="hiring">Entries tagged "hiring"</h2>
+
+    <ol>
+      {% for post in site.tags['hiring'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

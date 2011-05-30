@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "hacks"
+tag: hacks
+type: "Hacks"
+---
+    <h2 id="hacks">Entries tagged "hacks"</h2>
+
+    <ol>
+      {% for post in site.tags['hacks'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

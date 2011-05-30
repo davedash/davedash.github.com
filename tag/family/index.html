@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "family"
+tag: family
+type: "Family"
+---
+    <h2 id="family">Entries tagged "family"</h2>
+
+    <ol>
+      {% for post in site.tags['family'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

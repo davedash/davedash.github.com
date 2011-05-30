@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "admin"
+tag: admin
+type: "Admin"
+---
+    <h2 id="admin">Entries tagged "admin"</h2>
+
+    <ol>
+      {% for post in site.tags['admin'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

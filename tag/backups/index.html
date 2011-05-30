@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "backups"
+tag: backups
+type: "Backups"
+---
+    <h2 id="backups">Entries tagged "backups"</h2>
+
+    <ol>
+      {% for post in site.tags['backups'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

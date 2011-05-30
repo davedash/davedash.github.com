@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "tutorial"
+tag: tutorial
+type: "Tutorial"
+---
+    <h2 id="tutorial">Entries tagged "tutorial"</h2>
+
+    <ol>
+      {% for post in site.tags['tutorial'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

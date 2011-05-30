@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "music"
+tag: music
+type: "Music"
+---
+    <h2 id="music">Entries tagged "music"</h2>
+
+    <ol>
+      {% for post in site.tags['music'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

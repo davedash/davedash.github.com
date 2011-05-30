@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "flash"
+tag: flash
+type: "Flash"
+---
+    <h2 id="flash">Entries tagged "flash"</h2>
+
+    <ol>
+      {% for post in site.tags['flash'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "food"
+tag: food
+type: "Food"
+---
+    <h2 id="food">Entries tagged "food"</h2>
+
+    <ol>
+      {% for post in site.tags['food'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "mock"
+tag: mock
+type: "Mock"
+---
+    <h2 id="mock">Entries tagged "mock"</h2>
+
+    <ol>
+      {% for post in site.tags['mock'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

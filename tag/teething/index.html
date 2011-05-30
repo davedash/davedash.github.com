@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "teething"
+tag: teething
+type: "Teething"
+---
+    <h2 id="teething">Entries tagged "teething"</h2>
+
+    <ol>
+      {% for post in site.tags['teething'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

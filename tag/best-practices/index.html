@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "best-practices"
+tag: best-practices
+type: "Best-Practices"
+---
+    <h2 id="best-practices">Entries tagged "best-practices"</h2>
+
+    <ol>
+      {% for post in site.tags['best-practices'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

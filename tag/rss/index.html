@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "rss"
+tag: rss
+type: "Rss"
+---
+    <h2 id="rss">Entries tagged "rss"</h2>
+
+    <ol>
+      {% for post in site.tags['rss'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

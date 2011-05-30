@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "learning"
+tag: learning
+type: "Learning"
+---
+    <h2 id="learning">Entries tagged "learning"</h2>
+
+    <ol>
+      {% for post in site.tags['learning'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

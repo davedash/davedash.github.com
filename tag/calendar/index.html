@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "calendar"
+tag: calendar
+type: "Calendar"
+---
+    <h2 id="calendar">Entries tagged "calendar"</h2>
+
+    <ol>
+      {% for post in site.tags['calendar'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

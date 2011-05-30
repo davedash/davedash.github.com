@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "email"
+tag: email
+type: "Email"
+---
+    <h2 id="email">Entries tagged "email"</h2>
+
+    <ol>
+      {% for post in site.tags['email'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

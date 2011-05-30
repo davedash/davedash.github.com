@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "fixtures"
+tag: fixtures
+type: "Fixtures"
+---
+    <h2 id="fixtures">Entries tagged "fixtures"</h2>
+
+    <ol>
+      {% for post in site.tags['fixtures'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

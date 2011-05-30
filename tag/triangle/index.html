@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "triangle"
+tag: triangle
+type: "Triangle"
+---
+    <h2 id="triangle">Entries tagged "triangle"</h2>
+
+    <ol>
+      {% for post in site.tags['triangle'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "california"
+tag: california
+type: "California"
+---
+    <h2 id="california">Entries tagged "california"</h2>
+
+    <ol>
+      {% for post in site.tags['california'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

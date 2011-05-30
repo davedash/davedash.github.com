@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "plugins"
+tag: plugins
+type: "Plugins"
+---
+    <h2 id="plugins">Entries tagged "plugins"</h2>
+
+    <ol>
+      {% for post in site.tags['plugins'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

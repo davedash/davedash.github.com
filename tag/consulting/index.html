@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "consulting"
+tag: consulting
+type: "Consulting"
+---
+    <h2 id="consulting">Entries tagged "consulting"</h2>
+
+    <ol>
+      {% for post in site.tags['consulting'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "server"
+tag: server
+type: "Server"
+---
+    <h2 id="server">Entries tagged "server"</h2>
+
+    <ol>
+      {% for post in site.tags['server'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

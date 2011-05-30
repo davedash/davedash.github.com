@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "chicago"
+tag: chicago
+type: "Chicago"
+---
+    <h2 id="chicago">Entries tagged "chicago"</h2>
+
+    <ol>
+      {% for post in site.tags['chicago'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

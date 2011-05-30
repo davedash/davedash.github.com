@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "smiling"
+tag: smiling
+type: "Smiling"
+---
+    <h2 id="smiling">Entries tagged "smiling"</h2>
+
+    <ol>
+      {% for post in site.tags['smiling'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "rambling"
+tag: rambling
+type: "Rambling"
+---
+    <h2 id="rambling">Entries tagged "rambling"</h2>
+
+    <ol>
+      {% for post in site.tags['rambling'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

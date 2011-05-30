@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "blog"
+tag: blog
+type: "Blog"
+---
+    <h2 id="blog">Entries tagged "blog"</h2>
+
+    <ol>
+      {% for post in site.tags['blog'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

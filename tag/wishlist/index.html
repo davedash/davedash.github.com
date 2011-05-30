@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "wishlist"
+tag: wishlist
+type: "Wishlist"
+---
+    <h2 id="wishlist">Entries tagged "wishlist"</h2>
+
+    <ol>
+      {% for post in site.tags['wishlist'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

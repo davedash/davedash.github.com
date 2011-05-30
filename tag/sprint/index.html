@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "sprint"
+tag: sprint
+type: "Sprint"
+---
+    <h2 id="sprint">Entries tagged "sprint"</h2>
+
+    <ol>
+      {% for post in site.tags['sprint'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

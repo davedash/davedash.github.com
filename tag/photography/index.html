@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "photography"
+tag: photography
+type: "Photography"
+---
+    <h2 id="photography">Entries tagged "photography"</h2>
+
+    <ol>
+      {% for post in site.tags['photography'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

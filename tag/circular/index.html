@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "circular"
+tag: circular
+type: "Circular"
+---
+    <h2 id="circular">Entries tagged "circular"</h2>
+
+    <ol>
+      {% for post in site.tags['circular'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

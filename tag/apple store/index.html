@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "apple store"
+tag: apple store
+type: "Apple Store"
+---
+    <h2 id="apple store">Entries tagged "apple store"</h2>
+
+    <ol>
+      {% for post in site.tags['apple store'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

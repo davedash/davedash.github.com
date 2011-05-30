@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "camp"
+tag: camp
+type: "Camp"
+---
+    <h2 id="camp">Entries tagged "camp"</h2>
+
+    <ol>
+      {% for post in site.tags['camp'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

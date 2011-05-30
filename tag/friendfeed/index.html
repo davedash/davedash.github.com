@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "friendfeed"
+tag: friendfeed
+type: "Friendfeed"
+---
+    <h2 id="friendfeed">Entries tagged "friendfeed"</h2>
+
+    <ol>
+      {% for post in site.tags['friendfeed'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

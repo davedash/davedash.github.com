@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "highschool"
+tag: highschool
+type: "Highschool"
+---
+    <h2 id="highschool">Entries tagged "highschool"</h2>
+
+    <ol>
+      {% for post in site.tags['highschool'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

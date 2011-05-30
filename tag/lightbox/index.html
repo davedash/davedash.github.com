@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "lightbox"
+tag: lightbox
+type: "Lightbox"
+---
+    <h2 id="lightbox">Entries tagged "lightbox"</h2>
+
+    <ol>
+      {% for post in site.tags['lightbox'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

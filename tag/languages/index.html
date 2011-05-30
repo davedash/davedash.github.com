@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "languages"
+tag: languages
+type: "Languages"
+---
+    <h2 id="languages">Entries tagged "languages"</h2>
+
+    <ol>
+      {% for post in site.tags['languages'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

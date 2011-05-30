@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "barcamp"
+tag: barcamp
+type: "Barcamp"
+---
+    <h2 id="barcamp">Entries tagged "barcamp"</h2>
+
+    <ol>
+      {% for post in site.tags['barcamp'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

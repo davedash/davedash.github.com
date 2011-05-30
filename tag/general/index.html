@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "general"
+tag: general
+type: "General"
+---
+    <h2 id="general">Entries tagged "general"</h2>
+
+    <ol>
+      {% for post in site.tags['general'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

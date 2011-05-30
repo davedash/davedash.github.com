@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "crawling"
+tag: crawling
+type: "Crawling"
+---
+    <h2 id="crawling">Entries tagged "crawling"</h2>
+
+    <ol>
+      {% for post in site.tags['crawling'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "video"
+tag: video
+type: "Video"
+---
+    <h2 id="video">Entries tagged "video"</h2>
+
+    <ol>
+      {% for post in site.tags['video'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

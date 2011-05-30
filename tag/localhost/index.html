@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "localhost"
+tag: localhost
+type: "Localhost"
+---
+    <h2 id="localhost">Entries tagged "localhost"</h2>
+
+    <ol>
+      {% for post in site.tags['localhost'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

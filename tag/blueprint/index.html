@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "blueprint"
+tag: blueprint
+type: "Blueprint"
+---
+    <h2 id="blueprint">Entries tagged "blueprint"</h2>
+
+    <ol>
+      {% for post in site.tags['blueprint'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

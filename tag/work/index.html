@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "work"
+tag: work
+type: "Work"
+---
+    <h2 id="work">Entries tagged "work"</h2>
+
+    <ol>
+      {% for post in site.tags['work'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

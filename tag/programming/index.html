@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "programming"
+tag: programming
+type: "Programming"
+---
+    <h2 id="programming">Entries tagged "programming"</h2>
+
+    <ol>
+      {% for post in site.tags['programming'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

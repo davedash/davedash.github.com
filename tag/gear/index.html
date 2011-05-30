@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "gear"
+tag: gear
+type: "Gear"
+---
+    <h2 id="gear">Entries tagged "gear"</h2>
+
+    <ol>
+      {% for post in site.tags['gear'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

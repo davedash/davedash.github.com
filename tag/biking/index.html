@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "biking"
+tag: biking
+type: "Biking"
+---
+    <h2 id="biking">Entries tagged "biking"</h2>
+
+    <ol>
+      {% for post in site.tags['biking'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>
