@@ -17,8 +17,8 @@ its challenges but the ride has become enjoyable.
 </div>
 
 He's heavier, taller, easier to deal with, can take food from multiple sources,
-mobile.  Overall though he's a lot of fun.  I enjoy my time with him in the
-evenings and weekends, and we even get to do "guy stuff" like grocery shopping
+mobile.  Overall, he's a lot of fun.  I enjoy my time with him whenever I can, 
+and we even get to do "guy stuff" like grocery shopping
 and running errands.
 
 He brings us and others a lot of joy and I'm sure he will continue to do so.
