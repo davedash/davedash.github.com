@@ -15,6 +15,7 @@ its challenges but the ride has become enjoyable.
    <img src="http://farm4.static.flickr.com/3651/5779041105_20ac3805e8_m.jpg" 
         width="240" height="161" 
         alt="Siddhartha studying his new book" />
+</a>
 </div>
 
 He's heavier, taller, easier to deal with, can take food from multiple sources,
