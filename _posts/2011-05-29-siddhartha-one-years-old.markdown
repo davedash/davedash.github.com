@@ -1,4 +1,3 @@
----
 layout: post
 title: Siddhartha: The One Year Old
 tags: [baby, sibi, toddler]
