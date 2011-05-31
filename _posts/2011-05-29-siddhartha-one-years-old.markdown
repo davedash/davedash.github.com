@@ -1,5 +1,6 @@
+---
 layout: post
-title: Siddhartha: The One Year Old
+title: "Siddhartha: The One Year Old"
 tags: [baby, sibi, toddler]
 published: true
 time: 9:59:PM
