@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "inbox"
+tag: inbox
+type: "Inbox"
+---
+    <h2 id="inbox">Entries tagged "inbox"</h2>
+
+    <ol>
+      {% for post in site.tags['inbox'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

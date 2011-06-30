@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "toddler"
+tag: toddler
+type: "Toddler"
+---
+    <h2 id="toddler">Entries tagged "toddler"</h2>
+
+    <ol>
+      {% for post in site.tags['toddler'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

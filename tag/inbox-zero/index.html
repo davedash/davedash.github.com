@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "inbox-zero"
+tag: inbox-zero
+type: "Inbox-Zero"
+---
+    <h2 id="inbox-zero">Entries tagged "inbox-zero"</h2>
+
+    <ol>
+      {% for post in site.tags['inbox-zero'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

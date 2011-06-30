@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "tasks"
+tag: tasks
+type: "Tasks"
+---
+    <h2 id="tasks">Entries tagged "tasks"</h2>
+
+    <ol>
+      {% for post in site.tags['tasks'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

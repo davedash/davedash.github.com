@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "pending"
+tag: pending
+type: "Pending"
+---
+    <h2 id="pending">Entries tagged "pending"</h2>
+
+    <ol>
+      {% for post in site.tags['pending'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>
