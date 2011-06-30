@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Django: Model Inheritance or Related Tables wrt AMO"
 site: spindrop
