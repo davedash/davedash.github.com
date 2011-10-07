@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steve Jobs"
-tags: []
+tags: [computers]
 published: false
 time: 1:55PM
 ---
