@@ -8,7 +8,7 @@ title: dave dash
 My name is Dave Dash.  I am a [newbie dad][baby] and a web developer at
 [Mozilla][m] for [Firefox Input][i] and [Firefox Add-ons][a] sites.
 
-You can contact me at `dd+onion` (at) `{this domain}`.
+You can contact me at `dd+stereolab` (at) `{this domain}`.
 
 [i]: http://input.firefox.com/
 [a]: http://addons.mozilla.org/en-US/firefox/
