@@ -58,7 +58,7 @@ Our ops team sensibly checked out the project like so:
     git clone https://github.com/mozilla/lumbergh.git careers
 
 They did everything right.  Sure, they were creative and chose `careers` over
-the default `lumburgh`, but they knew the shortcomings of our system and picked
+the default `lumbergh`, but they knew the shortcomings of our system and picked
 a name that would resolve as a valid python package.
 
 Unfortunately we'd hit some *recursion error* anytime we tried to hit a URL.
