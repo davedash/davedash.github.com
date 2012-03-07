@@ -49,8 +49,7 @@
   </div>
 
   <!-- Move this into an external js -->
-  {% if page.comments == 'false' %}
-  {% else %}
+  {% if page.comments != 'false' %}
     <script type="text/javascript">
       var disqus_url = document.body.getAttribute('data-id');
       var disqus_developer = window.location.hostname == 'localhost'
