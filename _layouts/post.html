@@ -50,13 +50,15 @@
   </div>
 
   <!-- Move this into an external js -->
-  <script type="text/javascript">
-    var disqus_url = document.body.getAttribute('data-id');
-    var disqus_developer = window.location.hostname == 'localhost'
-  </script>
-  <script src="http://davedash.disqus.com/embed.js" type="text/javascript"
-    async="true">
-  </script>
+  {% if page.comments != 'false' %}
+    <script type="text/javascript">
+      var disqus_url = document.body.getAttribute('data-id');
+      var disqus_developer = window.location.hostname == 'localhost'
+    </script>
+    <script src="http://davedash.disqus.com/embed.js" type="text/javascript"
+      async="true">
+    </script>
+  {% endif %}
   {% include ga.html %}
 </body>
 </html>
