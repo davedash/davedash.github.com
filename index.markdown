@@ -12,7 +12,7 @@ and a fromer web developer at
 [Mozilla][m] for [Mozillians][mo],
 [Firefox Input][i] and [Firefox Add-ons][a] sites.
 
-You can contact me at `dd+stereolab` (at) `{this domain}`.
+You can contact me at `dd+wordproblems` (at) `{this domain}`.
 
 [mo]: http://mozillians.org
 [i]: http://input.firefox.com/
