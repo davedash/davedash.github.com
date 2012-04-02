@@ -7,15 +7,15 @@ title: dave dash
 
 My name is Dave Dash.
 I am a [newbie dad][baby],
-[someone][kt]'s husband
-and a fromer web developer at
-[Mozilla][m] for [Mozillians][mo],
-[Firefox Input][i] and [Firefox Add-ons][a] sites.
+[someone][kt]'s husband,
+an engineer at [Pinterest][p]
+and a former web developer at
+[Mozilla][m] and [Delicious][d].
 
 You can contact me at `dd+wordproblems` (at) `{this domain}`.
 
-[mo]: http://mozillians.org
-[i]: http://input.firefox.com/
+[d]: http://delicious.com/
+[p]: http://pinterest.com/
 [a]: http://addons.mozilla.org/en-US/firefox/
 [baby]: /tag/baby
 [m]: /tag/mozilla
