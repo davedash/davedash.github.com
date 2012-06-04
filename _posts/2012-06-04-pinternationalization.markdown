@@ -5,7 +5,6 @@ tags: [mozilla, pinterest, i18n, spanish]
 published: true
 time: 10:54AM
 ---
-# Pintersante
 
 We [translated our site to **Spanish**][pin] and will **continue to translate it into other languages** in the future.
 
@@ -28,17 +27,27 @@ It seems deceptively simple, but it can get very complicated as you'll see.
 
 At Mozilla any text we wrote *had* to be localized.  It's very much a global organization.  For example a message like this:
 
-    Hello Dave
+    {% highlight jinja %}
+        Hello Dave
+    {% endhighlight %}
 
 Would probably look like this before we localize it:
 
-    Hello {{ firstname }}
+    {% highlight jinja %}
+        {% raw %}
+            Hello {{ firstname }}
+        {% endraw %}
+    {% endhighlight %}
 
 To localize it we would wrap it using some special 'tags' or 'functions':
 
-    {% trans %}
-        Hello {{ firstname }}
-    {% trans %}
+    {% highlight jinja %}
+        {% raw %}
+            {% trans %}
+                Hello { { firstname } }
+            {% trans %}
+        {% endraw %}
+    {% endhighlight %}
 
 These special tags served two purposes:
 
