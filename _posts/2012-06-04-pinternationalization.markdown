@@ -43,9 +43,9 @@ To localize it we would wrap it using some special 'tags' or 'functions':
 
     {% highlight jinja %}
         {% raw %}
-            {% trans %}
-                Hello { { firstname } }
-            {% trans %}
+            {{ trans }}
+                Hello {{ firstname }}
+            {{ endtrans }}
         {% endraw %}
     {% endhighlight %}
 
