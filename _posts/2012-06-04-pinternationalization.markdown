@@ -25,30 +25,10 @@ It seems deceptively simple, but it can get very complicated as you'll see.
 
 ## How it worked at Mozilla
 
-At Mozilla any text we wrote *had* to be localized.  It's very much a global organization.  For example a message like this:
+At Mozilla any text we wrote *had* to be localized.  It's very much a global
+organization.
 
-    {% highlight jinja %}
-        Hello Dave
-    {% endhighlight %}
-
-Would probably look like this before we localize it:
-
-    {% highlight jinja %}
-        {% raw %}
-            Hello {{ firstname }}
-        {% endraw %}
-    {% endhighlight %}
-
-To localize it we would wrap it using some special 'tags' or 'functions':
-
-    {% highlight jinja %}
-        {% raw %}
-            {{ trans }}
-                Hello {{ firstname }}
-            {{ endtrans }}
-        {% endraw %}
-    {% endhighlight %}
-
+All text had to be wrapped in special tags.
 These special tags served two purposes:
 
 1. They will look up in a message database what the translation is.
