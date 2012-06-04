@@ -7,7 +7,7 @@ time: 10:54AM
 ---
 # Pintersante
 
-We translated our site to **Spanish** and will **continue to translate it into other languages** in the future.
+We [translated our site to **Spanish**][pin] and will **continue to translate it into other languages** in the future.
 
 One day, I came into work and they said, "You are in charge of Internationalization now."  I won't lie, it wasn't the most exciting news--for most developers, *localization is a daunting task*.  I brought this upon myself after emailing my fellow engineers about [how to do localization][0].  At [Mozilla WebDev][1] localization is a core-competency.  You work closely with a team of volunteer translators and you appropriately extract a variety of messages.  Mozilla even built some useful tools to help with this.
 
@@ -120,3 +120,5 @@ I'm excited to have Pinterest available to Spanish speakers (European Spanish is
 [babel]: http://babel.edgewall.org/
 [6]: https://gist.github.com/2586745
 [fa]: http://micropipes.com/blog/2012/05/31/adding-a-debug-language-to-%C8%A7%E1%B8%93%E1%B8%93-%C7%BF%C6%9Es-%E1%B8%BF%C7%BFzill%C8%A7-%C7%BFr%C9%A0/
+
+[pin]: http://blog.pinterest.com/post/24408983821/pinterest-en-espanol
