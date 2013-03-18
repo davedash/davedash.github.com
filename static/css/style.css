@@ -54,7 +54,7 @@ h1 {
     font-family: Gentium, Times;
     text-transform: lowercase;
     font-size: 500%;
-    margin-bottom: 0;
+    margin-bottom: 1em;
     padding: 0;
     position: relative;
     top: .4em;
