@@ -34,7 +34,7 @@ Hopefully people who are wondering about making the switch from Linux or whateve
 
 		I used to prefer [Firefox], despite its shortcomings.  There are [so many extensions][ff] available that no other browser comes close.  When I'm developing websites this **must** be open with [Firebug] and the [Web Developer Extension][wde]
 
-	*	##### [Safari]
+	*	##### Safari
 
 		This is a [Apple]'s very own browser based on [KHTML][] ([Konqueror], etc).  I don't use this myself, but I do use other [Apple WebKit][webkit] based applications.  It is elegant and integrates well with the rest of the OS.
 
@@ -42,7 +42,6 @@ Hopefully people who are wondering about making the switch from Linux or whateve
 [Firefox]: http://getfirefox.com/
 [Firebug]: https://addons.mozilla.org/firefox/1843/
 [wde]: http://chrispederick.com/work/webdeveloper/
-[Safari]: http://www.apple.com/macosx/features/safari/
 [Apple]: http://www.apple.com/
 [KHTML]: http://www.konqueror.org/features/browser.php
 [Konqueror]: http://www.konqueror.org/
@@ -63,7 +62,7 @@ Hopefully people who are wondering about making the switch from Linux or whateve
 
 *	#### Upload my Files
 
-	[Transmit] does <acronym title="File Transfer Protocol">FTP</acronym> and <acronym title="Secure File Transfer Protocol">SFTP</acronym>.  It allows you to edit files "remotely."  This is a huge boon for all those tiny style sheet changes you might need to update. It is trial ware, but it is a great <acronym title="Graphical User Interface">GUI</acronym> for something I have to do everyday.  
+	[Transmit] does <acronym title="File Transfer Protocol">FTP</acronym> and <acronym title="Secure File Transfer Protocol">SFTP</acronym>.  It allows you to edit files "remotely."  This is a huge boon for all those tiny style sheet changes you might need to update. It is trial ware, but it is a great <acronym title="Graphical User Interface">GUI</acronym> for something I have to do everyday.
 
 [transmit]: http://www.panic.com/transmit/
 
@@ -144,14 +143,14 @@ Hopefully people who are wondering about making the switch from Linux or whateve
 
 	*	##### Xcode
 
-		[Xcode] is Apple's <acronym title="Integrated Development Environment">IDE</acronym>.  If you're writing Objective-C or Java, [Xcode] might prove useful.  For writing Cocoa applications, the bulk of your work involves dragging connections and defining relations between elements.  The "legwork" of writing actual code, is assuaged with an editor that features what you'd expect: folding, auto-completion and syntax highlighting.  
+		[Xcode] is Apple's <acronym title="Integrated Development Environment">IDE</acronym>.  If you're writing Objective-C or Java, [Xcode] might prove useful.  For writing Cocoa applications, the bulk of your work involves dragging connections and defining relations between elements.  The "legwork" of writing actual code, is assuaged with an editor that features what you'd expect: folding, auto-completion and syntax highlighting.
 
 [xcode]: http://www.apple.com/macosx/features/xcode/
 
 *	#### Get my fix of Unix goodness
 
 	*	##### Fink
-	
+
 		Before I bought my Mac, the first thing I looked for was something like [Fink].  [Fink] uses debian packaging of Unix utilities for the Mac.  It's great.  There's an easy installer that puts the fink environment on your computer and then you've got debian style package management:
 
 			sudo apt-get update
@@ -183,8 +182,8 @@ For the most part, Apple's [iLife] can take care of your multimedia needs.  Play
 
 *	#### Organize my photos, burn them to a <acronym title="Digital Versatile Disc">DVD</acronym>, make slideshows
 
-	[iphoto] is a giant beast, but it does do quite a bit.  It manages large collections of photos.  You can easily download them off your camera, and then categorize them as necessary.  Want to share them?  Burn it onto a <acronym title="Digital Versatile Disc">DVD</acronym> and give it to your family.  Want to make a slideshow set to music from your [iTunes]?  That's not a problem either.  
-The entire [iLife] suite is fairly well integrated.  My family always wants us to bring our digital camera so we can put together a cheesy slideshow on <acronym title="Digital Versatile Disc">DVD</acronym>.  Good thing it's easy.  
+	[iphoto] is a giant beast, but it does do quite a bit.  It manages large collections of photos.  You can easily download them off your camera, and then categorize them as necessary.  Want to share them?  Burn it onto a <acronym title="Digital Versatile Disc">DVD</acronym> and give it to your family.  Want to make a slideshow set to music from your [iTunes]?  That's not a problem either.
+The entire [iLife] suite is fairly well integrated.  My family always wants us to bring our digital camera so we can put together a cheesy slideshow on <acronym title="Digital Versatile Disc">DVD</acronym>.  Good thing it's easy.
 
 	If you have a lot of photos there are some tools like [iPhoto Library Manager][ilm] that can make your life easier.
 
@@ -193,21 +192,21 @@ The entire [iLife] suite is fairly well integrated.  My family always wants us t
 
 *	#### Make a <acronym title="Digital Versatile Disc">DVD</acronym> of my Videos and Photos
 
-	Create <acronym title="Digital Versatile Disc">DVD</acronym> menus, order photo slideshows and movies around, add music.  You can do all of this with [iDVD].  
+	Create <acronym title="Digital Versatile Disc">DVD</acronym> menus, order photo slideshows and movies around, add music.  You can do all of this with [iDVD].
 
 [idvd]: http://apple.com/idvd
 
 *	#### Edit movies
 
-	If you want to actually edit home movies, [iMovie] can help.  You can pull in photos to make slide shows, synchronize it with audio tracks, add in video from other sources.  
+	If you want to actually edit home movies, [iMovie] can help.  You can pull in photos to make slide shows, synchronize it with audio tracks, add in video from other sources.
 
 [iMovie]: http://apple.com/imovie
 
 *	#### Watch video files
 
 	*	##### [Quicktime]
-	
-		The obvious choice on a Mac is [Quicktime].  [Quicktime] however lacks some of the codecs that are popularly circulating the internet.  These days you can find much of what you want on [YouTube] or [Google Video][gv] and not have to worry too much of compatability issues. 
+
+		The obvious choice on a Mac is [Quicktime].  [Quicktime] however lacks some of the codecs that are popularly circulating the internet.  These days you can find much of what you want on [YouTube] or [Google Video][gv] and not have to worry too much of compatability issues.
 
 [youtube]: http://www.youtube.com/
 [gv]: http://video.google.com/
@@ -233,7 +232,7 @@ The entire [iLife] suite is fairly well integrated.  My family always wants us t
 
 	> [Quicksilver][qs] is a the <acronym title="Graphical User Interface">GUI</acronym> equivalent to the command line.  You can launch applications or files or perform any number of operations on those files or applications.  With its powerful collection of plugins you can have it do much more, for example you can take a music file and play it in iTunes within the iTunes party shuffle.  Or take an image file and have it submit to [flickr] with a few simple keystrokes.  Initially, I couldn't get an idea of the application, other than a lot of people loved it.  Now, I'm barely using it to its potential and I love it.  Using a computer without it is quite a drag.
 
-	If you need to launch things faster or do more things from the keyboard quickly, get this.  
+	If you need to launch things faster or do more things from the keyboard quickly, get this.
 
 [flickr]: http://flickr.com/
 [qs]: http://quicksilver.blacktree.com/
