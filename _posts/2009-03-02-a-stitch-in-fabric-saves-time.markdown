@@ -44,19 +44,20 @@ I use a very particular directory structure:
 		* `config/` - any config files go here (e.g. nginx or apache)
 		* `mysite.com/` - the actual Django project
 		* `scripts/` - any utility scripts, mostly database model changes
-		* `site-packages/` - any related libraries that I need, this isn't the best approach I need to investigate `virtualenv`
+		* `site-packages/` - any related libraries that I need, this isn't the best approach I need to investigate [`virtualenv`][v]
 		* `static/` - all my static assets go here
 	* `staging.rollback` - the former `staging` symlink is demoted to `staging.rollback`
-* `$WWW/mysite.com/`  
+* `$WWW/mysite.com/`
 	* `staging` - This is where the static assets get served from according to nginx.  It's a symbolic link to `$WWW_APPS/staging/static`.  This link does not change during deployment.
 	* `uploads_staging/` - This directory contains uploads (user data).  It requires manual adjustment when there are data changes (deletes, adds, updates).  For the most part it can stay unchanged from one deployment to the next.
 
+[v]: /tutorial/virtualenv
 
 ### Subversion
 
 I'm currently using subversion to maintain my code.  If you are starting a project anew, I suggest using `git` as it is designed with branching in mind.  The script below should be adaptable for `git` instead of `svn`.
 
-That being said, when I deploy code, I use the revision number as the directory name for that deployment (e.g. `$WWW_APPS/mysite.com/releases/100/` for `r100`) .  
+That being said, when I deploy code, I use the revision number as the directory name for that deployment (e.g. `$WWW_APPS/mysite.com/releases/100/` for `r100`) .
 
 This forces me to commit my changes and not deploy code that is not checked in.
 
@@ -70,35 +71,35 @@ Here's the `fabfile.py` I constructed.  It's by no means final
 <div><textarea name="code" class="python">
 def staging():
     "Pushes current code to staging, hups Apache"
-    # get the build number    
+    # get the build number
     local('svn up mysite.com')
-    
+
     config.svn_version   = svn_get_version()
-    
+
     if not config.svn_version:
         abort()
-    
+
     config.static_path   = '/var/www/static.mysite.com'
     config.svn_path      = 'http://svn.mysite.com/trunk'
     config.svn_export    = 'svn export -q -r %(svn_version)s'
-    
+
     run('mkdir %(path)s', fail='abort')
-    
-    # svn export mysite.com to path 
+
+    # svn export mysite.com to path
     run('%(svn_export)s %(svn_path)s/mysite.com %(path)s/mysite.com', fail='abort')
-    
+
     # svn export site-packages to site-packages
     run('%(svn_export)s %(svn_path)s/site-packages %(path)s/site-packages', fail='abort')
-    
-    # svn export mysite.com to path 
+
+    # svn export mysite.com to path
     run('%(svn_export)s %(svn_path)s/scripts %(path)s/scripts', fail='warn')
-    
+
     # svn export configs
     run('%(svn_export)s %(svn_path)s/config %(path)s/config', fail='abort')
-    
-    # export /var/www/static.mysite.com/releases/%(svn_version) 
+
+    # export /var/www/static.mysite.com/releases/%(svn_version)
     run('%(svn_export)s %(svn_path)s/static %(path)s/static', fail='abort')
-    
+
     # symlink to images from /var/www/static.mysite.com/staging/images/menuitems/* new release dir
     run("rm -r %(path)s/static/images/menuitems", fail=abort)
     run("ln -s %(static_path)s/menuitems_staging %(path)s/static/images/menuitems", fail=abort)
@@ -109,7 +110,7 @@ def staging():
 
     # staging sym to new destination
     run('ln -s %(path)s %(releases_path)s/staging', fail='abort')
-    
+
     # server is hup'd
     invoke(hup)
 
@@ -120,8 +121,8 @@ def rm_cur_rev():
 def hup():
     sudo('/etc/init.d/apache2 restart')
     sudo('/etc/init.d/nginx restart')
-    
-    
+
+
 def svn_get_version():
     from subprocess import Popen, PIPE
     output = Popen(["svn", "info", "mysite.com"], stdout=PIPE).communicate()[0]

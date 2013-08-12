@@ -10,10 +10,12 @@ I like building web sites, a lot.  Usually every few years I need to re-
 evaluate the stack I use for a side-project.  Joshua's
 [Stack Parts](http://stackparts.com/) site is handy for this.
 
-At Mozilla Webdev we stick to reeds + mysql + elasticsearch + celery + rabbitmq
-+ memcache + git + virtualenv + python + django + jinja2 + modwsgi + commander
+At Mozilla Webdev we stick to redis + mysql + elasticsearch + celery + rabbitmq
++ memcache + git + [virtualenv][v] + python + django + jinja2 + modwsgi + commander
 + puppet + apache + less + jquery as our go-to stack.  It's tried and true and
 it's been working and been evolving for two years.
+
+[v]: /tutorial/virtualenv
 
 So I'm at re-evaluation time.  The first element of the stack I needed to
 decide upon was the web framework.  I initially thought I'd use Django, and
