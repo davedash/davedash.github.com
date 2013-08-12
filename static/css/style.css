@@ -27,7 +27,6 @@ header {
 html, body {
     font-family: Pigiarniq, Helvetica Neue, Arial;
     background: #fff;
-    height: 100%;
 }
 
 body {
@@ -168,14 +167,14 @@ pre {
 	font-family: Bitstream Vera Sans Mono,monospace;
 }
 
-.tutorial {
-  padding-bottom: 13px;
-}
-
 .side {
     float: left;
     margin: 0 1em 1em 0;
     border: solid 1px #000;
+}
+
+.tutorial {
+    padding-bottom: 3em;
 }
 
 .hll { background-color: #ffffcc }

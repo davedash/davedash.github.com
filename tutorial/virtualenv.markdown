@@ -53,11 +53,9 @@ sudo pip install virtualenvwrapper
 
 You'll want to add the following to your `.bashrc` or `.profile`:
 
-```
-export WORKON_HOME=$HOME/.virtualenvs
-export PROJECT_HOME=$HOME/Devel
-source /usr/local/bin/virtualenvwrapper.sh
-```
+    export WORKON_HOME=$HOME/.virtualenvs
+    export PROJECT_HOME=$HOME/Devel
+    source /usr/local/bin/virtualenvwrapper.sh
 
 More details are found [here][vw].
 
@@ -70,25 +68,19 @@ You'll want to log out and log back in, or run a command like:
 Most of this is covered in [the introduction][i] to virtualenv.  Let's say you have a project called `ponies` and that project lives in
 `~/Projects/ponies` you can now create a `virtualenv` just for ponies:
 
-```
-mkvirtualenv ponies -a ~/Projects/ponies
-```
+    mkvirtualenv ponies -a ~/Projects/ponies
 
 Now, whenever you need to work on ponies you can do the following:
 
-```
-workon ponies
-```
+    workon ponies
 
 This will automatically use a special `ponies`-only version of `python`, any packages that you `pip` install will only be available to `ponies` and you won't need to use `sudo`.
 
 Furthermore if things go south you can always do the following:
 
-```
-deactivate  # This takes you out of the ponies virtualenv
-rmvirtualenv ponies
-mkvirtualenv ponies -a ~/Projects/ponies
-```
+    deactivate  # This takes you out of the ponies virtualenv
+    rmvirtualenv ponies
+    mkvirtualenv ponies -a ~/Projects/ponies
 
 Good as new.
 
