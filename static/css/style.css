@@ -32,7 +32,7 @@ html, body {
 
 body {
     margin: 1em auto;
-    width: 900px;
+    width: 700px;
 }
 
 #content {
@@ -168,6 +168,9 @@ pre {
 	font-family: Bitstream Vera Sans Mono,monospace;
 }
 
+.tutorial {
+  padding-bottom: 13px;
+}
 
 .side {
     float: left;
