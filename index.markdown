@@ -21,18 +21,9 @@ You can contact me at `dd+wordproblems` (at) `{this domain}`.
 [m]: /tag/mozilla
 [kt]: http://katiebonn.com/
 
-## Tutorials
+## [Tutorials](/tutorial)
 
-I work with a lot of developers both seasoned and new who are new to python.
-Here are some tutorials on things that I hope can be helpful:
-
-* [Virtualenv][v] which I believe is a cornerstone of healthy python
-  development.
-* [pdb: the python debugger][pdb] which is an incredible tool for debugging
-  even the toughest of applications.
-
-[v]: /tutorial/virtualenv
-[pdb]: /tutorial/pdb-the-python-debugger
+{% include tutorials.md %}
 
 ## Recent Blog Posts
 <ol>
