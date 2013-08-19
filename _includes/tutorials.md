@@ -18,3 +18,8 @@ parsing HTML content is PyQuery.
 I've [written a tutorial to get you started with PyQuery][pq].
 
 [pq]: /tutorial/pyquery
+
+If you are getting started with Jinja templates you should [learn about
+macros][m].
+
+[m]: /tutorial/jinja-macros
