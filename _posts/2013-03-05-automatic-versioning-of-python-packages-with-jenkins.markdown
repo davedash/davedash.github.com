@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automatic versioning of python packages with Jenkins"
-tags: []
+tags: [python, jenkins]
 published: true
 time: 8:40AM
 ---

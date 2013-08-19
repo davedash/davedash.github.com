@@ -99,7 +99,7 @@ h3 {
     line-height: 1.5;
 }
 
-#post ul li {
+ul li {
     list-style: square;
     margin-left: 1em;
 }

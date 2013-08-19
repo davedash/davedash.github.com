@@ -1,5 +1,6 @@
-I work with a lot of developers both seasoned and new who are new to python.
-Here are some tutorials on things that I hope can be helpful:
+I work with a lot of developers both seasoned and green who are new to python.
+
+Here are some foundations that every python developer should have:
 
 * [Virtualenv][v] which I believe is a cornerstone of healthy python
   development.
@@ -11,3 +12,9 @@ Here are some tutorials on things that I hope can be helpful:
 [v]: /tutorial/virtualenv
 [pdb]: /tutorial/pdb-the-python-debugger
 [ipython]: /tutorial/ipython
+
+Python also has some rich third-party libraries.  A favorite of mine for
+parsing HTML content is PyQuery.
+I've [written a tutorial to get you started with PyQuery][pq].
+
+[pq]: /tutorial/pyquery
