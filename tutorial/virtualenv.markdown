@@ -51,7 +51,7 @@ sudo pip install virtualenvwrapper
 
 **Note:** This is the one time where you want to install something with `pip` while using `sudo`.  The reason being is that `virtualenvwrapper` is something that you *do* want as part of your system packages.
 
-You'll want to add the following to your `.bashrc` or `.profile`:
+You'll want to add the following to your `.profile` (or `.bashrc` or `.zshrc`):
 
     export WORKON_HOME=$HOME/.virtualenvs
     export PROJECT_HOME=$HOME/Devel
