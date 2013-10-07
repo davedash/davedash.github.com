@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "techshop"
+tag: techshop
+type: "Techshop"
+---
+    <h2 id="techshop">Entries tagged "techshop"</h2>
+
+    <ol>
+      {% for post in site.tags['techshop'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "pinterest"
+tag: pinterest
+type: "Pinterest"
+---
+    <h2 id="pinterest">Entries tagged "pinterest"</h2>
+
+    <ol>
+      {% for post in site.tags['pinterest'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

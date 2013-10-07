@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "offsite"
+tag: offsite
+type: "Offsite"
+---
+    <h2 id="offsite">Entries tagged "offsite"</h2>
+
+    <ol>
+      {% for post in site.tags['offsite'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

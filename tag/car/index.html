@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "car"
+tag: car
+type: "Car"
+---
+    <h2 id="car">Entries tagged "car"</h2>
+
+    <ol>
+      {% for post in site.tags['car'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

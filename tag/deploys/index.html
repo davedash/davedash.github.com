@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "deploys"
+tag: deploys
+type: "Deploys"
+---
+    <h2 id="deploys">Entries tagged "deploys"</h2>
+
+    <ol>
+      {% for post in site.tags['deploys'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

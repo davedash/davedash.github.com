@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "luck"
+tag: luck
+type: "Luck"
+---
+    <h2 id="luck">Entries tagged "luck"</h2>
+
+    <ol>
+      {% for post in site.tags['luck'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Entries tagged "spanish"
+tag: spanish
+type: "Spanish"
+---
+    <h2 id="spanish">Entries tagged "spanish"</h2>
+
+    <ol>
+      {% for post in site.tags['spanish'] %}
+      {% include item.html %}
+      {% endfor %}
+    </ol>
