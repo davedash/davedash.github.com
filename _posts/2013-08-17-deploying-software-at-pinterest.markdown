@@ -5,30 +5,12 @@ tags: [python, pinterest, deploys]
 published: false
 time: 10:01PM
 ---
-**tl;dr** Pinterest Engineering is [SOA][soa] and we utilize S3, Zookeeper and
-Python to keep our services up to date.
+**tl;dr** Pinterest utilizes Github Enterprise, Jenkins CI and
+Zookeeper to continually deliver the best experiences for Pinners.
 
-I'm one of the early members of the technical Operations team at Pinterest.
-We build tools, setup services and otherwise assist our fellow Engineers
-so they can deliver the best experience to
-pinners as efficiently as possible.
-
-One of my earliest tasks was to fix bugs in our deploy scripts.  I transformed
-this task into an opportunity to define release engineering at
-Pinterest as well as to create some solid release tools.
-
-## An evolution of architecture
-
-Within the last year and a half, Pinterest has moved from being a multi-tiered
-architecture to a service oriented architecture.  We went from housing all of our
-code in a giant repository to having multiple repositories with any number of
-small services written in either Java or Python.
-
-All through these changes our deploy tools and release infrastructure have had
-to keep up and accommodate.  While at times accommodating these changes have
-been frustrating, it has forced
-our team of two "Release Engineers" to document better and build more robust
-software.
+One of my first tasks on the Pinterest ops team was to fix bugs in our deploy
+scripts.  I used this as an opportunity to define release engineering at our
+company and create some solid release tools.
 
 ## The Tools of the Trade
 
@@ -83,24 +65,6 @@ states: It is either canaried or it is deployed everywhere.  This state is
 recorded in Zookeeper to either `enabled/canary` or `enabled` node respectively.
 
 "Canaried" means that we wish to have only a small subset of our fleet serving
-the new build.  This gives us time to validate that everything is working as
-planned.  For the most part this involves looking at charts, error logs, error
-aggregators, and clicking around on the site.  All very manual.
-
-On each node sits a fairly robust Zookeeper client called `deployd`.  This
-listens to either `enabled` or `enabled/canary` depending on it's role (which
-is also defined in Zookeeper).  If there is any change to these nodes a few
-checks are performed:
-
-* The node checks that it's serving the correct build.
-* If it's not, it downloads the correct build and extracts it.
-* It atomically flips a symlink on the node to point at the new build.
-* It does any post-install steps, like installing dependencies.  For example we
-  use pip to manage our python requirements so we do something like
-  `pip install -r requirements.txt` after we've installed a new build.
-* The service is restarted in the most graceful way.
-* Current status of the node is reported back to Zookeeper.
-
 Graceful restarts are somewhat complicated.  We employ different strategies for
 different services.  In the most advanced form, multiple copies of the same
 service are running on a machine.  Through `iptables` we are able to [turn off
@@ -128,14 +92,13 @@ sense.
 
 [2]: http://owencoutts.com/blog/2012/04/26/Code-Quality-and-Why-You-Care.html
 
-### Don't touch the code directly.
+### Don't touch the deployed code directly.
 
 Initially our deploy scripts lived in the same repository as the code we were
 deploying.  This was painful.  I would update the deploy scripts, do a deploy
-and lose my changes because part of the deploy meant doing some git
-operations on the
-repository I was working on.  Most of what we needed to do was simple tagging,
-sometimes we needed to do compilation work.
+and lose my changes because part of the deploy meant doing some git operations
+on the repository I was working on.  Most of what we needed to do was simple
+tagging, sometimes we needed to do compilation work.
 
 Even after we moved our tools to their own repository, we still did repository
 manipulations.  This was gross.  If someone wanted to deploy we could ruin
@@ -151,16 +114,13 @@ requirements about from where we could deploy.
 
 For a while our release engineering team of two (me and my intern) handled the
 majority of deploys.  Despite that other engineers would occasionally still
-need to deploy.  We wanted the experience to be consistent regardless of ant
-underlying
-changes we
-made.
+need to deploy.  We wanted the experience to be consistent regardless of any
+underlying changes we made.
 
 Eventually my intern left and our team gained Nuo Yan who took over a lot of
-the day-to-day build out of the tool.  We, then, started to transition deploys
-from our team to other engineering teams who owned those services.  It was even
-more
-important that we kept some of the promise to these other teams.
+the day-to-day build out of the tool.  We started transitioned deploys from our
+team to service owners.  It was even more important that we kept some of the
+promise to these other teams.
 
 We would have some services use a combination of SSH and `git` to do deploys,
 while others used the S3/Zookeeper based approach we use now.  When we made a
@@ -194,11 +154,10 @@ where we can remove the human element altogether.
 ### Crash early... Crash often
 
 Our deploy daemon attempts to catch all exceptions inside eventlets and the
-main thread and exit as
-quickly as possible.  Rather than try to write complicated code that tries to
-fix the state of things, we write code that crashes early.  We rely on a tool
-called supervisor to restart our daemons.  This usually has a side effect of
-fixing everything.
+main thread and exit as quickly as possible.  Rather than try to write
+complicated code that tries to fix the state of things, we write code that
+crashes early.  We rely on a tool called supervisor to restart our daemons.
+This usually has a side effect of fixing everything.
 
 The last thing we wanted our code to do was to get to a point where it was in a
 for-loop and needed to be `kill`ed.  Thanks to health checks that close this
@@ -209,11 +168,9 @@ bug fix then.  But this is rarely necessary.
 
 We probably have more design decisions than these listed, but these are some of
 the main ones.  We never really wrote these down before the fact, but we would
-discuss
-them, and they would definitely come out in
-code-reviews.  These don't need to be set in stone, but it helps to have some
-idea of what things you are willing to do and what things you'd like to avoid
-when building a tool.
+discuss them, and they would definitely come out in code-reviews.  These don't
+need to be set in stone, but it helps to have some idea of what things you are
+willing to do and what things you'd like to avoid when building a tool.
 
 
 ## Our biggest challenges
@@ -240,17 +197,14 @@ manifest files that don't try to stomp over each other.
 
 ### Configuration
 
-Initially configuration was bundled with the tools.
-This was cumbersome to update so we moved
-service configuration into a configuration file.  To
-update it we'd have to change the file and run puppet.  Some boxes might not
-get the file, because of puppet failures, some boxes would get updates before
-others.
+Initially configuration was bundled with the tools.  This was cumbersome to
+update so we moved service configuration into a configuration file.  To update
+it we'd have to change the file and run puppet.  Some boxes might not get the
+file, because of puppet failures, some boxes would get updates before others.
 
 Nuo rewrote the configuration to store everything in Zookeeper.  This meant
 that if we had to change the number of hosts restarting at once to 200 from
-100, we could do it instantly and not have to worry
-if puppet ran successfully.
+100, we could do it instantly and not have to worry if puppet ran successfully.
 
 A design decision of our operations team in general is to have as few moving
 parts for a given system as possible.  Taking puppet out of the equation made a
@@ -259,19 +213,18 @@ lot of sense.
 ### Python Packaging
 
 Python packaging was only tangentially related to our deploy process.  Once upon
-a time puppet used to run `pip install -r requirements.txt` ever few hours.
+a time puppet used to run `pip install -r requirements.txt` every few hours.
 Unfortunately this was never right after a deploy, so we trained our engineers
 that if they wanted to use a new package that they would have to deploy a
 `requirements.txt` change, and then later deploy the code that used it.
 
 This was horribly inefficient.  We later just had the deploy tools handle
-python
-package installation.  We learned a lot of things about the `pip` tool.  The
-most important was that pip did not work great with system packages.  We also
-found
-an edge case where [sometimes the cached copies of files were bad][bad-cache].
-We found many of these problems went away with `pip` 1.4 and have since changed
-our entire fleet to use that version (rather than a mix of `pip`'s from 0.8-1.3.x).
+python package installation.  We learned a lot of things about the `pip` tool.
+The most important was that pip did not work great with system packages.  We
+also found an edge case where [sometimes the cached copies of files were
+bad][bad-cache].  We found many of these problems went away with `pip` 1.4 and
+have since changed our entire fleet to use that version (rather than a mix of
+`pip`'s from 0.8-1.3.x).
 
 We also were building a lot of system tools that had their own dependencies.
 We now have the option to use `virtualenv` for our python services.  So they
@@ -315,12 +268,12 @@ Despite all our valiant efforts we have some remaining issues.
 
 Jenkins is slow for our main repository that houses most of our services..
 Which is to say that we have a lot of tests, and many of them are slow.  While
-this doesn't effect our deploys it does effect how fast we can
-respond to problems.  Our strategy has been to find pieces of our code that can
-be factored into libraries.  This means we move unit tests for those pieces of
+this doesn't effect our deploys it does effect how fast we can respond to
+problems.  Our strategy has been to find pieces of our code that can be
+factored into libraries.  This means we move unit tests for those pieces of
 code with the libraries which results in speedier builds.  Often we can find
-slow tests through Jenkins' test profiling.  We will also
-experiment with parallelizing builds across multiple executors.
+slow tests through Jenkins' test profiling.  We will also experiment with
+parallelizing builds across multiple executors.
 
 Another issue we're having is some services after restart perform poorly after
 the first few requests.  We are continually investigating ways to warm up our
@@ -365,3 +318,32 @@ give Pinners the best experiences as quickly as possible.
 [g]: http://enterprise.github.com/
 [j]: http://jenkins-ci.org/
 [z]: http://zookeeper.apache.org/
+---
+layout: post
+title: "Deploying software at Pinterest"
+tags: [python, pinterest, deploys]
+published: false
+time: 10:01PM
+---
+**tl;dr** Pinterest utilizes Github Enterprise, Jenkins CI and
+Zookeeper to continually deliver the best experiences for Pinners.
+
+One of my first tasks on the Pinterest ops team was to fix bugs in our deploy
+scripts.  I used this as an opportunity to define release engineering at our
+company and create some solid release tools.
+
+## The Tools of the Trade
+
+We use a variety of tools that are for the most part fairly accessible to most
+companies to deliver Pinterest.
+
+* **[Github Enterprise][g]** is our version-control overlay.  It
+    manages code-reviews, facilitates code-merging and most importantly
+    has a great API.  The API let's us interact with our repository in
+    a very clean programatic way.
+* **[Jenkins][j]** is our continuous integration system, we use
+    it to package builds and run unit tests after each check in.
+* **[Zookeeper][z]** manages our state.  It tells each node what version of
+  code they should be running, it reports the status of what each node is
+  actually running and it contains all our service configuration.
+* **Amazon S3** is where we keep our builds.  It is a simple way to share data
