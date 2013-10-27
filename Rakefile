@@ -1,31 +1,26 @@
 require 'rake/clean'
 
-task :rsync do
-    puts 'Rsyncing site...'
-    sh "rsync -a _site/ #{ENV['DAVEDASH']}html"
-    sh "rsync -a _conf/ #{ENV['DAVEDASH']}conf"
-    puts 'Done.'
-end
-
 task :clean do
     puts 'Cleaning _site...'
     CLEAN.include('_site/**')
     rmtree CLEAN
 end
 
-task :deploy do
-    # Rake::Task["cloud"].invoke
+desc 'Everything you need to do before you deploy'
+task :pre_deploy do
+    Rake::Task["cloud"].invoke
     Rake::Task["tags"].invoke
     puts 'Building site...'
-    sh 'jekyll'
-    Rake::Task["rsync"].reenable
-    Rake::Task["rsync"].invoke
+    sh 'jekyll build'
 end
 
+desc 'Quickly sync static assets to build dir'
 task :sync_static do
     sh "rsync -a static/ _site/static/"
     Rake::Task["rsync"].invoke
 end
+
+desc 'Generate tag cloud'
 task :cloud do
     puts 'Generating tag cloud...'
     require 'rubygems'
