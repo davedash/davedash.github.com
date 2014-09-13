@@ -1,4 +1,6 @@
 require 'rake/clean'
+require 'rss'
+require 'open-uri'
 
 task :clean do
     puts 'Cleaning _site...'
@@ -8,6 +10,7 @@ end
 
 desc 'Everything you need to do before you deploy'
 task :pre_deploy do
+    Rake::Task["medium"].invoke
     Rake::Task["cloud"].invoke
     Rake::Task["tags"].invoke
     puts 'Building site...'
@@ -18,6 +21,22 @@ desc 'Quickly sync static assets to build dir'
 task :sync_static do
     sh "rsync -a static/ _site/static/"
     Rake::Task["rsync"].invoke
+end
+
+desc 'Add links to Medium'
+task :medium do
+  url = 'https://medium.com/feed/@davedash'
+  open(url) do |rss|
+    feed = RSS::Parser.parse(rss)
+    File.open('_includes/medium.html', 'w+') do |file|
+      feed.items.each do |item|
+        file.puts "<h2><a href=\"{#item.link}\">#{item.title}</a></h2>"
+        file.puts "#{item.description}"
+      end
+    end
+
+  end
+
 end
 
 desc 'Generate tag cloud'
@@ -97,7 +116,7 @@ type: "#{category.gsub(/\b\w/){$&.upcase}}"
     html = ''
     html << <<-HTML
 ---
-layout: nil
+layout:
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -132,4 +151,3 @@ layout: nil
   end
   puts 'Done.'
 end
-
