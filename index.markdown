@@ -2,37 +2,23 @@
 layout: default
 title: dave dash
 ---
+<div class="jumbotron">
+{% capture about_content %}
+# I am Dave Dash.
 
-## About Me
+* Father of two little boys
+* [Someone][kt]'s husband
+* A Web Operations Consultant
+* Former Engineer at [Pinterest][p]
+* Former web developer at [Mozilla][m] and [Delicious][d]
 
-My name is Dave Dash.
-I am a [newbie dad][baby],
-[someone][kt]'s husband,
-an engineer at [Pinterest][p]
-and a former web developer at
-[Mozilla][m] and [Delicious][d].
-
-You can contact me at `dd+wordproblems` (at) `{this domain}`.
+You can contact me at `dd+pogostick` (at) `{this domain}`.
 
 [d]: http://delicious.com/
 [p]: http://pinterest.com/
 [a]: http://addons.mozilla.org/en-US/firefox/
-[baby]: /tag/baby
 [m]: /tag/mozilla
 [kt]: http://katiebonn.com/
-
-## [Tutorials](/tutorial)
-
-{% include tutorials.md %}
-
-## Recent Blog Posts
-<ol>
-{% for post in site.posts limit:10 %}
-    {% include item.html %}
-{% endfor %}
-</ol>
-
-
-[Full archive](archive)
-
-
+{% endcapture %}
+{{ about_content | markdownify }}
+</div>

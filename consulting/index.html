@@ -1,0 +1,96 @@
+---
+layout: default
+header: consulting
+---
+<div class="row">
+  {% include consulting/sidebar.html %}
+  <!--Main Content -->
+  <div class="col-md-8">
+    {% capture text %}{% include consulting/intro.html %}{% endcapture %}
+    {{ text | markdownify }}
+    <section id="dt" class="group">
+ <!--      {% capture text %}{% include consulting/devtools.html %}{% endcapture %}
+      {{ text | markdownify }}
+      <div id="dt-vcs" class="subgroup">
+        {% capture text %}{% include consulting/vcs.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="dt-cr" class="subgroup">
+        {% capture text %}{% include consulting/cr.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div> -->
+      <div id="dt-ci" class="subgroup">
+        {% capture text %}{% include consulting/ci.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+ <!--      <div id="dt-cd" class="subgroup">
+        {% capture text %}{% include consulting/cd.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="dt-mon" class="subgroup">
+        {% capture text %}{% include consulting/mon.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div> -->
+    </section>
+
+<!--     <section id="ops" class="group">
+      <h2>DevOps / Technical Operations</h2>
+      <div id="ops-launch" class="subgroup">
+        {% capture text %}{% include consulting/ops-launch.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-disco" class="subgroup">
+        {% capture text %}{% include consulting/ops-disco.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-cm" class="subgroup">
+        {% capture text %}{% include consulting/ops-cm.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-alert" class="subgroup">
+        {% capture text %}{% include consulting/ops-alert.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-oncall" class="subgroup">
+        {% capture text %}{% include consulting/ops-oncall.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-backup" class="subgroup">
+        {% capture text %}{% include consulting/ops-backup.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-dr" class="subgroup">
+        {% capture text %}{% include consulting/ops-dr.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-dba" class="subgroup">
+        {% capture text %}{% include consulting/ops-dba.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="ops-security" class="subgroup">
+        {% capture text %}{% include consulting/ops-security.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+    </section>
+
+    <section id="swe" class="group">
+      <h2>Software Development</h2>
+      <div id="swe-cr" class="subgroup">
+        {% capture text %}{% include consulting/swe-cr.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="swe-best" class="subgroup">
+        {% capture text %}{% include consulting/swe-best.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+      <div id="swe-sd" class="subgroup">
+        {% capture text %}{% include consulting/swe-sd.html %}{% endcapture %}
+        {{ text | markdownify }}
+      </div>
+    </section> -->
+    <section id="contact" class="group">
+      {% capture text %}{% include consulting/contact.html %}{% endcapture %}
+      {{ text | markdownify }}
+    </section>
+  </div>
+</div>

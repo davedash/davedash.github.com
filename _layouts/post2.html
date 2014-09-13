@@ -21,12 +21,9 @@
 {% assign host = 'davedash.com' %}
 {% endif %}
 <body data-id="http://{{ host }}{{ page.id }}/" class="post">
-  <header>
-   <h1>
-      <a href="/">Dave Dash</a>
-   </h1>
-  </header>
-  <div id="content">
+  {% include header.html %}
+
+  <div id="content" class="container">
     <h2>
       <span class="post_date">{{ page.date | date: '%d %b %Y' }} &raquo;</span>
       {{ page.title }}
@@ -51,4 +48,3 @@
   {% include ga.html %}
 </body>
 </html>
-
