@@ -1,3 +1,4 @@
 _site
 _includes/tags.html
 tags/
+Gemfile.lock
