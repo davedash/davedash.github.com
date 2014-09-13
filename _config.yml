@@ -1,4 +1,4 @@
-pygments: true
+highlighter: pygments
 markdown: rdiscount
 permalink: pretty
 # lsi: true
@@ -8,3 +8,10 @@ exclude:
   - crawl.py
   - sitelabeler.py
   - fabfile.py
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
