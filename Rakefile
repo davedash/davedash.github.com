@@ -30,7 +30,7 @@ task :medium do
     feed = RSS::Parser.parse(rss)
     File.open('_includes/medium.html', 'w+') do |file|
       feed.items.each do |item|
-        file.puts "<h2><a href=\"{#item.link}\">#{item.title}</a></h2>"
+        file.puts "<h2><a href=\"#{item.link}\">#{item.title}</a></h2>"
         file.puts "#{item.description}"
       end
     end
