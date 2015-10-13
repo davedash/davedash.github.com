@@ -66,7 +66,7 @@ they are called so I usually stick them at the veryt top of a page:
     <h3>{{ post.title }}</h3>
     <span class="date">{{ post.date }}</span>
     {{ post.body }}
-{{% endmacro %}}
+{% endmacro %}
 
 <h1>My Blog</h1>
 <h2>Featured Post</h2>
