@@ -18,7 +18,7 @@ title: writing | dave dash
 {% endfor %}
 </ol>
 
-[Full archive](archive)
+[Full archive](/archive)
 {% endcapture %}
 {{ content | markdownify }}
 </section>
