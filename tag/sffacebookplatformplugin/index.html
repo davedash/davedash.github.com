@@ -4,10 +4,17 @@ title: Entries tagged "sfFacebookPlatformPlugin"
 tag: sfFacebookPlatformPlugin
 type: "SfFacebookPlatformPlugin"
 ---
-    <h2 id="sfFacebookPlatformPlugin">Entries tagged "sfFacebookPlatformPlugin"</h2>
-
-    <ol>
+    <h1 id="sfFacebookPlatformPlugin">Entries tagged &ldquo;sfFacebookPlatformPlugin&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sfFacebookPlatformPlugin'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sfFacebookPlatformPlugin" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

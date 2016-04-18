@@ -4,10 +4,17 @@ title: Entries tagged "user experience"
 tag: user experience
 type: "User Experience"
 ---
-    <h2 id="user experience">Entries tagged "user experience"</h2>
-
-    <ol>
+    <h1 id="user experience">Entries tagged &ldquo;user experience&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['user experience'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "user experience" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

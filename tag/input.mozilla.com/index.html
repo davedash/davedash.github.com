@@ -4,10 +4,17 @@ title: Entries tagged "input.mozilla.com"
 tag: input.mozilla.com
 type: "Input.Mozilla.Com"
 ---
-    <h2 id="input.mozilla.com">Entries tagged "input.mozilla.com"</h2>
-
-    <ol>
+    <h1 id="input.mozilla.com">Entries tagged &ldquo;input.mozilla.com&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['input.mozilla.com'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "input.mozilla.com" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

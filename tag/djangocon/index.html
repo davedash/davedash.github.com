@@ -4,10 +4,17 @@ title: Entries tagged "djangocon"
 tag: djangocon
 type: "Djangocon"
 ---
-    <h2 id="djangocon">Entries tagged "djangocon"</h2>
-
-    <ol>
+    <h1 id="djangocon">Entries tagged &ldquo;djangocon&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['djangocon'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "djangocon" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

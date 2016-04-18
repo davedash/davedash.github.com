@@ -4,10 +4,17 @@ title: Entries tagged "music"
 tag: music
 type: "Music"
 ---
-    <h2 id="music">Entries tagged "music"</h2>
-
-    <ol>
+    <h1 id="music">Entries tagged &ldquo;music&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['music'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "music" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

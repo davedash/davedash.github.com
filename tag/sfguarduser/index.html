@@ -4,10 +4,17 @@ title: Entries tagged "sfGuarduser"
 tag: sfGuarduser
 type: "SfGuarduser"
 ---
-    <h2 id="sfGuarduser">Entries tagged "sfGuarduser"</h2>
-
-    <ol>
+    <h1 id="sfGuarduser">Entries tagged &ldquo;sfGuarduser&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sfGuarduser'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sfGuarduser" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

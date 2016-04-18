@@ -4,10 +4,17 @@ title: Entries tagged "pretty"
 tag: pretty
 type: "Pretty"
 ---
-    <h2 id="pretty">Entries tagged "pretty"</h2>
-
-    <ol>
+    <h1 id="pretty">Entries tagged &ldquo;pretty&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['pretty'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "pretty" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

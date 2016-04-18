@@ -4,10 +4,17 @@ title: Entries tagged "grids"
 tag: grids
 type: "Grids"
 ---
-    <h2 id="grids">Entries tagged "grids"</h2>
-
-    <ol>
+    <h1 id="grids">Entries tagged &ldquo;grids&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['grids'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "grids" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "magic functions"
 tag: magic functions
 type: "Magic Functions"
 ---
-    <h2 id="magic functions">Entries tagged "magic functions"</h2>
-
-    <ol>
+    <h1 id="magic functions">Entries tagged &ldquo;magic functions&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['magic functions'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "magic functions" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

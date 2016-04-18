@@ -4,10 +4,17 @@ title: Entries tagged "backups"
 tag: backups
 type: "Backups"
 ---
-    <h2 id="backups">Entries tagged "backups"</h2>
-
-    <ol>
+    <h1 id="backups">Entries tagged &ldquo;backups&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['backups'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "backups" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "security"
 tag: security
 type: "Security"
 ---
-    <h2 id="security">Entries tagged "security"</h2>
-
-    <ol>
+    <h1 id="security">Entries tagged &ldquo;security&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['security'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "security" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "path_info"
 tag: path_info
 type: "Path_info"
 ---
-    <h2 id="path_info">Entries tagged "path_info"</h2>
-
-    <ol>
+    <h1 id="path_info">Entries tagged &ldquo;path_info&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['path_info'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "path_info" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

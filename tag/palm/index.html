@@ -4,10 +4,17 @@ title: Entries tagged "palm"
 tag: palm
 type: "Palm"
 ---
-    <h2 id="palm">Entries tagged "palm"</h2>
-
-    <ol>
+    <h1 id="palm">Entries tagged &ldquo;palm&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['palm'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "palm" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

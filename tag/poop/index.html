@@ -4,10 +4,17 @@ title: Entries tagged "poop"
 tag: poop
 type: "Poop"
 ---
-    <h2 id="poop">Entries tagged "poop"</h2>
-
-    <ol>
+    <h1 id="poop">Entries tagged &ldquo;poop&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['poop'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "poop" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

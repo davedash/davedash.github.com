@@ -4,10 +4,17 @@ title: Entries tagged "python"
 tag: python
 type: "Python"
 ---
-    <h2 id="python">Entries tagged "python"</h2>
-
-    <ol>
+    <h1 id="python">Entries tagged &ldquo;python&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['python'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "python" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

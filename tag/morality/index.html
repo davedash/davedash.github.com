@@ -4,10 +4,17 @@ title: Entries tagged "morality"
 tag: morality
 type: "Morality"
 ---
-    <h2 id="morality">Entries tagged "morality"</h2>
-
-    <ol>
+    <h1 id="morality">Entries tagged &ldquo;morality&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['morality'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "morality" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

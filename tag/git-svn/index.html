@@ -4,10 +4,17 @@ title: Entries tagged "git-svn"
 tag: git-svn
 type: "Git-Svn"
 ---
-    <h2 id="git-svn">Entries tagged "git-svn"</h2>
-
-    <ol>
+    <h1 id="git-svn">Entries tagged &ldquo;git-svn&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['git-svn'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "git-svn" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

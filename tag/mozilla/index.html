@@ -4,10 +4,17 @@ title: Entries tagged "mozilla"
 tag: mozilla
 type: "Mozilla"
 ---
-    <h2 id="mozilla">Entries tagged "mozilla"</h2>
-
-    <ol>
+    <h1 id="mozilla">Entries tagged &ldquo;mozilla&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['mozilla'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "mozilla" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "zend-search-lucene"
 tag: zend-search-lucene
 type: "Zend-Search-Lucene"
 ---
-    <h2 id="zend-search-lucene">Entries tagged "zend-search-lucene"</h2>
-
-    <ol>
+    <h1 id="zend-search-lucene">Entries tagged &ldquo;zend-search-lucene&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['zend-search-lucene'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "zend-search-lucene" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

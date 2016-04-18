@@ -4,10 +4,17 @@ title: Entries tagged "circular"
 tag: circular
 type: "Circular"
 ---
-    <h2 id="circular">Entries tagged "circular"</h2>
-
-    <ol>
+    <h1 id="circular">Entries tagged &ldquo;circular&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['circular'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "circular" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

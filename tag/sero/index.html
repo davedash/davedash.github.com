@@ -4,10 +4,17 @@ title: Entries tagged "sero"
 tag: sero
 type: "Sero"
 ---
-    <h2 id="sero">Entries tagged "sero"</h2>
-
-    <ol>
+    <h1 id="sero">Entries tagged &ldquo;sero&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sero'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sero" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

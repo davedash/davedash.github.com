@@ -4,10 +4,17 @@ title: Entries tagged "wedding"
 tag: wedding
 type: "Wedding"
 ---
-    <h2 id="wedding">Entries tagged "wedding"</h2>
-
-    <ol>
+    <h1 id="wedding">Entries tagged &ldquo;wedding&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['wedding'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "wedding" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

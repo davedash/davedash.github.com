@@ -4,10 +4,17 @@ title: Entries tagged "photography"
 tag: photography
 type: "Photography"
 ---
-    <h2 id="photography">Entries tagged "photography"</h2>
-
-    <ol>
+    <h1 id="photography">Entries tagged &ldquo;photography&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['photography'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "photography" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

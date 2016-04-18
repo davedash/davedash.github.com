@@ -4,10 +4,17 @@ title: Entries tagged "learnability"
 tag: learnability
 type: "Learnability"
 ---
-    <h2 id="learnability">Entries tagged "learnability"</h2>
-
-    <ol>
+    <h1 id="learnability">Entries tagged &ldquo;learnability&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['learnability'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "learnability" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "inheritance"
 tag: inheritance
 type: "Inheritance"
 ---
-    <h2 id="inheritance">Entries tagged "inheritance"</h2>
-
-    <ol>
+    <h1 id="inheritance">Entries tagged &ldquo;inheritance&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['inheritance'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "inheritance" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

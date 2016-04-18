@@ -4,10 +4,17 @@ title: Entries tagged "REST"
 tag: REST
 type: "REST"
 ---
-    <h2 id="REST">Entries tagged "REST"</h2>
-
-    <ol>
+    <h1 id="REST">Entries tagged &ldquo;REST&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['REST'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "REST" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

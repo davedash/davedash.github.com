@@ -4,10 +4,17 @@ title: Entries tagged "google maps"
 tag: google maps
 type: "Google Maps"
 ---
-    <h2 id="google maps">Entries tagged "google maps"</h2>
-
-    <ol>
+    <h1 id="google maps">Entries tagged &ldquo;google maps&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['google maps'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "google maps" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

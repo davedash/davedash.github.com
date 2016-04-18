@@ -4,10 +4,17 @@ title: Entries tagged "php5"
 tag: php5
 type: "Php5"
 ---
-    <h2 id="php5">Entries tagged "php5"</h2>
-
-    <ol>
+    <h1 id="php5">Entries tagged &ldquo;php5&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['php5'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "php5" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

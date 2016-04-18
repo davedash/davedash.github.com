@@ -4,10 +4,17 @@ title: Entries tagged "programming"
 tag: programming
 type: "Programming"
 ---
-    <h2 id="programming">Entries tagged "programming"</h2>
-
-    <ol>
+    <h1 id="programming">Entries tagged &ldquo;programming&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['programming'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "programming" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

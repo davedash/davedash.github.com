@@ -4,10 +4,17 @@ title: Entries tagged "smiling"
 tag: smiling
 type: "Smiling"
 ---
-    <h2 id="smiling">Entries tagged "smiling"</h2>
-
-    <ol>
+    <h1 id="smiling">Entries tagged &ldquo;smiling&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['smiling'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "smiling" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

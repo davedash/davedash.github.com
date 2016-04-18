@@ -4,10 +4,17 @@ title: Entries tagged "wm6.1"
 tag: wm6.1
 type: "Wm6.1"
 ---
-    <h2 id="wm6.1">Entries tagged "wm6.1"</h2>
-
-    <ol>
+    <h1 id="wm6.1">Entries tagged &ldquo;wm6.1&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['wm6.1'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "wm6.1" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

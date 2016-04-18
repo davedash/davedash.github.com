@@ -4,10 +4,17 @@ title: Entries tagged "sorting"
 tag: sorting
 type: "Sorting"
 ---
-    <h2 id="sorting">Entries tagged "sorting"</h2>
-
-    <ol>
+    <h1 id="sorting">Entries tagged &ldquo;sorting&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sorting'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sorting" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

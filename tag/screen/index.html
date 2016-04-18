@@ -4,10 +4,17 @@ title: Entries tagged "screen"
 tag: screen
 type: "Screen"
 ---
-    <h2 id="screen">Entries tagged "screen"</h2>
-
-    <ol>
+    <h1 id="screen">Entries tagged &ldquo;screen&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['screen'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "screen" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "Related Sites"
 tag: Related Sites
 type: "Related Sites"
 ---
-    <h2 id="Related Sites">Entries tagged "Related Sites"</h2>
-
-    <ol>
+    <h1 id="Related Sites">Entries tagged &ldquo;Related Sites&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['Related Sites'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "Related Sites" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

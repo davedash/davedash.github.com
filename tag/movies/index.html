@@ -4,10 +4,17 @@ title: Entries tagged "movies"
 tag: movies
 type: "Movies"
 ---
-    <h2 id="movies">Entries tagged "movies"</h2>
-
-    <ol>
+    <h1 id="movies">Entries tagged &ldquo;movies&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['movies'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "movies" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "fastcgi"
 tag: fastcgi
 type: "Fastcgi"
 ---
-    <h2 id="fastcgi">Entries tagged "fastcgi"</h2>
-
-    <ol>
+    <h1 id="fastcgi">Entries tagged &ldquo;fastcgi&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['fastcgi'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "fastcgi" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

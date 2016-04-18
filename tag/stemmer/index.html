@@ -4,10 +4,17 @@ title: Entries tagged "stemmer"
 tag: stemmer
 type: "Stemmer"
 ---
-    <h2 id="stemmer">Entries tagged "stemmer"</h2>
-
-    <ol>
+    <h1 id="stemmer">Entries tagged &ldquo;stemmer&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['stemmer'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "stemmer" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

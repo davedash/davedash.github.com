@@ -4,10 +4,17 @@ title: Entries tagged "cgi"
 tag: cgi
 type: "Cgi"
 ---
-    <h2 id="cgi">Entries tagged "cgi"</h2>
-
-    <ol>
+    <h1 id="cgi">Entries tagged &ldquo;cgi&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['cgi'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "cgi" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

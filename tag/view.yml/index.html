@@ -4,10 +4,17 @@ title: Entries tagged "view.yml"
 tag: view.yml
 type: "View.Yml"
 ---
-    <h2 id="view.yml">Entries tagged "view.yml"</h2>
-
-    <ol>
+    <h1 id="view.yml">Entries tagged &ldquo;view.yml&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['view.yml'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "view.yml" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "pipes"
 tag: pipes
 type: "Pipes"
 ---
-    <h2 id="pipes">Entries tagged "pipes"</h2>
-
-    <ol>
+    <h1 id="pipes">Entries tagged &ldquo;pipes&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['pipes'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "pipes" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

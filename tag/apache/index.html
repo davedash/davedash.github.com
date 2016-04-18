@@ -4,10 +4,17 @@ title: Entries tagged "apache"
 tag: apache
 type: "Apache"
 ---
-    <h2 id="apache">Entries tagged "apache"</h2>
-
-    <ol>
+    <h1 id="apache">Entries tagged &ldquo;apache&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['apache'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "apache" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

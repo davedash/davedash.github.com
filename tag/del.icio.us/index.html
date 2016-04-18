@@ -4,10 +4,17 @@ title: Entries tagged "del.icio.us"
 tag: del.icio.us
 type: "Del.Icio.Us"
 ---
-    <h2 id="del.icio.us">Entries tagged "del.icio.us"</h2>
-
-    <ol>
+    <h1 id="del.icio.us">Entries tagged &ldquo;del.icio.us&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['del.icio.us'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "del.icio.us" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

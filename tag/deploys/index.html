@@ -4,10 +4,17 @@ title: Entries tagged "deploys"
 tag: deploys
 type: "Deploys"
 ---
-    <h2 id="deploys">Entries tagged "deploys"</h2>
-
-    <ol>
+    <h1 id="deploys">Entries tagged &ldquo;deploys&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['deploys'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "deploys" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

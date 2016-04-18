@@ -4,10 +4,17 @@ title: Entries tagged "string"
 tag: string
 type: "String"
 ---
-    <h2 id="string">Entries tagged "string"</h2>
-
-    <ol>
+    <h1 id="string">Entries tagged &ldquo;string&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['string'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "string" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "babysj"
 tag: babysj
 type: "Babysj"
 ---
-    <h2 id="babysj">Entries tagged "babysj"</h2>
-
-    <ol>
+    <h1 id="babysj">Entries tagged &ldquo;babysj&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['babysj'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "babysj" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

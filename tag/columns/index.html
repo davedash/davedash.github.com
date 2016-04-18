@@ -4,10 +4,17 @@ title: Entries tagged "columns"
 tag: columns
 type: "Columns"
 ---
-    <h2 id="columns">Entries tagged "columns"</h2>
-
-    <ol>
+    <h1 id="columns">Entries tagged &ldquo;columns&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['columns'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "columns" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

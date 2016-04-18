@@ -4,10 +4,17 @@ title: Entries tagged "web development"
 tag: web development
 type: "Web Development"
 ---
-    <h2 id="web development">Entries tagged "web development"</h2>
-
-    <ol>
+    <h1 id="web development">Entries tagged &ldquo;web development&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['web development'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "web development" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

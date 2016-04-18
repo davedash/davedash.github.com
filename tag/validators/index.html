@@ -4,10 +4,17 @@ title: Entries tagged "validators"
 tag: validators
 type: "Validators"
 ---
-    <h2 id="validators">Entries tagged "validators"</h2>
-
-    <ol>
+    <h1 id="validators">Entries tagged &ldquo;validators&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['validators'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "validators" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

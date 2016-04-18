@@ -4,10 +4,17 @@ title: Entries tagged "seo"
 tag: seo
 type: "Seo"
 ---
-    <h2 id="seo">Entries tagged "seo"</h2>
-
-    <ol>
+    <h1 id="seo">Entries tagged &ldquo;seo&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['seo'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "seo" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

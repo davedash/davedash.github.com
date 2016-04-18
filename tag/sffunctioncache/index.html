@@ -4,10 +4,17 @@ title: Entries tagged "sfFunctionCache"
 tag: sfFunctionCache
 type: "SfFunctionCache"
 ---
-    <h2 id="sfFunctionCache">Entries tagged "sfFunctionCache"</h2>
-
-    <ol>
+    <h1 id="sfFunctionCache">Entries tagged &ldquo;sfFunctionCache&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sfFunctionCache'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sfFunctionCache" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

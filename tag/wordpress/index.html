@@ -4,10 +4,17 @@ title: Entries tagged "wordpress"
 tag: wordpress
 type: "Wordpress"
 ---
-    <h2 id="wordpress">Entries tagged "wordpress"</h2>
-
-    <ol>
+    <h1 id="wordpress">Entries tagged &ldquo;wordpress&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['wordpress'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "wordpress" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

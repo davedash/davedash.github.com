@@ -4,10 +4,17 @@ title: Entries tagged "sfDoctrine"
 tag: sfDoctrine
 type: "SfDoctrine"
 ---
-    <h2 id="sfDoctrine">Entries tagged "sfDoctrine"</h2>
-
-    <ol>
+    <h1 id="sfDoctrine">Entries tagged &ldquo;sfDoctrine&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sfDoctrine'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sfDoctrine" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

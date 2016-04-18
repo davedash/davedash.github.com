@@ -4,10 +4,17 @@ title: Entries tagged "oauth"
 tag: oauth
 type: "Oauth"
 ---
-    <h2 id="oauth">Entries tagged "oauth"</h2>
-
-    <ol>
+    <h1 id="oauth">Entries tagged &ldquo;oauth&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['oauth'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "oauth" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

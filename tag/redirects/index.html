@@ -4,10 +4,17 @@ title: Entries tagged "redirects"
 tag: redirects
 type: "Redirects"
 ---
-    <h2 id="redirects">Entries tagged "redirects"</h2>
-
-    <ol>
+    <h1 id="redirects">Entries tagged &ldquo;redirects&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['redirects'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "redirects" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

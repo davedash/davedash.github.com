@@ -4,10 +4,17 @@ title: Entries tagged "cookies"
 tag: cookies
 type: "Cookies"
 ---
-    <h2 id="cookies">Entries tagged "cookies"</h2>
-
-    <ol>
+    <h1 id="cookies">Entries tagged &ldquo;cookies&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['cookies'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "cookies" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

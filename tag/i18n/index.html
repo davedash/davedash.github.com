@@ -4,10 +4,17 @@ title: Entries tagged "i18n"
 tag: i18n
 type: "I18n"
 ---
-    <h2 id="i18n">Entries tagged "i18n"</h2>
-
-    <ol>
+    <h1 id="i18n">Entries tagged &ldquo;i18n&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['i18n'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "i18n" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

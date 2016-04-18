@@ -4,10 +4,17 @@ title: Entries tagged "macbook pro"
 tag: macbook pro
 type: "Macbook Pro"
 ---
-    <h2 id="macbook pro">Entries tagged "macbook pro"</h2>
-
-    <ol>
+    <h1 id="macbook pro">Entries tagged &ldquo;macbook pro&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['macbook pro'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "macbook pro" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "unixtime"
 tag: unixtime
 type: "Unixtime"
 ---
-    <h2 id="unixtime">Entries tagged "unixtime"</h2>
-
-    <ol>
+    <h1 id="unixtime">Entries tagged &ldquo;unixtime&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['unixtime'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "unixtime" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

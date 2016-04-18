@@ -4,10 +4,17 @@ title: Entries tagged "apple store"
 tag: apple store
 type: "Apple Store"
 ---
-    <h2 id="apple store">Entries tagged "apple store"</h2>
-
-    <ol>
+    <h1 id="apple store">Entries tagged &ldquo;apple store&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['apple store'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "apple store" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

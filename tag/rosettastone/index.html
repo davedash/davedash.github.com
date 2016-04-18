@@ -4,10 +4,17 @@ title: Entries tagged "rosettastone"
 tag: rosettastone
 type: "Rosettastone"
 ---
-    <h2 id="rosettastone">Entries tagged "rosettastone"</h2>
-
-    <ol>
+    <h1 id="rosettastone">Entries tagged &ldquo;rosettastone&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['rosettastone'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "rosettastone" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

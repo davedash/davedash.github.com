@@ -4,10 +4,17 @@ title: Entries tagged "lucene"
 tag: lucene
 type: "Lucene"
 ---
-    <h2 id="lucene">Entries tagged "lucene"</h2>
-
-    <ol>
+    <h1 id="lucene">Entries tagged &ldquo;lucene&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['lucene'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "lucene" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

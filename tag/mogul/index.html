@@ -4,10 +4,17 @@ title: Entries tagged "mogul"
 tag: mogul
 type: "Mogul"
 ---
-    <h2 id="mogul">Entries tagged "mogul"</h2>
-
-    <ol>
+    <h1 id="mogul">Entries tagged &ldquo;mogul&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['mogul'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "mogul" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

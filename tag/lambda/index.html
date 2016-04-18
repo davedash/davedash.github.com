@@ -4,10 +4,17 @@ title: Entries tagged "lambda"
 tag: lambda
 type: "Lambda"
 ---
-    <h2 id="lambda">Entries tagged "lambda"</h2>
-
-    <ol>
+    <h1 id="lambda">Entries tagged &ldquo;lambda&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['lambda'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "lambda" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

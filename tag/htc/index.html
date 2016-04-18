@@ -4,10 +4,17 @@ title: Entries tagged "htc"
 tag: htc
 type: "Htc"
 ---
-    <h2 id="htc">Entries tagged "htc"</h2>
-
-    <ol>
+    <h1 id="htc">Entries tagged &ldquo;htc&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['htc'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "htc" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

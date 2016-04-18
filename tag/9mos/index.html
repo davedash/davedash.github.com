@@ -4,10 +4,17 @@ title: Entries tagged "9mos"
 tag: 9mos
 type: "9mos"
 ---
-    <h2 id="9mos">Entries tagged "9mos"</h2>
-
-    <ol>
+    <h1 id="9mos">Entries tagged &ldquo;9mos&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['9mos'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "9mos" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

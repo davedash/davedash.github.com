@@ -4,10 +4,17 @@ title: Entries tagged "bash"
 tag: bash
 type: "Bash"
 ---
-    <h2 id="bash">Entries tagged "bash"</h2>
-
-    <ol>
+    <h1 id="bash">Entries tagged &ldquo;bash&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['bash'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "bash" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

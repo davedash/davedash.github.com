@@ -4,10 +4,17 @@ title: Entries tagged "weight loss"
 tag: weight loss
 type: "Weight Loss"
 ---
-    <h2 id="weight loss">Entries tagged "weight loss"</h2>
-
-    <ol>
+    <h1 id="weight loss">Entries tagged &ldquo;weight loss&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['weight loss'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "weight loss" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "rewrite"
 tag: rewrite
 type: "Rewrite"
 ---
-    <h2 id="rewrite">Entries tagged "rewrite"</h2>
-
-    <ol>
+    <h1 id="rewrite">Entries tagged &ldquo;rewrite&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['rewrite'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "rewrite" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

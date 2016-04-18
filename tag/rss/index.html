@@ -4,10 +4,17 @@ title: Entries tagged "rss"
 tag: rss
 type: "Rss"
 ---
-    <h2 id="rss">Entries tagged "rss"</h2>
-
-    <ol>
+    <h1 id="rss">Entries tagged &ldquo;rss&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['rss'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "rss" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

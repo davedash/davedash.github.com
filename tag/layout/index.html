@@ -4,10 +4,17 @@ title: Entries tagged "layout"
 tag: layout
 type: "Layout"
 ---
-    <h2 id="layout">Entries tagged "layout"</h2>
-
-    <ol>
+    <h1 id="layout">Entries tagged &ldquo;layout&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['layout'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "layout" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

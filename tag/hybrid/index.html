@@ -4,10 +4,17 @@ title: Entries tagged "hybrid"
 tag: hybrid
 type: "Hybrid"
 ---
-    <h2 id="hybrid">Entries tagged "hybrid"</h2>
-
-    <ol>
+    <h1 id="hybrid">Entries tagged &ldquo;hybrid&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['hybrid'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "hybrid" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

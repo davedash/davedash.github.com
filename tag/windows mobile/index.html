@@ -4,10 +4,17 @@ title: Entries tagged "windows mobile"
 tag: windows mobile
 type: "Windows Mobile"
 ---
-    <h2 id="windows mobile">Entries tagged "windows mobile"</h2>
-
-    <ol>
+    <h1 id="windows mobile">Entries tagged &ldquo;windows mobile&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['windows mobile'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "windows mobile" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

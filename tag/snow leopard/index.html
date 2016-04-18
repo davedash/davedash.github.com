@@ -4,10 +4,17 @@ title: Entries tagged "snow leopard"
 tag: snow leopard
 type: "Snow Leopard"
 ---
-    <h2 id="snow leopard">Entries tagged "snow leopard"</h2>
-
-    <ol>
+    <h1 id="snow leopard">Entries tagged &ldquo;snow leopard&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['snow leopard'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "snow leopard" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

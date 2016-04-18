@@ -4,10 +4,17 @@ title: Entries tagged "design-pattern"
 tag: design-pattern
 type: "Design-Pattern"
 ---
-    <h2 id="design-pattern">Entries tagged "design-pattern"</h2>
-
-    <ol>
+    <h1 id="design-pattern">Entries tagged &ldquo;design-pattern&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['design-pattern'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "design-pattern" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "background"
 tag: background
 type: "Background"
 ---
-    <h2 id="background">Entries tagged "background"</h2>
-
-    <ol>
+    <h1 id="background">Entries tagged &ldquo;background&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['background'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "background" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

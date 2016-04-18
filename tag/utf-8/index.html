@@ -4,10 +4,17 @@ title: Entries tagged "utf-8"
 tag: utf-8
 type: "Utf-8"
 ---
-    <h2 id="utf-8">Entries tagged "utf-8"</h2>
-
-    <ol>
+    <h1 id="utf-8">Entries tagged &ldquo;utf-8&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['utf-8'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "utf-8" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

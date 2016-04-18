@@ -4,10 +4,17 @@ title: Entries tagged "interviewing"
 tag: interviewing
 type: "Interviewing"
 ---
-    <h2 id="interviewing">Entries tagged "interviewing"</h2>
-
-    <ol>
+    <h1 id="interviewing">Entries tagged &ldquo;interviewing&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['interviewing'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "interviewing" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

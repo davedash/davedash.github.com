@@ -4,10 +4,17 @@ title: Entries tagged "email"
 tag: email
 type: "Email"
 ---
-    <h2 id="email">Entries tagged "email"</h2>
-
-    <ol>
+    <h1 id="email">Entries tagged &ldquo;email&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['email'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "email" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

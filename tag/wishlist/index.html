@@ -4,10 +4,17 @@ title: Entries tagged "wishlist"
 tag: wishlist
 type: "Wishlist"
 ---
-    <h2 id="wishlist">Entries tagged "wishlist"</h2>
-
-    <ol>
+    <h1 id="wishlist">Entries tagged &ldquo;wishlist&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['wishlist'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "wishlist" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

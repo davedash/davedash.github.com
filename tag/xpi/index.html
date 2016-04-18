@@ -4,10 +4,17 @@ title: Entries tagged "xpi"
 tag: xpi
 type: "Xpi"
 ---
-    <h2 id="xpi">Entries tagged "xpi"</h2>
-
-    <ol>
+    <h1 id="xpi">Entries tagged &ldquo;xpi&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['xpi'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "xpi" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

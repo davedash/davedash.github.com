@@ -4,10 +4,17 @@ title: Entries tagged "Cache_Lite"
 tag: Cache_Lite
 type: "Cache_Lite"
 ---
-    <h2 id="Cache_Lite">Entries tagged "Cache_Lite"</h2>
-
-    <ol>
+    <h1 id="Cache_Lite">Entries tagged &ldquo;Cache_Lite&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['Cache_Lite'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "Cache_Lite" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

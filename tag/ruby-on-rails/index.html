@@ -4,10 +4,17 @@ title: Entries tagged "ruby-on-rails"
 tag: ruby-on-rails
 type: "Ruby-On-Rails"
 ---
-    <h2 id="ruby-on-rails">Entries tagged "ruby-on-rails"</h2>
-
-    <ol>
+    <h1 id="ruby-on-rails">Entries tagged &ldquo;ruby-on-rails&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['ruby-on-rails'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "ruby-on-rails" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

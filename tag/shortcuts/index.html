@@ -4,10 +4,17 @@ title: Entries tagged "shortcuts"
 tag: shortcuts
 type: "Shortcuts"
 ---
-    <h2 id="shortcuts">Entries tagged "shortcuts"</h2>
-
-    <ol>
+    <h1 id="shortcuts">Entries tagged &ldquo;shortcuts&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['shortcuts'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "shortcuts" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "netgear"
 tag: netgear
 type: "Netgear"
 ---
-    <h2 id="netgear">Entries tagged "netgear"</h2>
-
-    <ol>
+    <h1 id="netgear">Entries tagged &ldquo;netgear&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['netgear'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "netgear" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

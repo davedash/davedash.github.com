@@ -4,10 +4,17 @@ title: Entries tagged "real-media"
 tag: real-media
 type: "Real-Media"
 ---
-    <h2 id="real-media">Entries tagged "real-media"</h2>
-
-    <ol>
+    <h1 id="real-media">Entries tagged &ldquo;real-media&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['real-media'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "real-media" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

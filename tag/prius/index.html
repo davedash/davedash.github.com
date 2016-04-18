@@ -4,10 +4,17 @@ title: Entries tagged "prius"
 tag: prius
 type: "Prius"
 ---
-    <h2 id="prius">Entries tagged "prius"</h2>
-
-    <ol>
+    <h1 id="prius">Entries tagged &ldquo;prius&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['prius'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "prius" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

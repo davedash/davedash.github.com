@@ -4,10 +4,17 @@ title: Entries tagged "plugins"
 tag: plugins
 type: "Plugins"
 ---
-    <h2 id="plugins">Entries tagged "plugins"</h2>
-
-    <ol>
+    <h1 id="plugins">Entries tagged &ldquo;plugins&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['plugins'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "plugins" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

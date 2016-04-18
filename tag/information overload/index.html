@@ -4,10 +4,17 @@ title: Entries tagged "information overload"
 tag: information overload
 type: "Information Overload"
 ---
-    <h2 id="information overload">Entries tagged "information overload"</h2>
-
-    <ol>
+    <h1 id="information overload">Entries tagged &ldquo;information overload&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['information overload'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "information overload" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

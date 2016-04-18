@@ -4,10 +4,17 @@ title: Entries tagged "moz10"
 tag: moz10
 type: "Moz10"
 ---
-    <h2 id="moz10">Entries tagged "moz10"</h2>
-
-    <ol>
+    <h1 id="moz10">Entries tagged &ldquo;moz10&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['moz10'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "moz10" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

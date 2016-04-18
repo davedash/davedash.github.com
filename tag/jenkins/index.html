@@ -4,10 +4,17 @@ title: Entries tagged "jenkins"
 tag: jenkins
 type: "Jenkins"
 ---
-    <h2 id="jenkins">Entries tagged "jenkins"</h2>
-
-    <ol>
+    <h1 id="jenkins">Entries tagged &ldquo;jenkins&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['jenkins'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "jenkins" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

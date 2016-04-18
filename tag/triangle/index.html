@@ -4,10 +4,17 @@ title: Entries tagged "triangle"
 tag: triangle
 type: "Triangle"
 ---
-    <h2 id="triangle">Entries tagged "triangle"</h2>
-
-    <ol>
+    <h1 id="triangle">Entries tagged &ldquo;triangle&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['triangle'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "triangle" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

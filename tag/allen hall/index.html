@@ -4,10 +4,17 @@ title: Entries tagged "allen hall"
 tag: allen hall
 type: "Allen Hall"
 ---
-    <h2 id="allen hall">Entries tagged "allen hall"</h2>
-
-    <ol>
+    <h1 id="allen hall">Entries tagged &ldquo;allen hall&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['allen hall'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "allen hall" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

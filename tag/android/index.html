@@ -4,10 +4,17 @@ title: Entries tagged "android"
 tag: android
 type: "Android"
 ---
-    <h2 id="android">Entries tagged "android"</h2>
-
-    <ol>
+    <h1 id="android">Entries tagged &ldquo;android&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['android'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "android" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

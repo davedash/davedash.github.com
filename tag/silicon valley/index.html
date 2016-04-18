@@ -4,10 +4,17 @@ title: Entries tagged "silicon valley"
 tag: silicon valley
 type: "Silicon Valley"
 ---
-    <h2 id="silicon valley">Entries tagged "silicon valley"</h2>
-
-    <ol>
+    <h1 id="silicon valley">Entries tagged &ldquo;silicon valley&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['silicon valley'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "silicon valley" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

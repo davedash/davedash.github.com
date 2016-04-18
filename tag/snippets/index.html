@@ -4,10 +4,17 @@ title: Entries tagged "snippets"
 tag: snippets
 type: "Snippets"
 ---
-    <h2 id="snippets">Entries tagged "snippets"</h2>
-
-    <ol>
+    <h1 id="snippets">Entries tagged &ldquo;snippets&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['snippets'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "snippets" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

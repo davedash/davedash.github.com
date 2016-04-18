@@ -4,10 +4,17 @@ title: Entries tagged "sensio"
 tag: sensio
 type: "Sensio"
 ---
-    <h2 id="sensio">Entries tagged "sensio"</h2>
-
-    <ol>
+    <h1 id="sensio">Entries tagged &ldquo;sensio&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['sensio'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "sensio" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "files"
 tag: files
 type: "Files"
 ---
-    <h2 id="files">Entries tagged "files"</h2>
-
-    <ol>
+    <h1 id="files">Entries tagged &ldquo;files&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['files'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "files" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

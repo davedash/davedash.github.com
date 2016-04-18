@@ -4,10 +4,17 @@ title: Entries tagged "px"
 tag: px
 type: "Px"
 ---
-    <h2 id="px">Entries tagged "px"</h2>
-
-    <ol>
+    <h1 id="px">Entries tagged &ldquo;px&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['px'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "px" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

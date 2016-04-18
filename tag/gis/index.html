@@ -4,10 +4,17 @@ title: Entries tagged "gis"
 tag: gis
 type: "Gis"
 ---
-    <h2 id="gis">Entries tagged "gis"</h2>
-
-    <ol>
+    <h1 id="gis">Entries tagged &ldquo;gis&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['gis'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "gis" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "japanese"
 tag: japanese
 type: "Japanese"
 ---
-    <h2 id="japanese">Entries tagged "japanese"</h2>
-
-    <ol>
+    <h1 id="japanese">Entries tagged &ldquo;japanese&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['japanese'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "japanese" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "firebug"
 tag: firebug
 type: "Firebug"
 ---
-    <h2 id="firebug">Entries tagged "firebug"</h2>
-
-    <ol>
+    <h1 id="firebug">Entries tagged &ldquo;firebug&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['firebug'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "firebug" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+

@@ -4,10 +4,17 @@ title: Entries tagged "techshop"
 tag: techshop
 type: "Techshop"
 ---
-    <h2 id="techshop">Entries tagged "techshop"</h2>
-
-    <ol>
+    <h1 id="techshop">Entries tagged &ldquo;techshop&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['techshop'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "techshop" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+
