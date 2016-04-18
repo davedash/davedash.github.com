@@ -1,42 +1,20 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title }} | dave dash</title>
-  <meta name="author" content="Dave Dash" />
-  <link href="/atom.xml" rel="alternate"
-        title="Dave Dash (all posts)" type="application/atom+xml" />
-  {% for tag in page.tags %}
-    <link href="/tag/{{ tag }}/atom.xml" rel="alternate"
-          title="Dave Dash (posts tagged {{ tag }})"
-          type="application/atom+xml" />
-  {% endfor %}
+---
+layout: default
+---
+<div id="single">
 
-  <!-- Homepage CSS -->
-  {% include css.html %}
-</head>
-{% assign host = 'davedash.com' %}
-<body data-id="http://{{ host }}{{ page.id }}/" class="tutorial">
-  <header>
-   <h1>
-      <a href="/">Dave Dash</a>
-   </h1>
-  </header>
-  <div id="content">
-    <h2>
-      <span class="post_date"><a href="/tutorial">tutorials</a> &raquo;</span>
-      {{ page.title }}
-    </h2>
-    <div id="post">
+  <div class="post">
+
+    <div class="caption">
+      <div class="header">
+        <span class="post-tag"><a href="/tutorial">#tutorials</a></span>
+        <h1>{{ page.title }}</h1>
+      </div>
       {{ content }}
     </div>
   </div>
-
   <footer>
     If you like my code,
     <a href="http://github.com/davedash/">follow me on Github</a>.
   </footer>
-  {% include ga.html %}
-</body>
-</html>
-
+</div>
