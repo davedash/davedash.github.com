@@ -23,30 +23,37 @@
 <body data-id="http://{{ host }}{{ page.id }}/" class="post">
   {% include header.html %}
 
-  <div id="content" class="container">
-    <h2>
-      <span class="post_date">{{ page.date | date: '%d %b %Y' }} &raquo;</span>
-      {{ page.title }}
-    </h2>
-    <p class="meta">
-      {% if page.tags.size > 0 %}
-      <span class="tags">Tagged:
-        {% for tag in page.tags %}
-        <a href="/tag/{{ tag }}/">{{ tag }}</a>{% if forloop.rindex0 > 0 %},
-        {% endif %}
-        {% endfor %}
-      </span>
-      {% endif %}
-    </p>
-    <div id="post">
-      {{ content }}
-    </div>
+  <div id="single">
 
-    <div id="disqus_thread"></div>
+    <div class="container">
+
+      <div class="post">
+        <div class="caption">
+          <div class="header">
+            <span class="post-tag">
+              {% for tag in page.tags %}
+              <a href="/tag/{{ tag }}/">#{{ tag }}</a>
+              {% endfor %}
+            </span>
+            <h1>{{ page.title }}</h1>
+            <span class="post-date">{{ page.date | date: '%d %b %Y' }}</span>
+          </div>
+
+          {{ content }}
+
+        </div>
+      </div>
+      {% if layout.comments != false %}
+      <div class="comments">
+        <div id="disqus_thread"></div>
+      </div>
+      {% endif %}
+
+    </div>
   </div>
 
   <!-- Move this into an external js -->
-  {% if page.comments != 'false' %}
+  {% if layout.comments != false %}
     <script type="text/javascript">
       var disqus_url = document.body.getAttribute('data-id');
       var disqus_developer = window.location.hostname == 'localhost'
@@ -56,5 +63,6 @@
     </script>
   {% endif %}
   {% include ga.html %}
+
 </body>
 </html>
