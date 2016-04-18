@@ -3,4 +3,5 @@
 ruby "2.1.1"
 source 'https://rubygems.org'
 
-gem 'github-pages'
+gem 'gsl'
+gem 'github-pages', group: :jekyll_plugins

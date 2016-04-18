@@ -83,9 +83,8 @@ task :tags do
   require 'jekyll'
   include Jekyll::Filters
 
-  options = Jekyll.configuration({})
-  site = Jekyll::Site.new(options)
-  site.read_posts('')
+  site = Jekyll::Site.new(Jekyll::Configuration::DEFAULTS)
+  site.read
   site.tags.sort.each do |category, posts|
 
     next if category == ".net"
