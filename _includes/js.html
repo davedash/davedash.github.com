@@ -2,26 +2,3 @@
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="/static/ext/bootstrap/bootstrap.min.js"></script>
-<script>
-  // Sidenav affixing
-  $(function() {
-    setTimeout(function () {
-      var $sideBar = $('#sidebar')
-
-      $sideBar.affix({
-        offset: {
-          top: function () {
-            var offsetTop      = $sideBar.offset().top
-            console.log(offsetTop)
-            var sideBarMargin  = parseInt($sideBar.children(0).css('margin-top'), 10)
-            console.log(sideBarMargin)
-            var navOuterHeight = $('.bs-docs-nav').height()
-            console.log(navOuterHeight)
-
-            return (this.top = offsetTop - navOuterHeight - sideBarMargin)
-          }
-        }
-      });
-    }, 100);
-  });
-</script>

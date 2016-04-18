@@ -1,0 +1,99 @@
+/***********************************************
+* Orange
+***********************************************/
+body.orange a,
+body.orange .post-tag,
+body.orange .brand span:hover,
+body.orange a {
+	color: #FF7C26;
+}
+
+/***********************************************
+* Green
+***********************************************/
+body.green a,
+body.green .post-tag,
+body.green .brand span:hover,
+body.green a {
+	color: #1ECC3E;
+}
+
+/***********************************************
+* Red
+***********************************************/
+body.red a,
+body.red .post-tag,
+body.red .brand span:hover,
+body.red a {
+	color: #FF2626;
+}
+
+/***********************************************
+* Blue
+***********************************************/
+body.blue a,
+body.blue .post-tag,
+body.blue .brand span:hover,
+body.blue a {
+	color: #3DA7FF;
+}
+
+/***********************************************
+* Pink
+***********************************************/
+body.pink a,
+body.pink .post-tag,
+body.pink .brand span:hover,
+body.pink a {
+	color: #FF26E9;
+}
+
+/***********************************************
+* Yellow
+***********************************************/
+body.yellow a,
+body.yellow .post-tag,
+body.yellow .brand span:hover,
+body.yellow a {
+	color: #FFD500;
+}
+
+/***********************************************
+* Purple
+***********************************************/
+body.purple a,
+body.purple .post-tag,
+body.purple .brand span:hover,
+body.purple a {
+	color: #8B26FF;
+}
+
+/***********************************************
+* Army
+***********************************************/
+body.army a,
+body.army .post-tag,
+body.army .brand span:hover,
+body.army a {
+	color: #008000;
+}
+
+/***********************************************
+* Azure
+***********************************************/
+body.azure a,
+body.azure .post-tag,
+body.azure .brand span:hover,
+body.azure a {
+	color: #007FFF;
+}
+
+/***********************************************
+* Cadet
+***********************************************/
+body.cadet a,
+body.cadet .post-tag,
+body.cadet .brand span:hover,
+body.cadet a {
+	color: #536872;
+}

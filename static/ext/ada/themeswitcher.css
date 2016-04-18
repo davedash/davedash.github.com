@@ -1,0 +1,84 @@
+.themeswitcher {
+	position: fixed;
+	left: -140px;
+	top: 110px;
+	background: #383838;
+	width: 180px;
+	height: 44px;
+	z-index: 1;
+	border-radius: 0 5px 5px 0;
+	color: #fff;
+}
+
+.themeswitcher .toggle {
+	float: right;
+	font-size: 1.7em;
+	margin: 5px 10px;
+	cursor: pointer;
+	color: #fff;
+}
+
+.themeswitcher.open {
+	left: 0;
+	height: 114px;
+}
+
+.themeswitcher .colors {
+	margin: 18px 10px 10px;
+	display: none;
+}
+
+.themeswitcher.open .colors {
+	display: block;
+}
+
+.themeswitcher .colors .color {
+	border: 1px solid #fff;
+	margin: 2px;
+	width: 24px;
+	height: 24px;
+	background: #fff;
+	border-radius: 0;
+	display: inline-block;
+	padding: 0;
+}
+
+.themeswitcher .colors .color.orange {
+	background: #FF7C26;
+}
+
+.themeswitcher .colors .color.green {
+	background: #00C5A1;
+}
+
+.themeswitcher .colors .color.red {
+	background: #F9423A;
+}
+
+.themeswitcher .colors .color.blue {
+	background: #3DA7FF;
+}
+
+.themeswitcher .colors .color.pink {
+	background: #EB2B65;
+}
+
+.themeswitcher .colors .color.yellow {
+	background: #FFD500;
+}
+
+.themeswitcher .colors .color.purple {
+	background: #8B26FF;
+}
+
+.themeswitcher .colors .color.army {
+	background: #008000;
+}
+
+.themeswitcher .colors .color.azure {
+	background: #007FFF;
+}
+
+.themeswitcher .colors .color.cadet {
+	background: #536872;
+}
