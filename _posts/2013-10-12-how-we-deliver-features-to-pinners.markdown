@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post_nocomment
 title: "How We Deliver Features to Pinners"
 tags: [python, pinterest, deploys]
 published: true

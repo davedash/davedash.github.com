@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post_nocomment
 title: "What actually goes on during a deploy"
 tags: [deploys, pinterest]
 published: true

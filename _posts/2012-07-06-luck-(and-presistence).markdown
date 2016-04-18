@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post_nocomment
 title: "Luck (and Presistence)"
 tags: [luck, family, computers]
 published: true
