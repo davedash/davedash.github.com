@@ -5,8 +5,6 @@ tags: [python, jenkins]
 published: true
 time: 8:40AM
 ---
-# Automatic versioning of python packages with Jenkins
-
 I maintain a few internal python libraries at Pinterest, and for some of them, we try to maintain properly versioned pip packages.  There's no real method to my madness of versioning things, I start with `0.1` and if I need to make changes that require me to reinstall the package somewhere we'll soon see a `0.1.1`.
 
 
