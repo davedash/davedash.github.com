@@ -1,6 +1,4 @@
 require 'rake/clean'
-require 'rss'
-require 'open-uri'
 
 task :clean do
     puts 'Cleaning _site...'
@@ -10,8 +8,6 @@ end
 
 desc 'Everything you need to do before you deploy'
 task :pre_deploy do
-    Rake::Task["medium"].invoke
-    Rake::Task["cloud"].invoke
     Rake::Task["tags"].invoke
     puts 'Building site...'
     sh 'jekyll build'
@@ -20,61 +16,7 @@ end
 desc 'Quickly sync static assets to build dir'
 task :sync_static do
     sh "rsync -a static/ _site/static/"
-    Rake::Task["rsync"].invoke
 end
-
-desc 'Add links to Medium'
-task :medium do
-  url = 'https://medium.com/feed/@davedash'
-  open(url) do |rss|
-    feed = RSS::Parser.parse(rss)
-    File.open('_includes/medium.html', 'w+') do |file|
-      feed.items.each do |item|
-        file.puts "<h2><a href=\"#{item.link}\">#{item.title}</a></h2>"
-        file.puts "#{item.description}"
-      end
-    end
-
-  end
-
-end
-
-desc 'Generate tag cloud'
-task :cloud do
-    puts 'Generating tag cloud...'
-    require 'rubygems'
-    require 'jekyll'
-    include Jekyll::Filters
-
-    options = Jekyll.configuration({})
-    site = Jekyll::Site.new(options)
-    site.read_posts('')
-
-    html = ''
-
-    site.tags.each do |tag, posts|
-
-      s = posts.count
-
-      if s < 40 then
-        next
-      end
-
-      font_size = (Math.log(s)*1.5).round
-      class_name = 'size_%d' % font_size
-      html << "<li class=\"#{class_name}\">
-            <a href=\"/tag/#{tag.downcase}/\"
-               title=\"Pages tagged #{tag}\" rel=\"tag\">
-            #{tag}</a></li>"
-    end
-
-    File.open('_includes/tags.html', 'w+') do |file|
-      file.puts html
-    end
-
-    puts 'Done.'
-  end
-
 
 desc 'Generate tags page'
 task :tags do
