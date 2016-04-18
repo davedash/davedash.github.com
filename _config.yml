@@ -1,7 +1,11 @@
 highlighter: pygments
 markdown: rdiscount
 permalink: pretty
-# lsi: true
+paginate: 9
+paginate_path: "/archive/:num"
+gems: [jekyll-paginate]
+
+lsi: true
 exclude:
   - Rakefile
   - tagfucker.py

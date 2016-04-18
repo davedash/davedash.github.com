@@ -2,11 +2,19 @@
 layout: default
 title: archives | dave dash
 ---
-<h2>This is everything</h2>
-<p>Most of this is fairly embarassing and of poor quality.</p>
-<ol>
-{% for post in site.posts %}
-  {% include item.html %}
-{% endfor %}
-</ol>
 
+<div id="posts" class="container">
+  {% for post in paginator.posts %}
+    {% assign date=post.date | date: '%-d %B %Y' %}
+    {% assign tag=post.tags[0] %}
+    {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > paginator.page %}
+<div class="col-md-12">
+  <div class="text-center">
+    <a href="{{ paginator.next_page_path }}" class="btn btn-ada-dark load-more">Next &raquo;</a>
+  </div>
+</div>
+{% endif %}
