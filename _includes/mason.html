@@ -1,0 +1,29 @@
+<section class="col-md-4 wow fadeIn">
+  <div class="post">
+    {% if include.image %}
+    <div class="media">
+      <img src="{{ include.image }}" class="img-responsive" />
+    </div>
+    {% elsif include.media %}
+    <div class="media">
+      {{ include.media }}
+    </div>
+    {% endif %}
+    <div class="caption text-center">
+
+      <span class="post-tag">#{{ include.tag }}</span>
+      <a href="{{ include.url }}" class="post-title">{{ include.title }}</a>
+      <span class="post-date">{{ include.date }}</span>
+
+      <p class="post-description">
+        {{ include.description }}
+      </p>
+      {% assign more="Read full post" %}
+      {% if include.more %}
+      {% assign more=include.more %}
+      {% endif %}
+      <a class="btn btn-ada-dark" href="{{ include.url }}">{{ more }}</a>
+
+    </div>
+  </div>
+</section>

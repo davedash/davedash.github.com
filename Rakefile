@@ -38,13 +38,20 @@ title: Entries tagged "#{category}"
 tag: #{category}
 type: "#{category.gsub(/\b\w/){$&.upcase}}"
 ---
-    <h2 id="#{category}">Entries tagged "#{category}"</h2>
-
-    <ol>
+    <h1 id="#{category}">Entries tagged &ldquo;#{category}&rdquo;</h1>
+    <div id="posts" class="container">
       {% for post in site.tags['#{category}'] %}
-      {% include item.html %}
+        {% assign date=post.date | date: '%-d %B %Y' %}
+        {% assign tag='' %}
+        {% for tag_ in post.tags %}
+          {% if tag_ != "#{category}" %}
+            {% assign tag=tag_ %}
+          {% endif %}
+        {% endfor %}
+        {% include mason.html tag=tag date=date description=post.excerpt url=post.url title=post.title %}
       {% endfor %}
-    </ol>
+    </div>
+
     HTML
 
     FileUtils.mkdir_p "tag/#{category.downcase}"
