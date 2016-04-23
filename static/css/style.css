@@ -13,3 +13,12 @@
   font-size: 100px;
   color: #FF7C26 !important;
 }
+
+span.octocat {
+  padding-left: 20px;
+  margin-left: 3px;
+  background-size: 18px;
+  line-height: 20px;
+  background-image: url('../images/Github-Mark-32px.png');
+  background-repeat: no-repeat;
+}
