@@ -1,4 +1,3 @@
-highlighter: pygments
 permalink: pretty
 paginate: 9
 paginate_path: "/archive/:num"
