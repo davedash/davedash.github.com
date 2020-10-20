@@ -22,4 +22,4 @@ I've [written a tutorial to get you started with PyQuery][pq].
 If you are getting started with Jinja templates you should [learn about
 macros][m].
 
-[m]: /tutorial/jinja-macros
+[m]: https://blog.dadops.co/2013/08/18/dry-with-jinja-templates/
