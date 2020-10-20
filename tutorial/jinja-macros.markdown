@@ -1,6 +1,7 @@
 ---
 title: DRY with Jinja Macros
 layout: tutorial
+redirect_to: https://blog.dadops.co/2013/08/18/dry-with-jinja-templates/
 ---
 [Jinja][j] is a great templating language that's used with python.  One of the easiest ways to not repeat yourself in Jinja is to use macros.
 

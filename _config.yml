@@ -1,7 +1,10 @@
 permalink: pretty
 paginate: 9
 paginate_path: "/archive/:num"
-gems: [jekyll-paginate]
+
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 lsi: true
 exclude:
