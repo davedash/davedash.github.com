@@ -1,10 +1,8 @@
 ---
-wordpress_id: 225
 layout: post
 title: Database versus files for Images
-wordpress_url: http://spindrop.us/?p=225
-site: spindrop
-tags: [spindrop, database, django]
+redirect_to: https://blog.dadops.co/2009/02/18/database-versus-files-for-images/
+tags: [database, django]
 ---
 This is a dead topic for sure, but one of the bad web development habits I had picked up was that storing everything in a database made things easier.
 
@@ -21,4 +19,4 @@ Furthermore in a cached environment or even an environment that utilizes a CDN, 
 
 I've been porting an app from symfony to django for some time, and I had been serving images via the database.  Immediately when I switched to the filesystem I saw a huge benefit.  Not just a drop in database connections, but overall "zippiness" in the site.
 
-We'll see how well this performs in the real world, but I am quite sure that I learned my lesson. 
+We'll see how well this performs in the real world, but I am quite sure that I learned my lesson.
